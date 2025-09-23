@@ -18198,7 +18198,7 @@
   <game name="Adventures of Batman n Robin" index="true" image="'">
       <description>Adventures of Batman n Robin</description>
       <manufacturer>SEGA</manufacturer>
-      <iscoredid></iscoredid>
+      <iscoredid>82347</iscoredid>
       <iscoredtype>descending</iscoredtype>
       <ctrltype>8  way</ctrltype>
       <year>1994</year>
@@ -18207,7 +18207,7 @@
   <game name="Alien Soldier" index="true" image="'">
       <description>Alien Soldier</description>
       <manufacturer>SEGA</manufacturer>
-      <iscoredid></iscoredid>
+      <iscoredid>82345,82346</iscoredid>
       <iscoredtype>descending</iscoredtype>
       <ctrltype>8  way</ctrltype>
       <year>1995</year>
@@ -18288,7 +18288,7 @@
   <game name="Vectorman" index="true" image="'">
       <description>Vectorman</description>
       <manufacturer>SEGA</manufacturer>
-      <iscoredid></iscoredid>
+      <iscoredid>82348,82349,82350</iscoredid>
       <iscoredtype>descending</iscoredtype>
       <ctrltype>8  way</ctrltype>
       <year>1995</year>
