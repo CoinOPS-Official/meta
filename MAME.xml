@@ -7395,7 +7395,7 @@
           <players>1</players>
           <ctrltype>analog</ctrltype>
           <manufacturer>SEGA</manufacturer>
-          <iscoredid>32138</iscoredid>
+          <iscoredid>82303,82304,82305,82306,82307</iscoredid>
           <iscoredtype>descending</iscoredtype>
     </game>
   <game name="pengo" index="true" image="'">
@@ -10664,7 +10664,7 @@
   <game name="Ninja Warriors" index="true" image="'">
           <description>Ninja Warriors</description>
           <manufacturer>SNES</manufacturer>
-          <iscoredid></iscoredid>
+          <iscoredid>55644,55645</iscoredid>
           <iscoredtype>descending</iscoredtype>
           <year>1994</year>
           <players>SNES</players>
@@ -10784,7 +10784,7 @@
   <game name="Super Mario World 1" index="true" image="'">
           <description>Super Mario World 1</description>
           <manufacturer>SNES</manufacturer>
-          <iscoredid></iscoredid>
+          <iscoredid>82328</iscoredid>
           <iscoredtype>descending</iscoredtype>
           <year>1990</year>
           <players>SNES</players>
@@ -10792,7 +10792,7 @@
   <game name="Super Mario World 2" index="true" image="'">
           <description>Super Mario World 2</description>
           <manufacturer>SNES</manufacturer>
-          <iscoredid></iscoredid>
+          <iscoredid>82329</iscoredid>
           <iscoredtype>descending</iscoredtype>
           <year>1995</year>
           <players>SNES</players>
@@ -10864,7 +10864,7 @@
   <game name="International Karate Plus" index="true" image="'">
           <description>International Karate Plus</description>
           <manufacturer>GBA</manufacturer>
-          <iscoredid>555783,55784,55785</iscoredid>
+          <iscoredid>55783,55784,55785</iscoredid>
           <iscoredtype>descending</iscoredtype>
           <year>2001</year>
           <players>GBA</players>
@@ -12505,8 +12505,8 @@
   <game name="sfrush" index="true" image="">
       		<description>San Francisco Rush</description>
       		<manufacturer>Atari</manufacturer>
-      		<iscoredid>32403</iscoredid>
-      		<iscoredtype>descending</iscoredtype>
+      		<iscoredid>82308,82309,82310</iscoredid>
+      		<iscoredtype>timeascending</iscoredtype>
       		<year>1996</year>
       		<players>1</players>
       		<ctrltype>analog</ctrltype>
@@ -12555,8 +12555,8 @@
   <game name="slipstrm" index="true" image="">
       		<description>Slip Stream</description>
       		<manufacturer>Capcom</manufacturer>
-      		<iscoredid>34714</iscoredid>
-      		<iscoredtype>descending</iscoredtype>
+      		<iscoredid>82311,82312,82313,82314</iscoredid>
+      		<iscoredtype>timeascending</iscoredtype>
       		<year>1995</year>
       		<players>1</players>
       		<ctrltype>analog</ctrltype>
@@ -18297,7 +18297,7 @@
   <game name="Toejam and Earl" index="true" image="'">
       <description>Toejam and Earl</description>
       <manufacturer>SEGA</manufacturer>
-      <iscoredid></iscoredid>
+      <iscoredid>82331</iscoredid>
       <iscoredtype>descending</iscoredtype>
       <ctrltype>8  way</ctrltype>
       <year>1991</year>
