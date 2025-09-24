@@ -11169,7 +11169,7 @@
           <description>Mario Golf</description>
           <manufacturer>GameCube</manufacturer>
           <iscoredid>82397,82398,82400,82401,82402,82403,82404,82405</iscoredid>
-          <iscoredtype>ascending</iscoredtype>
+          <iscoredtype>ascending,ascending,ascending,ascending,ascending,ascending,timeascending,timeascending</iscoredtype>
           <year>2003</year>
           <players>GameCube</players>
     </game>
