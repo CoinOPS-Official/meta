@@ -10768,7 +10768,7 @@
   <game name="Super Mario All Stars" index="true" image="'">
           <description>Super Mario All Stars</description>
           <manufacturer>SNES</manufacturer>
-          <iscoredid></iscoredid>
+          <iscoredid>82374,82375,82376,82377,82378</iscoredid>
           <iscoredtype>descending</iscoredtype>
           <year>1993</year>
           <players>SNES</players>
