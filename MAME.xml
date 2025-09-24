@@ -11264,8 +11264,8 @@
   <game name="Mario Kart 64" index="true" image="'">
           <description>Mario Kart 64</description>
           <manufacturer>N64</manufacturer>
-          <iscoredid></iscoredid>
-          <iscoredtype>descending</iscoredtype>
+          <iscoredid>82379,82381,82382,82383,82384,82385,82386,82387,82388,82389,82390,82391,82392,82393,82394,82395</iscoredid>
+          <iscoredtype>timeascending</iscoredtype>
           <year>1996</year>
           <players>N64</players>
     </game>
