@@ -18189,7 +18189,7 @@
   <game name="Tetris Dr Mario" index="true" image="'">
       <description>Tetris Dr Mario</description>
       <manufacturer>Nintendo</manufacturer>
-      <iscoredid></iscoredid>
+      <iscoredid>82454,82456,82457,82458,82459</iscoredid>
       <iscoredtype>descending</iscoredtype>
       <ctrltype>8  way</ctrltype>
       <year>1994</year>
