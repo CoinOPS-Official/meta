@@ -11184,8 +11184,8 @@
   <game name="1080 Avalanche" index="true" image="'">
           <description>1080 Avalanche</description>
           <manufacturer>GameCube</manufacturer>
-          <iscoredid></iscoredid>
-          <iscoredtype>descending</iscoredtype>
+          <iscoredid>82445,82446,82447,82448,82449,82450,82451,82452,82453</iscoredid>
+          <iscoredtype>descending,descending,descending,timeascending,timeascending,timeascending,descending,descending,descending</iscoredtype>
           <year>2003</year>
           <players>GameCube</players>
     </game>
