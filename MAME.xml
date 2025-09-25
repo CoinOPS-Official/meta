@@ -10776,8 +10776,8 @@
   <game name="Super Mario Kart" index="true" image="'">
           <description>Super Mario Kart</description>
           <manufacturer>SNES</manufacturer>
-          <iscoredid></iscoredid>
-          <iscoredtype>descending</iscoredtype>
+          <iscoredid>82428,82429,82430,82431,82432,82434,82435,82436,82437,82438,82439,82440,82441,82442,82443</iscoredid>
+          <iscoredtype>timeascending</iscoredtype>
           <year>1992</year>
           <players>SNES</players>
     </game>
