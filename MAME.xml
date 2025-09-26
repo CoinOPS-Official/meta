@@ -11200,8 +11200,8 @@
   <game name="1080 Snowboarding (Europe) (En,Ja,Fr,De)" index="true" image="'">
           <description>1080 Snowboarding (Europe) (En,Ja,Fr,De)</description>
           <manufacturer>N64</manufacturer>
-          <iscoredid></iscoredid>
-          <iscoredtype>descending</iscoredtype>
+          <iscoredid>82556,82557,82558,82560,82561,82562,82563,82564</iscoredid>
+          <iscoredtype>timeascending,timeascending,timeascending,descending,descending,descending,descending,descending</iscoredtype>
           <year>1998</year>
           <players>N64</players>
     </game>
