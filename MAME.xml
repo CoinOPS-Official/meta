@@ -33,8 +33,8 @@
       		<players>4</players>
       		<ctrltype>buttons  only</ctrltype>
       		<manufacturer>Konami</manufacturer>
-      		<iscoredid>32343</iscoredid>
-      		<iscoredtype>descending</iscoredtype>
+      		<iscoredid>82569,82570,82571,82572,82573,82574,82575,82576</iscoredid>
+      		<iscoredtype>timeascending,timeascending,descending,distancecmandmetresdescending,distancecmandmetresdescending,distancecmandmetresdescending,descending,descending</iscoredtype>
     </game>
   <game name="aceattac" index="true">
       		<description>Ace Attacker (FD1094 317-0059)</description>
