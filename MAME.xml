@@ -18303,5 +18303,5376 @@
       <year>1991</year>
       <players>2</players>
     </game>
-
+<game name="Alien_Isolation" index="true" image="">
+		<description>Alien Isolation</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>81817</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Alien_vs_Predator" index="true" image="">
+		<description>Alien vs. Predator</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>5</score>
+		<iscoredid>81818</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Aliens1" index="true" image="">
+		<description>Aliens</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>5</score>
+		<iscoredid>81819</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="AmericanDad" index="true" image="">
+		<description>American Dad!</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2015</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>81820</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Amusement_Park" index="true" image="">
+		<description>Adventure Land</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Archer" index="true" image="">
+		<description>Archer</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2015</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>81822</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Atlantis" index="true" image="">
+		<description>Secrets of the Deep</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="BALLY_Attack_from_Mars" index="true" image="">
+		<description>Attack from Mars</description>
+		<cloneof></cloneof>
+		<manufacturer>Midway</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>5</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>  
+  <game name="BALLY_BlackRose" index="true" image="">
+		<description>Black Rose</description>
+		<cloneof></cloneof>
+		<manufacturer>Midway</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="BALLY_Champion_Pub" index="true" image="">
+		<description>Champion Pub</description>
+		<cloneof></cloneof>
+		<manufacturer>Midway</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+	<game name="BALLY_Dr_Dude" index="true" image="">
+		<description>Dr Dude</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>1</players>
+		<year>2019</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+	</game>  
+  <game name="BALLY_Party_Zone" index="true" image="">
+		<description>Party Zone</description>
+		<cloneof></cloneof>
+		<manufacturer>Midway</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>  
+  <game name="BALLY_Safe_Cracker" index="true" image="">
+		<description>Safe Cracker</description>
+		<cloneof></cloneof>
+		<manufacturer>Midway</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>  
+  <game name="BALLY_TheatreOfMagic" index="true" image="">
+		<description>Theatre Of Magic</description>
+		<cloneof></cloneof>
+		<manufacturer>Midway</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>  
+  <game name="BETHESDA_Doom" index="true" image="">
+		<description>DOOM</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82755</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="BETHESDA_Fallout" index="true" image="">
+		<description>Fallout</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>81833</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="BETHESDA_Skyrim" index="true" image="">
+		<description>Elder Scrolls V: Skyrim</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82756</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="BioLab" index="true" image="">
+		<description>Biolab</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="BobsBurgers" index="true" image="">
+		<description>Bob&apos;s Burgers</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2015</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>81835</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="CastleStorm" index="true" image="">
+		<description>CastleStorm</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2015</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Citadel" index="true" image="">
+		<description>Sorcerer&apos;s Lair</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+    <game name="BALLY_Creature_from_the_Black_Lagoon" index="true" image="">
+		<description>Creature From The Black Lagoon</description>
+		<cloneof></cloneof>
+		<manufacturer>Midway</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="EarthDefense" index="true" image="">
+		<description>Earth Defense</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>81839</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Eldorado" index="true" image="">
+		<description>El Dorado</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>81840</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Excalibur" index="true" image="">
+		<description>Excalibur</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="FamilyGuy" index="true" image="">
+		<description>Family Guy</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2015</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>81843</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Hercules" index="true" image="">
+		<description>Son of Zeus</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_Hurricane" index="true" image="">
+		<description>Hurricane</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Looter" index="true" image="">
+		<description>Epic Quest</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="PF3Mars" index="true" image="">
+		<description>Mars</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82777</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_Age_of_Ultron" index="true" image="">
+		<description>Marvel - Avengers Age of Ultron</description>
+		<cloneof />
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2015</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_Ant-Man" index="true" image="">
+		<description>Marvel - Ant-Man</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2015</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_Avengers" index="true" image="">
+		<description>Marvel - Avengers</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_Blade" index="true" image="">
+		<description>Marvel - Blade</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_CaptainAmerica" index="true" image="">
+		<description>Marvel - Captain America</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_CivilWar" index="true" image="">
+		<description>Marvel - Civil War</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_Deadpool" index="true" image="">
+		<description>Marvel - Deadpool</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2014</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_DrStrange" index="true" image="">
+		<description>Marvel - Doctor Strange</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_FantasticFour" index="true" image="">
+		<description>Marvel - Fantastic Four</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_FearItSelf" index="true" image="">
+		<description>Marvel - Fear Itself</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_GhostRider" index="true" image="">
+		<description>Marvel - Ghost Rider</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_Guardians" index="true" image="">
+		<description>Marvel - Guardians of the Galaxy</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2014</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_InfinityGauntlet" index="true" image="">
+		<description>Marvel - Infinity Gauntlet</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_IronMan" index="true" image="">
+		<description>Marvel - Iron Man</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_MoonKnight" index="true" image="">
+		<description>Marvel - Moon Knight</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_MsMarvel" index="true" image="">
+		<description>Marvel - A-Force</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_SpiderMan" index="true" image="">
+		<description>Marvel - Spider-Man</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_Thor" index="true" image="">
+		<description>Marvel - Thor</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_Venom" index="true" image="">
+		<description>Marvel - Venom</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2014</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_Wolverine" index="true" image="">
+		<description>Marvel - Wolverine</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_WOP_TheNextGeneration" index="true" image="">
+		<description>Marvel - Champions</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_WWH" index="true" image="">
+		<description>Marvel - World War Hulk</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MARVEL_XMen" index="true" image="">
+		<description>Marvel - X-Men</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_Monster_Bash" index="true" image="">
+		<description>Monster Bash</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Paranormal" index="true" image="">
+		<description>Paranormal</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82759</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Pasha" index="true" image="">
+		<description>Pasha</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Portal" index="true" image="">
+		<description>Portal</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2015</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82779</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_Roadshow" index="true" image="">
+		<description>Red and Ted's Road Show</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="RedCup1" index="true" image="">
+		<description>Star Wars - Solo</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="RedCup2" index="true" image="">
+		<description>Star Wars - Calrissian Chronicles</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game> 
+  <game name="RedCup3" index="true" image="">
+		<description>Star Wars - Battle of Mimban</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Rome" index="true" image="">
+		<description>Rome</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Shaman" index="true" image="">
+		<description>Shaman</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82780</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="SpaceBear1" index="true" image="">
+		<description>Star Wars - Last Jedi</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>  
+  <game name="SpaceBear2" index="true" image="">
+		<description>Star Wars - Ahch-To Island</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>  
+  <game name="STARWARS_AVCO2" index="true" image="">
+		<description>Star Wars - Might of the First Order</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_Boba_Fett" index="true" image="">
+		<description>Star Wars - Boba Fett</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_CloneWars" index="true" image="">
+		<description>Star Wars - Clone Wars</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_Darth_Vader" index="true" image="">
+		<description>Star Wars - Darth Vader</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_Droids" index="true" image="">
+		<description>Star Wars - Droids</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2014</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_Episode_4" index="true" image="">
+		<description>Star Wars - A New Hope</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2014</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_Episode_5" index="true" image="">
+		<description>Star Wars - Empire Strikes Back</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_Episode_6" index="true" image="">
+		<description>Star Wars - Return of the Jedi</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_Episode7" index="true" image="">
+		<description>Star Wars - Force Awakens</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_Han_Solo" index="true" image="">
+		<description>Star Wars - Han Solo</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2014</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_LAPB" index="true" image="">
+		<description>Star Wars - Rogue One</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2014</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_Light_VS_Dark" index="true" image="">
+		<description>Star Wars - Masters of the Force</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2014</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_Rebels" index="true" image="">
+		<description>Star Wars - Rebels</description>
+		<cloneof />
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2015</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="STARWARS_SFA" index="true" image="">
+		<description>Star Wars - Starfighter Assault</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Tesla" index="true" image="">
+		<description>Tesla</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82782</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="TheWalkingDead" index="true" image="">
+		<description>Walking Dead</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2014</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82783</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="UNIVERSAL_BTTF" index="true" image="">
+		<description>Back To The Future</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="UNIVERSAL_ET" index="true" image="">
+		<description>E.T.</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="UNIVERSAL_Jaws" index="true" image="">
+		<description>Jaws</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="UNIVERSAL_Jurassic_Park" index="true" image="">
+		<description>Jurassic Park Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="UNIVERSAL_Jurassic_Theme_Park" index="true" image="">
+		<description>Jurassic Park Pinball Mayhem</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="UNIVERSAL_Jurassic_World" index="true" image="">
+		<description>Jurassic World Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="V12" index="true" image="">
+		<description>V12</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82784</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Western" index="true" image="">
+		<description>Wild West Rampage</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2015</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_Fish_Tales" index="true" image="">
+		<description>Fish Tales</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_Funhouse" index="true" image="w">
+		<description>Funhouse</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<year>2019</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_Getaway" index="true" image="">
+		<description>Getaway: High Speed II</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>  
+  <game name="WMS_Junkyard" index="true" image="">
+		<description>Junk Yard</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_Medieval_Madness" index="true" image="">
+		<description>Medieval Madness</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_Space_Station" index="true" image="">
+		<description>Space Station</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<year>2019</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_White_Water" index="true" image="">
+		<description>White Water</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="BALLY_Cirqus_Voltaire" index="true" image="">
+		<description>Cirqus_Voltaire</description>
+		<cloneof></cloneof>
+		<manufacturer>Midway</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_No_Good_Gofers" index="true" image="">
+		<description>No Good Gofers</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="WMS_Tales_of_the_Arabian_Nights" index="true" image="">
+		<description>Tales of the Arabian Nights</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game> 
+  <game name="WMS_Indiana_Jones" index="true" image="">
+		<description>Indiana Jones: The Pinball Adventure</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game> 
+  <game name="SouthPark2" index="true" image="">
+		<description>SouthPark 2</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="SouthPark1" index="true" image="">
+		<description>SouthPark 1</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game> 
+  <game name="Football" index="true" image="">
+		<description>Football</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="PlantsVsZombies" index="true" image="">
+		<description>Plants Vs Zombies</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82778</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="MsSplosionMan" index="true" image="">
+		<description>Ms. Splosion Man</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82757</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 1" index="true" image="">
+		<description>Marvel's Civil War</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82792</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 2" index="true" image="">
+		<description>Star Wars Pinball: Masters of the Force</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82793</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 4" index="true" image="">
+		<description>South Park: Super Sweet Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82794</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 5" index="true" image="">
+		<description>Marvel's Fear Itself</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82795</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 6" index="true" image="">
+		<description>Star Wars Pinball: Starfighter Assault</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82796</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 7" index="true" image="">
+		<description>Marvel's Thor</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82800</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 10" index="true" image="">
+		<description>Star Wars Pinball: Han Solo</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82801</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 12" index="true" image="">
+		<description>Star Wars Pinball: Episode IV A New Hope</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82805</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 17" index="true" image="">
+		<description>Marvel's Avengers</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82808</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 20" index="true" image="">
+		<description>Excalibur</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82814</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 21" index="true" image="">
+		<description>Marvel's Ghost Rider</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82815</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 22" index="true" image="">
+		<description>Marvel's Deadpool</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82819</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 23" index="true" image="">
+		<description>Pasha</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82824</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 24" index="true" image="">
+		<description>Star Wars Pinball: Episode VI Return of the Jedi</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82838</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 27" index="true" image="">
+		<description>BioLab</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.2</score>
+		<iscoredid>82841</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 28" index="true" image="">
+		<description>Star Wars Pinball: Darth Vader</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.2</score>
+		<iscoredid>82853</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 29" index="true" image="">
+		<description>Adventure Land</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82857</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 30" index="true" image="">
+		<description>Marvel's Doctor Strange</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82876</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 31" index="true" image="">
+		<description>Rome</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82879</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 33" index="true" image="">
+		<description>Sorcerer’s Lair</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82882</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 36" index="true" image="">
+		<description>Football Super League</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82883</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 38" index="true" image="">
+		<description>Marvel's Fantastic Four</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82884</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 40" index="true" image="">
+		<description>CastleStorm</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82885</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 43" index="true" image="">
+		<description>Star Wars Pinball: Episode V The Empire Strikes Back</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82886</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 45" index="true" image="">
+		<description>Marvel's Blade</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82887</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 46" index="true" image="">
+		<description>Marvel's Spider-Man</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.2</score>
+		<iscoredid>82889</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 47" index="true" image="">
+		<description>Star Wars Pinball: Clone Wars</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82890</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 48" index="true" image="">
+		<description>Marvel's Captain America</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82891</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 49" index="true" image="">
+		<description>Marvel's Moon Knight</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82892</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 50" index="true" image="">
+		<description>Marvel's Guardians of the Galaxy</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82893</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 53" index="true" image="">
+		<description>Star Wars Pinball: Boba Fett</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.2</score>
+		<iscoredid>82894</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 55" index="true" image="">
+		<description>South Park: Butters’ Very Own Pinball Game</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82895</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 56" index="true" image="">
+		<description>Marvel's World War Hulk</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82896</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 58" index="true" image="">
+		<description>Star Wars Pinball: Droids</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82898</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 59" index="true" image="">
+		<description>Marvel's X-Men</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82899</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 60" index="true" image="">
+		<description>Marvel's Infinity Gauntlet</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82900</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 65" index="true" image="">
+		<description>Marvel's Iron Man</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82901</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 66" index="true" image="">
+		<description>Secrets of the Deep</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82902</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 67" index="true" image="">
+		<description>Epic Quest</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>82903</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 71" index="true" image="">
+		<description>Marvel's Wolverine</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82904</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 73" index="true" image="">
+		<description>Marvel's Venom</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82905</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 75" index="true" image="">
+		<description>Wild West Rampage</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82906</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 77" index="true" image="">
+		<description>Star Wars Pinball: Rebels</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82907</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 78" index="true" image="">
+		<description>Marvel's Avengers: Age of Ultron</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82908</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 79" index="true" image="">
+		<description>Marvel's Ant-Man</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82909</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 80" index="true" image="">
+		<description>Hercules Son of Zeus</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82910</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 88" index="true" image="">
+		<description>Star Wars Pinball: Episode VII The Force Awakens</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82911</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 89" index="true" image="">
+		<description>Star Wars Pinball: Might of the First Order</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82912</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 93" index="true" image="">
+		<description>Marvel's Women of power A-Force</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82913</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 94" index="true" image="">
+		<description>Marvel's Women of power Champions</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82914</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 95" index="true" image="">
+		<description>Universal Jaws Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>82915</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 96" index="true" image="">
+		<description>Universal E.T. the Extra-Terrestial Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82916</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 97" index="true" image="">
+		<description>Universal Back to the Future Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82917</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 98" index="true" image="">
+		<description>Star Wars Pinball: Rogue One</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82918</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 100" index="true" image="">
+		<description>Universal Jurassic Park Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82919</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 101" index="true" image="">
+		<description>Universal Jurassic World Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82920</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 102" index="true" image="">
+		<description>Universal Jurassic Park Pinball Mayhem</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82921</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 103" index="true" image="">
+		<description>Star Wars Pinball: Episode VIII The Last Jedi</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82922</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 104" index="true" image="">
+		<description>Star Wars Pinball: Ahch-To Island</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>82923</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 105" index="true" image="">
+		<description>Star Wars Pinball: Solo</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82924</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 106" index="true" image="">
+		<description>Star Wars Pinball: Calrissian Chronicles</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82925</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 107" index="true" image="">
+		<description>Star Wars Pinball: Battle of Mimban</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82926</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 108" index="true" image="">
+		<description>Williams️ Fish Tales</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82927</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 109" index="true" image="">
+		<description>Williams️ Medieval Madness</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.5</score>
+		<iscoredid>82928</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 110" index="true" image="">
+		<description>Williams️ JunkYard</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82929</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 111" index="true" image="">
+		<description>Williams️ Getaway: High Speed II</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.2</score>
+		<iscoredid>82930</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 112" index="true" image="">
+		<description>Curse of the Mummy</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82931</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 113" index="true" image="">
+		<description>Sky Pirates: Treasures of the Clouds</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82932</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 117" index="true" image="">
+		<description>Williams️ Theatre of Magic</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.5</score>
+		<iscoredid>82933</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 118" index="true" image="">
+		<description>Williams️ Black Rose</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82934</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 119" index="true" image="">
+		<description>Williams️ Attack from Mars</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82935</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 120" index="true" image="">
+		<description>Williams️ Party Zone</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82938</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 121" index="true" image="">
+		<description>Williams️ Champion Pub</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82946</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 122" index="true" image="">
+		<description>Williams️ Safe Cracker</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82947</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 123" index="true" image="">
+		<description>Pinball Noir</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82948</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 124" index="true" image="">
+		<description>Williams️ White Water</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82949</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 125" index="true" image="">
+		<description>Williams️ Red and Ted’s Road Show</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82950</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 126" index="true" image="">
+		<description>Williams️ Hurricane</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82951</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 127" index="true" image="">
+		<description>Williams️ Cirqus Voltaire</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.5</score>
+		<iscoredid>82952</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 128" index="true" image="">
+		<description>Williams️ No Good Gofers</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82953</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 129" index="true" image="">
+		<description>Williams️ Space Station️</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82954</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 130" index="true" image="">
+		<description>Williams️ Monster Bash</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82955</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 131" index="true" image="">
+		<description>Williams️ Creature from the Black Lagoon</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.2</score>
+		<iscoredid>82956</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 132" index="true" image="">
+		<description>Williams️ Tales of the Arabian Nights</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.5</score>
+		<iscoredid>82957</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 133" index="true" image="">
+		<description>Williams️ Indiana Jones: The Pinball Adventure</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.5</score>
+		<iscoredid>82958</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 134" index="true" image="">
+		<description>Williams️ Funhouse</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.2</score>
+		<iscoredid>82959</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 135" index="true" image="">
+		<description>Williams️ Dr. Dude and his Excellent Ray️</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>82960</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 136" index="true" image="">
+		<description>Star Wars Pinball: Mandalorian</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82961</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 137" index="true" image="">
+		<description>Star Wars Pinball: Classic Collectibles</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82962</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 138" index="true" image="">
+		<description>My Little Pony</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82963</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 139" index="true" image="">
+		<description>DreamWorks Kung Fu Panda Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>82964</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 140" index="true" image="">
+		<description>DreamWorks Trolls Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82965</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 141" index="true" image="">
+		<description>DreamWorks How to Train Your Dragon Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82966</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 145" index="true" image="">
+		<description>Garfield Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>82967</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 146" index="true" image="">
+		<description>Peanuts’ Snoopy Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82968</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 147" index="true" image="">
+		<description>Wrath of the Elder Gods</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>82969</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 148" index="true" image="">
+		<description>Williams️ PINBOT The Machine️: Bride of Pin·Bot️</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>82970</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 149" index="true" image="">
+		<description>Williams️ Swords of Fury</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82971</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 150" index="true" image="">
+		<description>Gearbox Homeworld: Journey to Hiigara Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82972</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 151" index="true" image="">
+		<description>Gearbox Brothers in Arms: Win the War Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82973</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 152" index="true" image="">
+		<description>Gearbox Borderlands: Vault Hunter Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82974</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 153" index="true" image="">
+		<description>Legendary Kong Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>82975</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 154" index="true" image="">
+		<description>World War Z Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82976</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 155" index="true" image="">
+		<description>Grimm Tales</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82977</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 156" index="true" image="">
+		<description>Williams️ Addams Family</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.7</score>
+		<iscoredid>82978</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 157" index="true" image="">
+		<description>Williams️ World Cup Soccer</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.7</score>
+		<iscoredid>82979</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 158" index="true" image="">
+		<description>Legendary Godzilla Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82980</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 160" index="true" image="">
+		<description>Legendary Godzilla vs Kong Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2024</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82981</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 161" index="true" image="">
+		<description>Crypt of the NecroDancer Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82982</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 162" index="true" image="">
+		<description>Williams️ Twilight Zone</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.7</score>
+		<iscoredid>82983</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 163" index="true" image="">
+		<description>Williams️ Star Trek: The Next Generation</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>82984</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 164" index="true" image="">
+		<description>Verne’s Mysterious Island</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82985</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 165" index="true" image="">
+		<description>A Samurai’s Vengeance</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>82986</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 166" index="true" image="">
+		<description>Star Trek Pinball: Kelvin Timeline</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82987</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 167" index="true" image="">
+		<description>Xena: Warrior Princess Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82988</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 168" index="true" image="">
+		<description>Williams️ Whirlwind</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.2</score>
+		<iscoredid>82989</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 169" index="true" image="">
+		<description>Star Trek Pinball: Discovery</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82990</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 170" index="true" image="">
+		<description>Universal Battlestar Galactica Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82991</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 172" index="true" image="">
+		<description>Star Trek Pinball: Deep Space Nine</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82992</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 173" index="true" image="">
+		<description>Terraforming Mars Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82993</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 177" index="true" image="">
+		<description>Knight Rider Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>82994</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 178" index="true" image="">
+		<description>Exploding Kittens: A Pinball Cat-astrophe</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82995</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 179" index="true" image="">
+		<description>Gloomhaven Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82996</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 181" index="true" image="">
+		<description>Peanuts’ A Charlie Brown Christmas Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82997</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 182" index="true" image="">
+		<description>Tomb Raider Pinball: Adventures of Lara Croft</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82998</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 183" index="true" image="">
+		<description>System Shock Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82999</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 184" index="true" image="">
+		<description>Princess Bride Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83000</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 186" index="true" image="">
+		<description>Pacific Rim Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83001</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 187" index="true" image="">
+		<description>Goat Simulator Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83002</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 188" index="true" image="">
+		<description>Williams️ Banzai Run</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2023</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>83003</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 189" index="true" image="">
+		<description>Williams️ Earthshaker!</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>83004</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 190" index="true" image="">
+		<description>Williams️ Black Knight 2000</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>83005</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 191" index="true" image="">
+		<description>Camp Bloodbrook</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>82790</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 192" index="true" image="">
+		<description>Tomb Raider Pinball: Secrets of Croft Manor</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83006</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 194" index="true" image="">
+		<description>Williams️ PINBOT</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.3</score>
+		<iscoredid>83007</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 195" index="true" image="">
+		<description>Williams️ WHO dunnit</description>
+		<cloneof></cloneof>
+		<manufacturer>Bally</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>83008</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 196" index="true" image="">
+		<description>Williams️ TAXI</description>
+		<cloneof></cloneof>
+		<manufacturer>Williams</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.2</score>
+		<iscoredid>83009</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 171" index="true" image="">
+		<description>Chucky's Killer Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82785</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 174" index="true" image="">
+		<description>Dead by Deadlight Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82786</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 175" index="true" image="">
+		<description>The Thing Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82787</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 176" index="true" image="">
+		<description>Duke Nukem's Big Shot Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82788</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Table 180" index="true" image="">
+		<description>Texas Chainsaw Massacre Pinball</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>82789</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="NinjaGaiden" index="true" image="">
+		<description>Ninja Gaiden Sigma 2</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2010</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>82758</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="StreetFighter2" index="true" image="">
+		<description>Street Fighter II</description>
+		<cloneof></cloneof>
+		<manufacturer>Zen Studios</manufacturer>
+		<developer>Zen Studios</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2010</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.3</score>
+		<iscoredid>82781</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Aerobatics" index="true" image="">
+		<description>Aerobatics (Zaccaria 1977)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1977</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.2</score>
+		<iscoredid>83010</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Aerobatics Retro" index="true" image="">
+		<description>Aerobatics Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83011</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Aliens_ZPT" index="true" image="">
+		<description>Aliens (Magic Pixel 2016)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.3</score>
+		<iscoredid>83012</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Battle Tank" index="true" image="">
+		<description>Battle Tank (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.4</score>
+		<iscoredid>83013</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Beast Master" index="true" image="">
+		<description>Beastmaster (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83029</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Blackbelt" index="true" image="">
+		<description>Black Belt (Zaccaria 1986)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1986</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83030</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Blackbelt 2018" index="true" image="">
+		<description>Black Belt Remake (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83031</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Blackbelt Deluxe" index="true" image="">
+		<description>Black Belt Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>83032</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Blackbelt Retro" index="true" image="">
+		<description>Black Belt Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83033</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Boxing Club" index="true" image="">
+		<description>Boxing Club (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83034</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Casino" index="true" image="">
+		<description>Casino Vegas (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83035</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Caveman" index="true" image="">
+		<description>Caveman (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83036</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Cine Star" index="true" image="">
+		<description>Cine Star (Zaccaria 1974)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1974</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83037</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Cine Star Deluxe" index="true" image="">
+		<description>Cine Star Deluxe (Magic Pixel 2019)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83038</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Cine Star Retro" index="true" image="">
+		<description>Cine Star Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.4</score>
+		<iscoredid>83039</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Circus" index="true" image="">
+		<description>Circus (Zaccaria 1977)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1977</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83040</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Circus 2017" index="true" image="">
+		<description>Circus Remake (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83041</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Circus Retro" index="true" image="">
+		<description>Circus Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.4</score>
+		<iscoredid>83042</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="City Golf" index="true" image="">
+		<description>City Golf (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83113</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Cleopatra" index="true" image="">
+		<description>Cleopatra Queen of Egypt (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83114</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Clown" index="true" image="">
+		<description>Clown (Zaccaria 1985)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1985</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83115</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Clown 2019" index="true" image="">
+		<description>Clown Remake (Magic Pixel 2019)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83116</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Clown Deluxe" index="true" image="">
+		<description>Clown Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83117</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Clown Retro" index="true" image="">
+		<description>Clown Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83118</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Combat" index="true" image="">
+		<description>Combat (Zaccaria 1977)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1977</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.4</score>
+		<iscoredid>83119</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Combat Deluxe" index="true" image="">
+		<description>Combat Deluxe (Magic Pixel 2021)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2021</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83121</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Combat 2017" index="true" image="">
+		<description>Combat Remake (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83120</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Combat Retro" index="true" image="">
+		<description>Combat Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.4</score>
+		<iscoredid>83122</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Devil Riders" index="true" image="">
+		<description>Devil Riders (Zaccaria 1984)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1984</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83226</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Devil Riders 2019" index="true" image="">
+		<description>Devil Riders Remake (Magic Pixel 2019)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83227</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Devil Riders Retro" index="true" image="">
+		<description>Devil Riders Retro (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83228</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Earth Wind Fire" index="true" image="">
+		<description>Earth Wind Fire (Zaccaria 1981)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1981</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.3</score>
+		<iscoredid>83229</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Earth Wind Fire 2017" index="true" image="">
+		<description>Earth Wind Fire Remake (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83230</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Earth Wind Fire Deluxe" index="true" image="">
+		<description>Earth Wind Fire Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.0</score>
+		<iscoredid>83231</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Earth Wind Fire Retro" index="true" image="">
+		<description>Earth Wind Fire Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83232</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Farfalla" index="true" image="">
+		<description>Farfalla (Zaccaria 1983)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1983</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83234</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Farfalla 2017" index="true" image="">
+		<description>Farfalla Remake (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83235</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Farfalla Deluxe" index="true" image="">
+		<description>Farfalla Deluxe (Magic Pixel 2021)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2021</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83236</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Farfalla Retro" index="true" image="">
+		<description>Farfalla Retro (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83237</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Firefighter" index="true" image="">
+		<description>Firefighter (Magic Pixel 2016)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83244</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Fire Mountain" index="true" image="">
+		<description>Fire Mountain (Zaccaria 1980)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1980</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83238</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Fire Mountain 2019" index="true" image="">
+		<description>Fire Mountain Remake (Magic Pixel 2019)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83239</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Fire Mountain Retro" index="true" image="">
+		<description>Fire Mountain Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83243</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Future Gladiators" index="true" image="">
+		<description>Future Gladiators (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83245</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Future World" index="true" image="">
+		<description>Future World (Zaccaria 1978)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1978</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83246</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Future World 2018" index="true" image="">
+		<description>Future World Remake (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83247</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Future World Deluxe" index="true" image="">
+		<description>Future World Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83248</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Future World Retro" index="true" image="">
+		<description>Future World Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.4</score>
+		<iscoredid>83249</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Gangsters" index="true" image="">
+		<description>Gangsters (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83255</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Granada" index="true" image="">
+		<description>Granada (Zaccaria 1974)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1974</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83256</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Granada Deluxe" index="true" image="">
+		<description>Granada Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83259</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Granada Retro" index="true" image="">
+		<description>Granada Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83260</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Hippie" index="true" image="">
+		<description>Hippie (Magic Pixel 2016)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83261</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Hot Wheels" index="true" image="">
+		<description>Hot Wheels (Zaccaria 1979)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1979</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83263</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Hot Wheels 2017" index="true" image="">
+		<description>Hot Wheels Remake (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83265</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Hot Wheels Retro" index="true" image="">
+		<description>Hot Wheels Retro (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83266</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="House of Diamonds" index="true" image="">
+		<description>House of Diamonds (Zaccaria 1978)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1978</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83271</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="House of Diamonds Deluxe" index="true" image="">
+		<description>House of Diamonds Deluxe (Magic Pixel 2020)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2020</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83273</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="House of Diamonds 2017" index="true" image="">
+		<description>House of Diamonds Remake (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83272</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="House of Diamonds Retro" index="true" image="">
+		<description>House of Diamonds Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83274</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Locomotion" index="true" image="">
+		<description>Locomotion (Zaccaria 1981)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1981</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83276</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Locomotion 2018" index="true" image="">
+		<description>Locomotion Remake (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83277</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Locomotion Retro" index="true" image="">
+		<description>Locomotion Retro (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83278</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Lucky Fruit" index="true" image="">
+		<description>Lucky Fruit (Zaccaria 1975)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1975</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83282</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Lucky Fruit Retro" index="true" image="">
+		<description>Lucky Fruit Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83283</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Magic Castle" index="true" image="">
+		<description>Magic Castle (Zaccaria 1984)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1984</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83284</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Magic Castle 2017" index="true" image="">
+		<description>Magic Castle Remake (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83285</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Magic Castle Deluxe" index="true" image="">
+		<description>Magic Castle Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83286</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Magic Castle Retro" index="true" image="">
+		<description>Magic Castle Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83287</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Mexico '86" index="true" image="">
+		<description>Mexico 86 (Zaccaria 1986)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1986</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83288</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Mexico Deluxe" index="true" image="">
+		<description>Mexico 86 Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83290</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Mexico '86 Retro" index="true" image="">
+		<description>Mexico 86 Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83289</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Moon Flight" index="true" image="">
+		<description>Moon Flight (Zaccaria 1976)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1976</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83291</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Moon Flight Deluxe" index="true" image="">
+		<description>Moon Flight Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83292</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Moon Flight Retro" index="true" image="">
+		<description>Moon Flight Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83293</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Mystic Star" index="true" image="">
+		<description>Mystic Star (Zaccaria 1986)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1986</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83294</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Mystic Star Retro" index="true" image="">
+		<description>Mystic Star Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83295</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Nautilus" index="true" image="">
+		<description>Nautilus (Zaccaria 1977)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1977</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83296</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Nautilus 2018" index="true" image="">
+		<description>Nautilus Remake (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83297</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Nautilus Retro" index="true" image="">
+		<description>Nautilus Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83298</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Pinball Champ" index="true" image="">
+		<description>Pinball Champ (Zaccaria 1983)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1983</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83299</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Pinball Champ '82" index="true" image="">
+		<description>Pinball Champ '82 (Zaccaria 1982)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1982</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83301</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Pinball Champ 2018" index="true" image="">
+		<description>Pinball Champ Remake (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83300</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Pinball Champ Deluxe" index="true" image="">
+		<description>Pinball Champ Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83302</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Pinball Champ Retro" index="true" image="">
+		<description>Pinball Champ Retro (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83303</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Pool Champion" index="true" image="">
+		<description>Pool Champion (Zaccaria 1985)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1985</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83304</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Pool Champion 2018" index="true" image="">
+		<description>Pool Champion Remake (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83305</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Pool Champion Deluxe" index="true" image="">
+		<description>Pool Champion Deluxe (Magic Pixel 2020)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2020</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83306</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Pool Champion Retro" index="true" image="">
+		<description>Pool Champion Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83307</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="POSTAL Redux SS" index="true" image="">
+		<description>POSTAL Redux Solid State (Magic Pixel 2021)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2021</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="POSTAL Redux Deluxe" index="true" image="">
+		<description>POSTAL Redux Deluxe (Magic Pixel 2021)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2021</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="POSTAL Redux Remake" index="true" image="">
+		<description>POSTAL Redux Remake (Magic Pixel 2021)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2021</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83315</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="POSTAL Redux Retro" index="true" image="">
+		<description>POSTAL Redux Retro (Magic Pixel 2021)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2021</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="POSTAL 2 SS" index="true" image="">
+		<description>POSTAL 2 Solid State (Magic Pixel 2022)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2022</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83311</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="POSTAL 2 Deluxe" index="true" image="">
+		<description>POSTAL 2 Deluxe (Magic Pixel 2022)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2022</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83308</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="POSTAL 2 Remake" index="true" image="">
+		<description>POSTAL 2 Remake (Magic Pixel 2022)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2022</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83309</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="POSTAL 2 Retro" index="true" image="">
+		<description>POSTAL 2 Retro (Magic Pixel 2022)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2022</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83310</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Red Show" index="true" image="">
+		<description>Red Show (Zaccaria 1975)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1975</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83318</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Red Show Deluxe" index="true" image="">
+		<description>Red Show Deluxe (Magic Pixel 2019)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83319</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Red Show Retro" index="true" image="">
+		<description>Red Show Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.4</score>
+		<iscoredid>83320</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Robot" index="true" image="">
+		<description>Robot (Zaccaria 1985)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1975</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83321</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Robot Deluxe" index="true" image="">
+		<description>Robot Deluxe (Magic Pixel 2020)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2020</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83323</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Robot 2018" index="true" image="">
+		<description>Robot Remake (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83322</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Robot Retro" index="true" image="">
+		<description>Robot Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83326</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Shooting The Rapids" index="true" image="">
+		<description>Shooting the Rapids (Zaccaria 1979)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1979</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83329</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Shooting The Rapids 2016" index="true" image="">
+		<description>Shooting the Rapids Remake (Magic Pixel 2016)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83330</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Shooting The Rapids Deluxe" index="true" image="">
+		<description>Shooting the Rapids Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83331</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Shooting The Rapids Retro" index="true" image="">
+		<description>Shooting the Rapids Retro (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83332</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Soccer Kings" index="true" image="">
+		<description>Soccer Kings (Zaccaria 1982)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1982</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83333</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Soccer Kings Deluxe" index="true" image="">
+		<description>Soccer Kings Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83334</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Soccer Kings Retro" index="true" image="">
+		<description>Soccer Kings Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83335</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Space Shuttle" index="true" image="">
+		<description>Space Shuttle (Zaccaria 1980)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1980</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83336</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Space Shuttle Deluxe" index="true" image="">
+		<description>Space Shuttle Deluxe (Magic Pixel 2021)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2021</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83338</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Space Shuttle 2016" index="true" image="">
+		<description>Space Shuttle Remake (Magic Pixel 2016)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83337</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Space Shuttle Retro" index="true" image="">
+		<description>Space Shuttle Retro (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83339</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Speed King" index="true" image="">
+		<description>Speed King (Magic Pixel 2016)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83340</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Spooky" index="true" image="">
+		<description>Spooky (Zaccaria 1987)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1987</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83341</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Spooky Deluxe" index="true" image="">
+		<description>Spooky Deluxe (Magic Pixel 2020)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2020</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83343</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Spooky 2017" index="true" image="">
+		<description>Spooky Remake (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83342</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Spooky Retro" index="true" image="">
+		<description>Spooky Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83344</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Star God" index="true" image="">
+		<description>Star God (Zaccaria 1980)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1980</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83345</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+<game name="Star God Deluxe" index="true" image="">
+		<description>Star God Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83358</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>  
+  <game name="Star God 2019" index="true" image="">
+		<description>Star God Remake (Magic Pixel 2019)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83357</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Star God Retro" index="true" image="">
+		<description>Star God Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83359</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Star's Phoenix" index="true" image="">
+		<description>Star's Phoenix (Zaccaria 1987)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1987</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83360</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Star's Phoenix 2018" index="true" image="">
+		<description>Star's Phoenix Remake (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83361</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Star's Phoenix Retro" index="true" image="">
+		<description>Star's Phoenix Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83362</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Strike" index="true" image="">
+		<description>Strike (Zaccaria 1978)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1978</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83363</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Strike Deluxe" index="true" image="">
+		<description>Strike Deluxe (Magic Pixel 2020)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2020</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83364</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Strike Retro" index="true" image="">
+		<description>Strike Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83365</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Supersonic" index="true" image="">
+		<description>Supersonic (Zaccaria 1977)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1977</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83366</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Supersonic Retro" index="true" image="">
+		<description>Supersonic Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83368</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Supersonic Deluxe" index="true" image="">
+		<description>Supersonic Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83367</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="The Mummy" index="true" image="">
+		<description>The Mummy (Magic Pixel 2016)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83369</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Time Machine" index="true" image="">
+		<description>Time Machine (Zaccaria 1983)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1983</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83371</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Time Machine 2019" index="true" image="">
+		<description>Time Machine Remake (Magic Pixel 2019)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83372</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Time Machine Deluxe" index="true" image="">
+		<description>Time Machine Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>4.1</score>
+		<iscoredid>83373</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Time Machine Retro" index="true" image="">
+		<description>Time Machine Retro (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83374</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Top Hand" index="true" image="">
+		<description>Top Hand (Zaccaria 1974)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1974</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83375</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Top Hand Retro" index="true" image="">
+		<description>Top Hand Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83376</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Treasure" index="true" image="">
+		<description>Treasure (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83377</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Tropical" index="true" image="">
+		<description>Tropical (Zaccaria 1974)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1974</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83378</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Tropical 2019" index="true" image="">
+		<description>Tropical Remake (Magic Pixel 2019)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83379</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Tropical Deluxe" index="true" image="">
+		<description>Tropical Deluxe (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83380</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Tropical Retro" index="true" image="">
+		<description>Tropical Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83381</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Universe" index="true" image="">
+		<description>Universe (Zaccaria 1977)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1977</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83382</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Universe Deluxe" index="true" image="">
+		<description>Universe Deluxe (Magic Pixel 2020)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2020</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83383</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Universe Retro" index="true" image="">
+		<description>Universe Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83384</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Vampire" index="true" image="">
+		<description>Vampire (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83386</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Voyager" index="true" image="">
+		<description>Voyager (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83387</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Wild Games" index="true" image="">
+		<description>Wild Games (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83388</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Winter Sports" index="true" image="">
+		<description>Winter Sports (Zaccaria 1978)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1978</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83389</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Winter Sports 2018" index="true" image="">
+		<description>Winter Sports Remake (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83390</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Winter Sports Retro" index="true" image="">
+		<description>Winter Sports Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83391</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Wizard" index="true" image="">
+		<description>Wizard (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83393</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Wood's Queen" index="true" image="">
+		<description>Wood's Queen (Zaccaria 1976)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1976</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83395</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Wood's Queen 2019" index="true" image="">
+		<description>Wood's Queen Remake (Magic Pixel 2019)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83396</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Wood's Queen Retro" index="true" image="">
+		<description>Wood's Queen Retro (Magic Pixel 2025)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2025</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83397</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Zankor" index="true" image="">
+		<description>Zankor (Zaccaria 1986)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>1986</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.6</score>
+		<iscoredid>83398</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Zankor Deluxe" index="true" image="">
+		<description>Zankor Deluxe (Magic Pixel 2021)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2021</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.9</score>
+		<iscoredid>83400</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Zankor 2017" index="true" image="">
+		<description>Zankor Remake (Magic Pixel 2017)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83399</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Zankor Retro" index="true" image="">
+		<description>Zankor Retro (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.5</score>
+		<iscoredid>83401</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Zombie" index="true" image="">
+		<description>Zombie (Magic Pixel 2018)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.7</score>
+		<iscoredid>83402</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
+  <game name="Zombie Invasion" index="true" image="">
+		<description>Zombie Invasion (Magic Pixel 2019)</description>
+		<cloneof></cloneof>
+		<manufacturer>Zaccaria</manufacturer>
+		<developer>Magic Pixel</developer>
+		<players>4</players>
+		<genre>Pinball</genre>
+		<year>2019</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<score>3.8</score>
+		<iscoredid>83403</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+  </game>
 </menu>
