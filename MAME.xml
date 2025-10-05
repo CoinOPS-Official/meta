@@ -11399,7 +11399,7 @@
           <players>1</players>
           <ctrltype>analog</ctrltype>
           <manufacturer>SEGA</manufacturer>
-          <iscoredid>341552,41551,41553</iscoredid>
+          <iscoredid>41552,41551,41553</iscoredid>
           <iscoredtype>descending</iscoredtype>
     </game>
   <game name="10yard" index="true" image="">
