@@ -11435,8 +11435,8 @@
   <game name="acedrvrw" index="true" image="">
       		<description>Ace Driver: Racing Evolution</description>
       		<manufacturer>Namco</manufacturer>
-      		<iscoredid>33954</iscoredid>
-      		<iscoredtype>descending</iscoredtype>
+      		<iscoredid>83554,83553,83555,83556</iscoredid>
+			<iscoredtype>timeascending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
       		<ctrltype>8 way</ctrltype>
