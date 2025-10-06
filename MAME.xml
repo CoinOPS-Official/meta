@@ -5217,7 +5217,7 @@
           <players>1</players>
           <ctrltype>analog</ctrltype>
           <manufacturer>Atari</manufacturer>
-          <iscoredid>34271</iscoredid>
+          <iscoredid>83557,83558,83559</iscoredid>
           <iscoredtype>descending</iscoredtype>
     </game>
   <game name="espgal" index="true" image="'">
