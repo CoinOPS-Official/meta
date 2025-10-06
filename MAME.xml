@@ -17999,7 +17999,7 @@
   <game name="acedrive" index="true" image="">
   		<description>Ace Driver: Racing Evolution</description>
   		<manufacturer>Namco</manufacturer>
-  		<iscoredid>83554,83553</iscoredid>
+  		<iscoredid>83554,83553,83555,83556</iscoredid>
   		<iscoredtype>timeascending</iscoredtype>
   		<year>1994</year>
   		<players>2</players>
