@@ -9898,7 +9898,7 @@
           <ctrltype>analog</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>41549,41547,41550</iscoredid>
-          <iscoredtype>descending</iscoredtype>
+          <iscoredtype>timeascending</iscoredtype>
     </game>
   <game name="Dragons Lair" index="true" image="'">
           <description>Dragons Lair</description>
@@ -11400,7 +11400,7 @@
           <ctrltype>analog</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>41552,41551,41553</iscoredid>
-          <iscoredtype>descending</iscoredtype>
+          <iscoredtype>timeascending</iscoredtype>
     </game>
   <game name="10yard" index="true" image="">
       		<description>10-Yard Fight</description>
