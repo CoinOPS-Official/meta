@@ -18216,7 +18216,7 @@
   <game name="Desert Strike" index="true" image="'">
       <description>Desert Strike</description>
       <manufacturer>SEGA</manufacturer>
-      <iscoredid>56592,56593,56594,56595,56596,56597,56598,56599</iscoredid>
+      <iscoredid>56592,56593,56594,56595</iscoredid>
       <iscoredtype>descending</iscoredtype>
       <ctrltype>8  way</ctrltype>
       <year>1992</year>
