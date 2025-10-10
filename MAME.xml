@@ -9186,7 +9186,7 @@
           <players>2</players>
           <ctrltype>8  way</ctrltype>
           <manufacturer>Other</manufacturer>
-          <iscoredid></iscoredid>
+          <iscoredid>32387</iscoredid>
           <iscoredtype>descending</iscoredtype>
     </game>
   <game name="tokio" index="true" image="'">
