@@ -2,6 +2,7 @@ altbeast
 chiller
 cotton2
 dsmbl
+galaga
 gng
 shollow
 soldivid
