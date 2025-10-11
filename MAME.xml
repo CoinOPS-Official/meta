@@ -3739,7 +3739,7 @@
           <description>Alpine Ski</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Taito</manufacturer>
           <iscoredid>31701</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -3757,7 +3757,7 @@
           <description>Amidar</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>19312</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -3856,7 +3856,7 @@
           <description>Asteroids 2 Deluxe</description>
           <year>1980</year>
           <players>1</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Atari</manufacturer>
           <iscoredid>31720</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -3919,7 +3919,7 @@
           <description>Tetris</description>
           <year>1988</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Atari</manufacturer>
           <iscoredid>31722</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -3964,7 +3964,7 @@
           <description>Bagman</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>34041</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -3982,7 +3982,7 @@
           <description>Bank Panic</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>31801</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4054,7 +4054,7 @@
           <description>Bomber Man World</description>
           <year>1992</year>
           <players>4</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Irem</manufacturer>
           <iscoredid>34064</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4162,7 +4162,7 @@
           <description>Block Hole</description>
           <year>1989</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>34097</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4288,7 +4288,7 @@
           <description>Burger Time</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Data East</manufacturer>
           <iscoredid>29188</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4333,7 +4333,7 @@
           <description>Bubble Bobble 1</description>
           <year>1986</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Taito</manufacturer>
           <iscoredid>31811</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4342,7 +4342,7 @@
           <description>Bubble Bobble 1 Lost Cave</description>
           <year>1986</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>34164</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4513,7 +4513,7 @@
           <description>Circus Charlie</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>31821</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4603,7 +4603,7 @@
           <description>Cosmic Alien</description>
           <year>1979</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>31824</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4882,7 +4882,7 @@
           <description>Defender</description>
           <year>1980</year>
           <players>1</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Williams</manufacturer>
           <iscoredid>31855</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4936,7 +4936,7 @@
           <description>Dig Dug</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Namco</manufacturer>
           <iscoredid>29187</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4972,7 +4972,7 @@
           <description>Donkey Kong 1</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Nintendo</manufacturer>
           <iscoredid>18465</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4981,7 +4981,7 @@
           <description>Donkey Kong 3</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Nintendo</manufacturer>
           <iscoredid>31861</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4990,7 +4990,7 @@
           <description>Donkey Kong 2 Junior</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Nintendo</manufacturer>
           <iscoredid>31862</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -4999,7 +4999,7 @@
           <description>Donkey Kong 2 : Jumpman Returns</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Nintendo</manufacturer>
           <iscoredid>31863</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5008,7 +5008,7 @@
           <description>Donkey Kong 2 : Spooky Mix</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Nintendo</manufacturer>
           <iscoredid>31864</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5026,7 +5026,7 @@
           <description>Mr. Do's Castle</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>31866</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5062,7 +5062,7 @@
           <description>Mr. Do's Wild Ride</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32498</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5080,7 +5080,7 @@
           <description>Dragon Buster</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Namco</manufacturer>
           <iscoredid>34254</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5350,7 +5350,7 @@
           <description>Flicky</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>32035</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5386,7 +5386,7 @@
           <description>Frogger</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>32037</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5449,7 +5449,7 @@
           <description>Galaga 1</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>20043</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5467,7 +5467,7 @@
           <description>Galaga 0 Galaxian</description>
           <year>1979</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>32045</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5593,7 +5593,7 @@
           <description>Ghouls'n Ghosts</description>
           <year>1988</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>32054</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5836,7 +5836,7 @@
           <description>Gyruss</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>32064</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5863,7 +5863,7 @@
           <description>Haunted Castle</description>
           <year>1988</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>34363</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -5881,7 +5881,7 @@
           <description>Higemaru</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>34367</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6007,7 +6007,7 @@
           <description>Space Invaders 2</description>
           <year>1979</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Taito</manufacturer>
           <iscoredid>32279</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6016,7 +6016,7 @@
           <description>Iron Horse</description>
           <year>1986</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>32076</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6097,7 +6097,7 @@
           <description>Joust 1</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Williams</manufacturer>
           <iscoredid>32079</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6106,7 +6106,7 @@
           <description>Joust 2: Survival of the Fittest</description>
           <year>1986</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Williams</manufacturer>
           <iscoredid>32080</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6187,7 +6187,7 @@
           <description>Kicker</description>
           <year>1985</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>32087</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6205,7 +6205,7 @@
           <description>Meikyu Jima</description>
           <year>1988</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Irem</manufacturer>
           <iscoredid>34413</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6268,7 +6268,7 @@
           <description>Klax</description>
           <year>1989</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Atari</manufacturer>
           <iscoredid>57598,57599,57600</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6403,7 +6403,7 @@
           <description>Lady Bug</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32095</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6502,7 +6502,7 @@
           <description>Lunar Rescue</description>
           <year>1979</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Taito</manufacturer>
           <iscoredid>32100</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6574,7 +6574,7 @@
           <description>Mappy</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Namco</manufacturer>
           <iscoredid>32105</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6592,7 +6592,7 @@
           <description>Mario Bros.</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Nintendo</manufacturer>
           <iscoredid>32107</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6673,7 +6673,7 @@
           <description>Major Havoc</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Atari</manufacturer>
           <iscoredid>34490</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6700,7 +6700,7 @@
           <description>Mikie</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>32110</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6772,7 +6772,7 @@
           <description>Monster Bash</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>34504</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6790,7 +6790,7 @@
           <description>Moon Cresta</description>
           <year>1980</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32117</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6808,7 +6808,7 @@
           <description>Moon Patrol</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Irem</manufacturer>
           <iscoredid>25611</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6817,7 +6817,7 @@
           <description>Mr. Do!</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32119</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6826,7 +6826,7 @@
           <description>Mr. Driller</description>
           <year>1999</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Namco</manufacturer>
           <iscoredid>32451</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -6907,7 +6907,7 @@
           <description>Ms. Pac-Man</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>30997</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7024,7 +7024,7 @@
           <description>Naughty Boy</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32130</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7168,7 +7168,7 @@
           <description>Rally X 2</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Namco</manufacturer>
           <iscoredid>34545</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7303,7 +7303,7 @@
           <description>Pac-Land</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Namco</manufacturer>
           <iscoredid>25297</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7312,7 +7312,7 @@
           <description>Pac-Man</description>
           <year>1980</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>32136</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7330,7 +7330,7 @@
           <description>Pang</description>
           <year>1989</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>25613</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7402,7 +7402,7 @@
           <description>Pengo</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>32139</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7420,7 +7420,7 @@
           <description>Phoenix</description>
           <year>1980</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32140</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7465,7 +7465,7 @@
           <description>Pleiads</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32142</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7483,7 +7483,7 @@
           <description>Pooyan</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>32143</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7492,7 +7492,7 @@
           <description>Popeye</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Nintendo</manufacturer>
           <iscoredid>32144</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7582,7 +7582,7 @@
           <description>Punch-Out!!</description>
           <year>1984</year>
           <players>1</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Nintendo</manufacturer>
           <iscoredid>32147</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7618,7 +7618,7 @@
           <description>Qix</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Taito</manufacturer>
           <iscoredid>34602</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7672,7 +7672,7 @@
           <description>Rally X</description>
           <year>1980</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Namco</manufacturer>
           <iscoredid>32152</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7735,7 +7735,7 @@
           <description>Rainbow Islands</description>
           <year>1987</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Taito</manufacturer>
           <iscoredid>32154</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7906,7 +7906,7 @@
           <description>Roc'n Rope</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>32160</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -7960,7 +7960,7 @@
           <description>Rolling Thunder 1</description>
           <year>1986</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Namco</manufacturer>
           <iscoredid>26590</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -8149,7 +8149,7 @@
           <description>Super Bagman</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32168</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -8473,7 +8473,7 @@
           <description>Satan's Hollow</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>34704</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -8653,7 +8653,7 @@
           <description>Son Son</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>34723</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -8671,7 +8671,7 @@
           <description>Super Pang</description>
           <year>1990</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>32194</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -8725,7 +8725,7 @@
           <description>Super Punch-Out!!</description>
           <year>1984</year>
           <players>1</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Nintendo</manufacturer>
           <iscoredid>32196</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -8752,7 +8752,7 @@
           <description>Super Qix</description>
           <year>1987</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Taito</manufacturer>
           <iscoredid>32198</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -8833,7 +8833,7 @@
           <description>Stargate</description>
           <year>1981</year>
           <players>1</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Williams</manufacturer>
           <iscoredid>32204</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -8905,7 +8905,7 @@
           <description>Super Pac-Man</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Namco</manufacturer>
           <iscoredid>32208</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -8932,7 +8932,7 @@
           <description>Tapper</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>32209</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9049,7 +9049,7 @@
           <description>Tetris The Absolute: The Grand Master 2 Plus</description>
           <year>2000</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>34796,74421,74423,74422</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9265,7 +9265,7 @@
           <description>Zippy Race Traverse USA</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Irem</manufacturer>
           <iscoredid>32227</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9274,7 +9274,7 @@
           <description>Tropical Angel</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Irem</manufacturer>
           <iscoredid>34817</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9283,7 +9283,7 @@
           <description>Trog</description>
           <year>1990</year>
           <players>4</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>34818</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9337,7 +9337,7 @@
           <description>Tutankham</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>32232</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9346,7 +9346,7 @@
           <description>Twin Cobra</description>
           <year>1987</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Toaplan</manufacturer>
           <iscoredid>32233</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9355,7 +9355,7 @@
           <description>Twin Eagle 2: The Rescue Mission</description>
           <year>1994</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>34828</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9364,7 +9364,7 @@
           <description>Twin Eagle 1: Revenge Joe's Brother</description>
           <year>1988</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Taito</manufacturer>
           <iscoredid>32234</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9373,7 +9373,7 @@
           <description>Two Crude</description>
           <year>1990</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Data East</manufacturer>
           <iscoredid>34831</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9382,7 +9382,7 @@
           <description>Undercover Cops</description>
           <year>1992</year>
           <players>3</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Irem</manufacturer>
           <iscoredid>34832</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9391,7 +9391,7 @@
           <description>Mortal Kombat 4 : Ultimate Mortal Kombat 3</description>
           <year>1994</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>32235</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9400,7 +9400,7 @@
           <description>U.N. Squadron</description>
           <year>1989</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>28242</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9409,7 +9409,7 @@
           <description>Up'n Down</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>32236</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9418,7 +9418,7 @@
           <description>Vanguard</description>
           <year>1981</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>SNK</manufacturer>
           <iscoredid>34841</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9427,7 +9427,7 @@
           <description>Vapor Trail: Hyper Offence Formation</description>
           <year>1989</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Data East</manufacturer>
           <iscoredid>32237</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9436,7 +9436,7 @@
           <description>Varth: Operation Thunderstorm</description>
           <year>1992</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>32238</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9445,7 +9445,7 @@
           <description>Vasara 1</description>
           <year>2000</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32239</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9454,7 +9454,7 @@
           <description>Vasara 2</description>
           <year>2001</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32240</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9463,7 +9463,7 @@
           <description>Vendetta</description>
           <year>1991</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>32384</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9472,7 +9472,7 @@
           <description>Victory Road</description>
           <year>1986</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>SNK</manufacturer>
           <iscoredid>32241</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9481,7 +9481,7 @@
           <description>Viewpoint</description>
           <year>1992</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Neo Geo</manufacturer>
           <iscoredid>34848</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9490,7 +9490,7 @@
           <description>Vigilante</description>
           <year>1988</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Irem</manufacturer>
           <iscoredid>32242</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9499,7 +9499,7 @@
           <description>Vimana</description>
           <year>1991</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Toaplan</manufacturer>
           <iscoredid>32243</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9508,7 +9508,7 @@
           <description>Vindicators</description>
           <year>1988</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Atari</manufacturer>
           <iscoredid>34850</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9517,7 +9517,7 @@
           <description>Violent Storm</description>
           <year>1993</year>
           <players>4</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>34852</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9526,7 +9526,7 @@
           <description>Viper Phase 1</description>
           <year>1995</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32244</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9544,7 +9544,7 @@
           <description>Vampire Savior 1: The Lord of Vampire</description>
           <year>1997</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>32339</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9553,7 +9553,7 @@
           <description>Vampire Savior 2: The Lord of Vampire</description>
           <year>1997</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>32246</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9562,7 +9562,7 @@
           <description>Vulgus</description>
           <year>1984</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>32247</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9571,7 +9571,7 @@
           <description>Waku Waku 7</description>
           <year>1996</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Neo Geo</manufacturer>
           <iscoredid>32383</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9580,7 +9580,7 @@
           <description>Wardner</description>
           <year>1987</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Toaplan</manufacturer>
           <iscoredid>32248</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9598,7 +9598,7 @@
           <description>Water Ski</description>
           <year>1983</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Taito</manufacturer>
           <iscoredid>32249</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9607,7 +9607,7 @@
           <description>Wonder Boy 3: Monster Lair (set 6, World, System 16B)</description>
           <year>1988</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>34859</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9616,7 +9616,7 @@
           <description>Wonder Boy 2 in Monster Land</description>
           <year>1987</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>34860</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9625,7 +9625,7 @@
           <description>Wonder Boy 1</description>
           <year>1986</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>29190</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9634,7 +9634,7 @@
           <description>World Heroes Perfect</description>
           <year>1995</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Neo Geo</manufacturer>
           <iscoredid>34866</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9643,7 +9643,7 @@
           <description>Wild Fang</description>
           <year>1989</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Tecmo</manufacturer>
           <iscoredid>34867</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9652,7 +9652,7 @@
           <description>Willow</description>
           <year>1989</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>28241</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9661,7 +9661,7 @@
           <description>Wizard Fire</description>
           <year>1992</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Data East</manufacturer>
           <iscoredid>34869</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9670,7 +9670,7 @@
           <description>Windjammers</description>
           <year>1994</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Neo Geo</manufacturer>
           <iscoredid>32382</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9679,7 +9679,7 @@
           <description>Warriors of Fate</description>
           <year>1992</year>
           <players>3</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>34871</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9688,7 +9688,7 @@
           <description>Wizard of Wor</description>
           <year>1980</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>34875</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9697,7 +9697,7 @@
           <description>World Rally 1</description>
           <year>1993</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32379</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9706,7 +9706,7 @@
           <description>World Rally 2: Twin Racing</description>
           <year>1995</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>32380</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9715,7 +9715,7 @@
           <description>WWF: Wrestlemania</description>
           <year>1995</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>32381</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9724,7 +9724,7 @@
           <description>WWF Superstars</description>
           <year>1989</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Technos</manufacturer>
           <iscoredid>32250</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9733,7 +9733,7 @@
           <description>WWF WrestleFest</description>
           <year>1991</year>
           <players>4</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Technos</manufacturer>
           <iscoredid>32251</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9742,7 +9742,7 @@
           <description>Xenophobe</description>
           <year>1987</year>
           <players>3</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Midway</manufacturer>
           <iscoredid>32378</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9751,7 +9751,7 @@
           <description>Xevious</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Namco</manufacturer>
           <iscoredid>29193</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9760,7 +9760,7 @@
           <description>Xexex</description>
           <year>1991</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>34884</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9769,7 +9769,7 @@
           <description>X-Men Children of the Atom</description>
           <year>1994</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>32252</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9778,7 +9778,7 @@
           <description>X-Men</description>
           <year>1992</year>
           <players>4</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9787,7 +9787,7 @@
           <description>X Multiply</description>
           <year>1989</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Irem</manufacturer>
           <iscoredid>34975</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9796,7 +9796,7 @@
           <description>X-Men Vs. Street Fighter</description>
           <year>1996</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>32253</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9805,7 +9805,7 @@
           <description>Xain'd Sleena</description>
           <year>1986</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Technos</manufacturer>
           <iscoredid>34976</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9814,7 +9814,7 @@
           <description>Yie Ar Kung-Fu</description>
           <year>1985</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Konami</manufacturer>
           <iscoredid>28245</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9823,7 +9823,7 @@
           <description>Zaxxon</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid>31725</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9832,7 +9832,7 @@
           <description>Zoo Keeper</description>
           <year>1982</year>
           <players>2</players>
-          <ctrltype>4 way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Taito</manufacturer>
           <iscoredid>31703</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9841,7 +9841,7 @@
           <description>Star Force</description>
           <year>1984</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>34754</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9859,7 +9859,7 @@
           <description>Resogun</description>
           <year>2013</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9868,7 +9868,7 @@
           <description>Super Street Fighter 2 Turbo HD Remix</description>
           <year>2008</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9904,7 +9904,7 @@
           <description>Dragons Lair</description>
           <year>1983</year>
           <players>1</players>
-          <ctrltype>4 Way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>33522</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9949,7 +9949,7 @@
           <description>Space Ace</description>
           <year>1983</year>
           <players>1</players>
-          <ctrltype>4 Way</ctrltype>
+          <ctrltype>4  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid>35029</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9967,7 +9967,7 @@
           <description>Ultra Street Fighter 4 ZZ IV</description>
           <year>2014</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid>34833</iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9976,7 +9976,7 @@
           <description>Street Fighter 5</description>
           <year>2016</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9985,7 +9985,7 @@
           <description>Street Fighter 6</description>
           <year>2023</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Capcom</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -9994,7 +9994,7 @@
           <description>Mortal Kombat One</description>
           <year>2023</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Other</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -10003,7 +10003,7 @@
           <description>Sonic Superstar</description>
           <year>2023</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>SEGA</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -11409,7 +11409,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1983</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>sports</genre>
     </game>
   <game name="64street" index="true" image="">
@@ -11419,7 +11419,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="abcop" index="true" image="">
@@ -11439,7 +11439,7 @@
 			<iscoredtype>timeascending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>racer</genre>
     </game>
   <game name="afighter" index="true" image="">
@@ -11449,7 +11449,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1986</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="agallet" index="true" image="">
@@ -11459,7 +11459,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1996</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="alien3" index="true" image="">
@@ -11479,7 +11479,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1982</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="arabian" index="true" image="">
@@ -11489,7 +11489,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1983</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>old school</genre>
     </game>
   <game name="area51" index="true" image="">
@@ -11509,7 +11509,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1990</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="batmanfr" index="true" image="">
@@ -11519,7 +11519,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1996</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="bbhcotw" index="true" image="">
@@ -11549,7 +11549,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>run n gun</genre>
     </game>
   <game name="bioatack" index="true" image="">
@@ -11559,7 +11559,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1983</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="biomtoy" index="true" image="">
@@ -11569,7 +11569,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1995</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>run n gun</genre>
     </game>
   <game name="blkheart" index="true" image="">
@@ -11579,7 +11579,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="bloodstm" index="true" image="">
@@ -11589,7 +11589,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="blstroid" index="true" image="">
@@ -11609,7 +11609,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>old school</genre>
     </game>
   <game name="bouldash" index="true" image="">
@@ -11619,7 +11619,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1990</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="brvblade" index="true" image="">
@@ -11629,7 +11629,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>2000</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="carnevil" index="true" image="">
@@ -11649,7 +11649,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1980</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>old school</genre>
     </game>
   <game name="carnking" index="true" image="">
@@ -11689,7 +11689,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1993</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="chopper" index="true" image="">
@@ -11699,7 +11699,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1988</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="cischeat" index="true" image="">
@@ -11729,7 +11729,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="crimfght" index="true" image="">
@@ -11739,7 +11739,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1989</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="crossbow" index="true" image="">
@@ -11769,7 +11769,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1986</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="darius2do" index="true" image="">
@@ -11779,7 +11779,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1989</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="darius2" index="true" image="">
@@ -11789,7 +11789,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1989</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="dariusg" index="true" image="">
@@ -11799,7 +11799,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1994</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="demonwld" index="true" image="">
@@ -11809,7 +11809,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1990</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>run n gun</genre>
     </game>
   <game name="digdug2" index="true" image="">
@@ -11819,7 +11819,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1985</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="dolphin" index="true" image="">
@@ -11829,7 +11829,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>2003</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>run n gun</genre>
     </game>
   <game name="doubledr" index="true" image="">
@@ -11839,7 +11839,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1995</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="dragngun" index="true" image="">
@@ -11859,7 +11859,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>racer</genre>
     </game>
   <game name="duckhunt" index="true" image="">
@@ -11879,7 +11879,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="fantasyu" index="true" image="">
@@ -11889,7 +11889,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1981</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="fhawk" index="true" image="">
@@ -11899,7 +11899,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1988</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="fsoccer" index="true" image="">
@@ -11919,7 +11919,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1993</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="gaxeduel" index="true" image="">
@@ -11929,7 +11929,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="gdarius" index="true" image="">
@@ -11939,7 +11939,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1997</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="gloc" index="true" image="">
@@ -11969,7 +11969,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1982</year>
       		<players>1</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="grdians" index="true" image="">
@@ -11979,7 +11979,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1995</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="groundfx" index="true" image="">
@@ -11999,7 +11999,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1992</year>
       		<players>3</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="gunnail" index="true" image="">
@@ -12009,7 +12009,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1993</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="heatbrl" index="true" image="">
@@ -12019,7 +12019,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1992</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="hellfire" index="true" image="">
@@ -12029,7 +12029,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1989</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="hitice" index="true" image="">
@@ -12039,7 +12039,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1990</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>sports</genre>
     </game>
   <game name="irobot" index="true" image="">
@@ -12059,7 +12059,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1996</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="jjsquawk" index="true" image="">
@@ -12069,7 +12069,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1993</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="jrpacman" index="true" image="">
@@ -12079,7 +12079,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1983</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="kazan" index="true" image="">
@@ -12089,7 +12089,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1988</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>old school</genre>
     </game>
   <game name="kchampvs" index="true" image="">
@@ -12109,7 +12109,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1990</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>sports</genre>
     </game>
   <game name="lethalen" index="true" image="">
@@ -12139,7 +12139,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1990</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="loffire" index="true" image="">
@@ -12169,7 +12169,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1992</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="ltswords" index="true" image="">
@@ -12179,7 +12179,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="luckywld" index="true" image="">
@@ -12199,7 +12199,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1992</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="macross2" index="true" image="">
@@ -12209,7 +12209,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1993</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="macrossp" index="true" image="">
@@ -12219,7 +12219,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1996</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="mk4" index="true" image="">
@@ -12229,7 +12229,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1997</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="mplanets" index="true" image="">
@@ -12249,7 +12249,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>2006</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>run n gun</genre>
     </game>
   <game name="mutantf" index="true" image="">
@@ -12259,7 +12259,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1992</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="nibbler" index="true" image="">
@@ -12269,7 +12269,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1982</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="nightstr" index="true" image="">
@@ -12289,7 +12289,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1987</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="opwolf3" index="true" image="">
@@ -12309,7 +12309,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1988</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="orlegend" index="true" image="">
@@ -12319,7 +12319,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1997</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="oscar" index="true" image="">
@@ -12329,7 +12329,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1987</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>run n gun</genre>
     </game>
   <game name="pacnpal" index="true" image="">
@@ -12339,7 +12339,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1983</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="phelios" index="true" image="">
@@ -12349,7 +12349,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1988</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="polepos" index="true" image="">
@@ -12399,7 +12399,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1980</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="rallybik" index="true" image="">
@@ -12409,7 +12409,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1988</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>racer</genre>
     </game>
   <game name="raphero" index="true" image="">
@@ -12419,7 +12419,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="revx" index="true" image="">
@@ -12439,7 +12439,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="rohga" index="true" image="">
@@ -12449,7 +12449,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="sdi" index="true" image="">
@@ -12469,7 +12469,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1997</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="sengoku" index="true" image="">
@@ -12479,7 +12479,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="sengoku2" index="true" image="">
@@ -12489,7 +12489,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1993</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="sfex" index="true" image="">
@@ -12499,7 +12499,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1996</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="sfrush" index="true" image="">
@@ -12539,7 +12539,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1987</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="simpbowl" index="true" image="">
@@ -12569,7 +12569,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="spacegun" index="true" image="">
@@ -12589,7 +12589,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1995</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="spiders" index="true" image="">
@@ -12599,7 +12599,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1981</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="spinlbrk" index="true" image="">
@@ -12609,7 +12609,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1990</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="srallyc" index="true" image="">
@@ -12629,7 +12629,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1990</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="starblad" index="true" image="">
@@ -12649,7 +12649,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1996</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="startrek" index="true" image="">
@@ -12669,7 +12669,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>sports</genre>
     </game>
   <game name="strider2" index="true" image="">
@@ -12679,7 +12679,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1999</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="strkfgtr" index="true" image="">
@@ -12699,7 +12699,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1982</year>
       		<players>1</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="superchs" index="true" image="">
@@ -12719,7 +12719,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1990</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="svg" index="true" image="">
@@ -12729,7 +12729,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>2005</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="swatpolc" index="true" image="">
@@ -12739,7 +12739,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>2001</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="szaxxon" index="true" image="">
@@ -12749,7 +12749,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1982</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="tacscan" index="true" image="">
@@ -12769,7 +12769,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="tattass" index="true" image="">
@@ -12779,7 +12779,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="tbowl" index="true" image="">
@@ -12789,7 +12789,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1987</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>sports</genre>
     </game>
   <game name="thedeep" index="true" image="">
@@ -12799,7 +12799,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1987</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="timber" index="true" image="">
@@ -12809,7 +12809,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1984</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>run n gun</genre>
     </game>
   <game name="timecris" index="true" image="">
@@ -12829,7 +12829,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1992</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="tshoot" index="true" image="">
@@ -12849,7 +12849,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>run n gun</genre>
     </game>
   <game name="turbo" index="true" image="">
@@ -12869,7 +12869,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1989</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>sports</genre>
     </game>
   <game name="ultrax" index="true" image="">
@@ -12879,7 +12879,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1995</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>run n gun</genre>
     </game>
   <game name="vf" index="true" image="">
@@ -12889,7 +12889,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1993</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="vf2" index="true" image="">
@@ -12899,7 +12899,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="vf3" index="true" image="">
@@ -12909,7 +12909,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1996</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="warriorb" index="true" image="">
@@ -12919,7 +12919,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1991</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="wcbowldx" index="true" image="">
@@ -12949,7 +12949,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1992</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>fight club</genre>
     </game>
   <game name="xevi3dg" index="true" image="">
@@ -12959,7 +12959,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1995</year>
       		<players>4</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="xybots" index="true" image="">
@@ -12969,7 +12969,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1987</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>puzzler</genre>
     </game>
   <game name="zerowing" index="true" image="">
@@ -12979,7 +12979,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1989</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="zombraid" index="true" image="">
@@ -12999,7 +12999,7 @@
       		<iscoredtype>descending</iscoredtype>
       		<year>1982</year>
       		<players>2</players>
-      		<ctrltype>4 way</ctrltype>
+      		<ctrltype>4  way</ctrltype>
       		<genre>old school</genre>
     </game>
   <game name="fireshrk" index="true" image="">
@@ -13009,7 +13009,7 @@
           		<iscoredtype>descending</iscoredtype>
       		<year>1990</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>shoot n up</genre>
     </game>
   <game name="outfxies" index="true" image="">
@@ -13019,7 +13019,7 @@
           		<iscoredtype>descending</iscoredtype>
       		<year>1994</year>
       		<players>2</players>
-      		<ctrltype>8 way</ctrltype>
+      		<ctrltype>8  way</ctrltype>
       		<genre>beat em up</genre>
     </game>
   <game name="swtrilgy" index="true" image="">
@@ -13036,7 +13036,7 @@
           <description>Pinball_Aliens2_vs_Predator</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Pinball</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13045,7 +13045,7 @@
           <description>Pinball_Aliens1</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Pinball</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13054,7 +13054,7 @@
           <description>Pinball_Doom</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Pinball</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13063,7 +13063,7 @@
           <description>Pinball_MARVEL_Guardians</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Pinball</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13072,7 +13072,7 @@
           <description>Pinball_MARVEL_InfinityGauntlet</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Pinball</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13081,7 +13081,7 @@
           <description>Pinball_Portal</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Pinball</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13090,7 +13090,7 @@
           <description>Pinball_STARWARS_Episode_4</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Pinball</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13099,7 +13099,7 @@
           <description>Pinball_STARWARS_Han_Solo</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Pinball</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13108,7 +13108,7 @@
           <description>Pinball_STARWARS_SFA</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Pinball</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13117,7 +13117,7 @@
           <description>Pinball_Jurassic_World</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Pinball</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13126,7 +13126,7 @@
           <description>Donkey Kong DCountry Tropical Freeze</description>
           <year>2018</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13135,7 +13135,7 @@
           <description>Super Mario Bros Wonder</description>
           <year>2023</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13144,7 +13144,7 @@
           <description>Super Mario Odyssey</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13153,7 +13153,7 @@
           <description>Legend of Zelda BOTW1</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13162,7 +13162,7 @@
           <description>Legend of Zelda BOTW2 TOTK</description>
           <year>2023</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13171,7 +13171,7 @@
           <description>Legend of Zelda Links Awakening</description>
           <year>2019</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13180,7 +13180,7 @@
           <description>Captain Toad Treasure Tracker</description>
           <year>2019</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13189,7 +13189,7 @@
           <description>Kirby and the Forgotten Land</description>
           <year>2022</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13198,7 +13198,7 @@
           <description>Kirbys Return to Dream Land Deluxe</description>
           <year>2023</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13207,7 +13207,7 @@
           <description>Cruisin Blast</description>
           <year>2021</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13216,7 +13216,7 @@
           <description>Yoshis Crafted World</description>
           <year>2019</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13225,7 +13225,7 @@
           <description>Super Smash Bros Ultimate</description>
           <year>2018</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13234,7 +13234,7 @@
           <description>Fast RMX</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13243,7 +13243,7 @@
           <description>Sonic Superstars</description>
           <year>2023</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13252,7 +13252,7 @@
           <description>Luigis Mansion 3</description>
           <year>2019</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13261,7 +13261,7 @@
           <description>Super Mario 3D World and Bowsers Fury</description>
           <year>2021</year>
           <players>2</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13270,7 +13270,7 @@
           <description>Mario Kart 8 Deluxe</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13279,7 +13279,7 @@
           <description>Metroid Dread</description>
           <year>2021</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13288,7 +13288,7 @@
           <description>Mario Golf</description>
           <year>2021</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13297,7 +13297,7 @@
           <description>New Super Mario Bros U Deluxe</description>
           <year>2019</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13306,7 +13306,7 @@
           <description>Mario Strikers</description>
           <year>2022</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13315,7 +13315,7 @@
           <description>Mario Tennis Aces</description>
           <year>2018</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13324,7 +13324,7 @@
           <description>Pac-Man Championship Edition 2 Plus</description>
           <year>2016</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13333,7 +13333,7 @@
           <description>Pac-Man Championship Edition</description>
           <year>2007</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>PSP</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13342,7 +13342,7 @@
           <description>Hades</description>
           <year>2018</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13351,7 +13351,7 @@
           <description>Dead Cells</description>
           <year>2017</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13360,7 +13360,7 @@
           <description>Crash Bandicoot 4</description>
           <year>2020</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
@@ -13369,7 +13369,7 @@
           <description>DOOM Eternal</description>
           <year>2020</year>
           <players>1</players>
-          <ctrltype>8 way</ctrltype>
+          <ctrltype>8  way</ctrltype>
           <manufacturer>Switch</manufacturer>
           <iscoredid></iscoredid>
           <iscoredtype>descending</iscoredtype>
