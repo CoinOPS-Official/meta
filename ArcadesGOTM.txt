@@ -2,12 +2,8 @@ altbeast
 chiller
 cotton2
 dsmbl
-galaga
-btime
 gng
 shollow
 soldivid
 splatter
 xenophob
-1942
-bosco
