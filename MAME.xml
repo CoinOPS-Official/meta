@@ -19970,6 +19970,32 @@
       <iscoredid>82885</iscoredid>
       <iscoredtype>descending</iscoredtype>
     </game>
+	<game name="Scared Stiff" index="true" image="'">
+      <description>Scared Stiff</description>
+      <cloneof></cloneof>
+      <manufacturer>Zen Studios</manufacturer>
+      <developer>Zen Studios</developer>
+      <players>4</players>
+      <genre>Pinball</genre>
+      <year>2025</year>
+      <rating>ESRB - E (Everyone)</rating>
+      <score></score>
+      <iscoredid>83960</iscoredid>
+      <iscoredtype>descending</iscoredtype>
+    </game>
+	<game name="Elvira and the Party Monsters" index="true" image="'">
+      <description>Elvira and the Party Monsters</description>
+      <cloneof></cloneof>
+      <manufacturer>Zen Studios</manufacturer>
+      <developer>Zen Studios</developer>
+      <players>4</players>
+      <genre>Pinball</genre>
+      <year>2025</year>
+      <rating>ESRB - E (Everyone)</rating>
+      <score></score>
+      <iscoredid>83962</iscoredid>
+      <iscoredtype>descending</iscoredtype>
+    </game>
   <game name="Table 43" index="true" image="'">
       <description>Star Wars Pinball: Episode V The Empire Strikes Back</description>
       <cloneof></cloneof>
