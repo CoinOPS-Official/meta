@@ -14289,6 +14289,16 @@
       	<ctrltype>lightgun</ctrltype>
           <genre>shoot n up</genre>
     </game>
+	<game name="Aliens Armageddon_TKP" index="true" image="">
+      	<description>Aliens: Armageddon</description>
+      	<manufacturer>Global VR</manufacturer>
+      	<iscoredid>59232</iscoredid>
+      	<iscoredtype>descending</iscoredtype>
+      	<year>2014</year>
+      	<players>2</players>
+      	<ctrltype>lightgun</ctrltype>
+          <genre>shoot n up</genre>
+    </game>
   <game name="Friction_TKP" index="true" image="">
       	<description>Friction</description>
       	<manufacturer>Friction GS</manufacturer>
