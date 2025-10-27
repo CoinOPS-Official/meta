@@ -14329,6 +14329,26 @@
       	<ctrltype>lightgun</ctrltype>
           <genre>shoot n up</genre>
     </game>
+	<game name="Blamcon Shooting Gallery" index="true" image="">
+      	<description>Blamcon Shooting Gallery</description>
+      	<manufacturer>Blamcon</manufacturer>
+      	<iscoredid>76508</iscoredid>
+      	<iscoredtype>descending</iscoredtype>
+      	<year>2023</year>
+      	<players>1</players>
+      	<ctrltype>lightgun</ctrltype>
+          <genre>shoot n up</genre>
+    </game>
+	<game name="Carnival King_WII" index="true" image="">
+      	<description>Carnival King</description>
+      	<manufacturer>Nintendo</manufacturer>
+      	<iscoredid>59301</iscoredid>
+      	<iscoredtype>descending</iscoredtype>
+      	<year>2009</year>
+      	<players>2</players>
+      	<ctrltype>lightgun</ctrltype>
+          <genre>shoot n up</genre>
+    </game>
   <game name="Friction_TKP" index="true" image="">
       	<description>Friction</description>
       	<manufacturer>Friction GS</manufacturer>
