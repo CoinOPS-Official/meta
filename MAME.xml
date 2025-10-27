@@ -12815,8 +12815,8 @@
   <game name="timecris" index="true" image="">
       		<description>Time Crisis</description>
       		<manufacturer>Namco</manufacturer>
-      		<iscoredid>32388</iscoredid>
-      		<iscoredtype>descending</iscoredtype>
+      		<iscoredid>84564,84565,84566,84567</iscoredid>
+      		<iscoredtype>timeascending</iscoredtype>
       		<year>1996</year>
       		<players>1</players>
       		<ctrltype>lightgun</ctrltype>
