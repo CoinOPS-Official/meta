@@ -14309,6 +14309,16 @@
       	<ctrltype>lightgun</ctrltype>
           <genre>shoot n up</genre>
     </game>
+	<game name="Barker Bill's Trick (USA) Shooting_NES" index="true" image="">
+      	<description>Barker Bill's Trick Shooting</description>
+      	<manufacturer>Nintendo</manufacturer>
+      	<iscoredid>59298</iscoredid>
+      	<iscoredtype>descending</iscoredtype>
+      	<year>1990</year>
+      	<players>1</players>
+      	<ctrltype>lightgun</ctrltype>
+          <genre>shoot n up</genre>
+    </game>
   <game name="Friction_TKP" index="true" image="">
       	<description>Friction</description>
       	<manufacturer>Friction GS</manufacturer>
