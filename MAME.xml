@@ -14299,6 +14299,16 @@
       	<ctrltype>lightgun</ctrltype>
           <genre>shoot n up</genre>
     </game>
+	<game name="Arcade Shooting Gallery_WII" index="true" image="">
+      	<description>Arcade Shooting Gallery</description>
+      	<manufacturer>Nintendo</manufacturer>
+      	<iscoredid>76507</iscoredid>
+      	<iscoredtype>descending</iscoredtype>
+      	<year>2009</year>
+      	<players>2</players>
+      	<ctrltype>lightgun</ctrltype>
+          <genre>shoot n up</genre>
+    </game>
   <game name="Friction_TKP" index="true" image="">
       	<description>Friction</description>
       	<manufacturer>Friction GS</manufacturer>
