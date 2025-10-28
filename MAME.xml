@@ -13817,7 +13817,7 @@
 		<genre>shoot n up</genre>
 	</game>
 	<game name="targeth" index="true" image="">
-		<description>Target Hits (ver 1.1, Checksum 5152)</description>
+		<description>Target Hits</description>
 		<manufacturer>Gaelco</manufacturer>
 		<iscoredid>37655</iscoredid>
 		<iscoredtype>descending</iscoredtype>
