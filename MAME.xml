@@ -12810,6 +12810,16 @@
 		<iscoredid>84564,84565,84566,84567</iscoredid>
 		<iscoredtype>timeascending</iscoredtype>
 	</game>
+	<game name="timecrs2" index="true" image="">
+		<description>Time Crisis 2</description>
+		<manufacturer>Namco</manufacturer>
+		<year>1998</year>
+		<players>2</players>
+		<ctrltype>lightgun</ctrltype>
+		<genre>shoot n up</genre>
+		<iscoredid>76516</iscoredid>
+		<iscoredtype>timeascending</iscoredtype>
+	</game>
 	<game name="timekill" index="true" image="">
 		<description>Time Killers</description>
 		<manufacturer>Other</manufacturer>
@@ -23921,7 +23931,7 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
-  <game name="Gunfighter II - Revenge of Jesse James_PS2" index="true" image="">
+  <game name="Gunfighter II - Revenge of Jesse James (Europe) (En,Fr,De,Es,It)_PS2" index="true" image="">
       <description>Gunfighter II - Revenge of Jesse James</description>
       <manufacturer>Ubisoft</manufacturer>
       <iscoredid>59354</iscoredid>
@@ -23951,7 +23961,7 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
-  <game name="Gunvari Collection Time Crisis (Japan) (With GunCon2)_PS2" index="true" image="">
+  <game name="Gunvari Collection + Time Crisis (Japan) (With GunCon2)_PS2" index="true" image="">
       <description>Gunvari Collection Time Crisis (Japan)</description>
       <manufacturer>Namco</manufacturer>
       <iscoredid>59357</iscoredid>
@@ -24161,7 +24171,7 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
-  <game name="House of the Dead Overkill_PS3" index="true" image="">
+  <game name="House Of The Dead - Overkill_PS3" index="true" image="">
       <description>House of the Dead Overkill</description>
       <manufacturer>Sega</manufacturer>
       <iscoredid>59293</iscoredid>
@@ -24291,7 +24301,7 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
-  <game name="Links Crossbow Training_WII" index="true" image="">
+  <game name="Link's Crossbow Training_WII" index="true" image="">
       <description>Links Crossbow Training</description>
       <manufacturer>Nintendo</manufacturer>
       <iscoredid>59368</iscoredid>
@@ -24327,6 +24337,16 @@
       <iscoredid>59261</iscoredid>
       <iscoredtype>descending</iscoredtype>
       <year>1999</year>
+      <players>2</players>
+      <ctrltype>lightgun</ctrltype>
+      <genre>shoot n up</genre>
+      </game>
+	  <game name="Jurassic Park Arcade_TKP" index="true" image="">
+      <description>Jurassic Park Arcade</description>
+      <manufacturer>Sega</manufacturer>
+      <iscoredid>59254</iscoredid>
+      <iscoredtype>descending</iscoredtype>
+      <year>2015</year>
       <players>2</players>
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
@@ -24951,8 +24971,8 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
-  <game name="Silent Scope Complete_XBOX" index="true" image="">
-      <description>Silent Scope Complete</description>
+  <game name="Silent Scope 2_XBOX" index="true" image="">
+      <description>Silent Scope Complete - Part 2 Only</description>
       <manufacturer>Konami</manufacturer>
       <iscoredid>59412</iscoredid>
       <iscoredtype>descending</iscoredtype>
