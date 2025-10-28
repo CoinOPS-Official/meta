@@ -25091,7 +25091,7 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
-  <game name="Target - Terror_WII" index="true" image="">
+  <game name="Target Terror_WII" index="true" image="">
       <description>Target - Terror</description>
       <manufacturer>Raw Thrills</manufacturer>
       <iscoredid>59420</iscoredid>
