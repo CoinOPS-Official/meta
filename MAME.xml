@@ -12818,7 +12818,7 @@
 		<ctrltype>lightgun</ctrltype>
 		<genre>shoot n up</genre>
 		<iscoredid>76516</iscoredid>
-		<iscoredtype>timeascending</iscoredtype>
+		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="timekill" index="true" image="">
 		<description>Time Killers</description>
@@ -23891,7 +23891,7 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
-  <game name="Gunblade NY and LA Machineguns Arcade Hits Pack_WII" index="true" image="">
+  <game name="Gunblade NY & LA Machineguns Arcade Hits Pack_WII" index="true" image="">
       <description>Gunblade NY and LA Machineguns Arcade Hits Pack</description>
       <manufacturer>Sega</manufacturer>
       <iscoredid>59351</iscoredid>
