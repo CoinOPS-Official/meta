@@ -1,10 +1,10 @@
-invadpt2
-joust
-Mario Kart Arcade GP 2
-tgm2p
-timecris
-timeplt
-trackfld
-viprp1
-vr
-wboy
+assault
+bombjack
+cotton2
+gradius
+mspacman
+paperboy
+pinkswts
+sci
+shienryu
+viewpoin
