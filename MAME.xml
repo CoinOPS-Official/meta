@@ -734,7 +734,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid>87196</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="crysking" index="true">
@@ -9779,7 +9779,7 @@
 		<players>4</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Konami</manufacturer>
-		<iscoredid/>
+		<iscoredid>32377</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="xmultipl" index="true" image="'">
@@ -13585,6 +13585,15 @@
 		<players>2</players>
 		<ctrltype>lightgun</ctrltype>
 		<genre>shoot n up</genre>
+	</game>
+	<game name="manxttc" index="true" image="'">
+		<description>Scud Racer</description>
+		<year>1995</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>87197,87198,87199,87201</iscoredid>
+		<iscoredtype>timeascending</iscoredtype>
 	</game>
 	<game name="gdfs" index="true" image="">
 		<description>Mobile Suit Gundam: Final Shooting</description>
@@ -17887,6 +17896,15 @@
 		<players>1</players>
 	</game>
 	<game name="Tetris Dr Mario" index="true" image="'">
+		<description>Tetris Dr Mario</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82454,82456,82457,82458,82459</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="Tetris Dr Mario (USA)" index="true" image="'">
 		<description>Tetris Dr Mario</description>
 		<manufacturer>Nintendo</manufacturer>
 		<iscoredid>82454,82456,82457,82458,82459</iscoredid>
