@@ -17724,6 +17724,15 @@
 		<year>1992</year>
 		<players>1</players>
 	</game>
+	<game name="Batman Returns (USA)" index="true" image="'">
+		<description>Batman Returns</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid/>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1992</year>
+		<players>1</players>
+	</game>
 	<game name="Biker Mice from Mars" index="true" image="'">
 		<description>Biker Mice from Mars</description>
 		<manufacturer>Nintendo</manufacturer>
@@ -17733,7 +17742,25 @@
 		<year>1994</year>
 		<players>1</players>
 	</game>
+	<game name="Biker Mice from Mars (USA)" index="true" image="'">
+		<description>Biker Mice from Mars</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82145,82146,82147,82148,82149,82150</iscoredid>
+		<iscoredtype>timeascending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
 	<game name="Death and Return of Superman" index="true" image="'">
+		<description>Death and Return of Superman</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82132</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="Death and Return of Superman, The (USA)" index="true" image="'">
 		<description>Death and Return of Superman</description>
 		<manufacturer>Nintendo</manufacturer>
 		<iscoredid>82132</iscoredid>
@@ -17760,7 +17787,25 @@
 		<year>1994</year>
 		<players>2</players>
 	</game>
+	<game name="Ghoul Patrol (USA)" index="true" image="'">
+		<description>Ghoul Patrol</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82135</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>2</players>
+	</game>
 	<game name="Goof Troop" index="true" image="'">
+		<description>Goof Troop</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid/>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1993</year>
+		<players>2</players>
+	</game>
+	<game name="Goof Troop (USA)" index="true" image="'">
 		<description>Goof Troop</description>
 		<manufacturer>Nintendo</manufacturer>
 		<iscoredid/>
@@ -17779,6 +17824,15 @@
 		<players>1</players>
 	</game>
 	<game name="Jungle Book" index="true" image="'">
+		<description>Jungle Book</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82140</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="Jungle Book, The (USA)" index="true" image="'">
 		<description>Jungle Book</description>
 		<manufacturer>Nintendo</manufacturer>
 		<iscoredid>82140</iscoredid>
@@ -17823,6 +17877,15 @@
 		<year>1992</year>
 		<players>1</players>
 	</game>
+	<game name="Magical Quest Starring Mickey Mouse, The (USA)" index="true" image="'">
+		<description>Magical Quest 1</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82142</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1992</year>
+		<players>1</players>
+	</game>
 	<game name="Magical Quest 3" index="true" image="'">
 		<description>Magical Quest 3</description>
 		<manufacturer>Nintendo</manufacturer>
@@ -17832,7 +17895,25 @@
 		<year>1995</year>
 		<players>2</players>
 	</game>
+	<game name="Magical Quest Z - Magical Adventure 3 (Japan)" index="true" image="'">
+		<description>Magical Quest 3</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82143</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>2</players>
+	</game>
 	<game name="Maui Mallard" index="true" image="'">
+		<description>Maui Mallard</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82136</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="Maui Mallard in Cold Shadow (USA)" index="true" image="'">
 		<description>Maui Mallard</description>
 		<manufacturer>Nintendo</manufacturer>
 		<iscoredid>82136</iscoredid>
@@ -17868,6 +17949,15 @@
 		<year>1994</year>
 		<players>1</players>
 	</game>
+	<game name="Sparkster (USA)" index="true" image="'">
+		<description>Sparkster</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82137</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
 	<game name="Super Double Dragon" index="true" image="'">
 		<description>Super Double Dragon</description>
 		<manufacturer>Nintendo</manufacturer>
@@ -17886,7 +17976,25 @@
 		<year>1993</year>
 		<players>1</players>
 	</game>
+	<game name="Super Turrican (USA)" index="true" image="'">
+		<description>Super Turrican 1</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82122,82126,82127</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
 	<game name="Super Turrican 2" index="true" image="'">
+		<description>Super Turrican 2</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82123,82128,82129</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="Super Turrican 2 (USA)" index="true" image="'">
 		<description>Super Turrican 2</description>
 		<manufacturer>Nintendo</manufacturer>
 		<iscoredid>82123,82128,82129</iscoredid>
@@ -17922,7 +18030,25 @@
 		<year>1994</year>
 		<players>2</players>
 	</game>
+	<game name="Adventures of Batman n Robin, The (USA)" index="true" image="'">
+		<description>Adventures of Batman n Robin</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82347</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>2</players>
+	</game>
 	<game name="Alien Soldier" index="true" image="'">
+		<description>Alien Soldier</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82345,82346</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="Alien Soldier (USA, Europe) (Switch Online)" index="true" image="'">
 		<description>Alien Soldier</description>
 		<manufacturer>SEGA</manufacturer>
 		<iscoredid>82345,82346</iscoredid>
@@ -17940,7 +18066,25 @@
 		<players>1</players>
 		<iscoredid>56592,56593,56594,56595</iscoredid>
 	</game>
+	<game name="Desert Strike - Return to the Gulf (USA, Europe)" index="true" image="'">
+		<description>Desert Strike</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1992</year>
+		<players>1</players>
+		<iscoredid>56592,56593,56594,56595</iscoredid>
+	</game>
 	<game name="Dynamite Headdy" index="true" image="'">
+		<description>Dynamite Headdy</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid/>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+		<game name="Dynamite Headdy (USA, Europe)" index="true" image="'">
 		<description>Dynamite Headdy</description>
 		<manufacturer>SEGA</manufacturer>
 		<iscoredid/>
@@ -17958,7 +18102,25 @@
 		<year>1994</year>
 		<players>1</players>
 	</game>
+	<game name="Gargoyles (USA)" index="true" image="'">
+		<description>Gargoyles</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82134</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
 	<game name="Jungle Strike" index="true" image="'">
+		<description>Jungle Strike</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid/>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="Jungle Strike (USA, Europe)" index="true" image="'">
 		<description>Jungle Strike</description>
 		<manufacturer>SEGA</manufacturer>
 		<iscoredid/>
@@ -17976,7 +18138,25 @@
 		<year>1994</year>
 		<players>1</players>
 	</game>
+	<game name="Lion King, The (World)" index="true" image="'">
+		<description>Lion King</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82141</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
 	<game name="QuackShot" index="true" image="'">
+		<description>QuackShot</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82139</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1991</year>
+		<players>1</players>
+	</game>
+	<game name="QuackShot Starring Donald Duck (World)" index="true" image="'">
 		<description>QuackShot</description>
 		<manufacturer>SEGA</manufacturer>
 		<iscoredid>82139</iscoredid>
@@ -17994,7 +18174,25 @@
 		<year>1995</year>
 		<players>1</players>
 	</game>
+	<game name="Ristar (USA, Europe)" index="true" image="'">
+		<description>Ristar</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82138</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
 	<game name="Urban Strike" index="true" image="'">
+		<description>Urban Strike</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid/>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="Urban Strike (USA, Europe)" index="true" image="'">
 		<description>Urban Strike</description>
 		<manufacturer>SEGA</manufacturer>
 		<iscoredid/>
