@@ -8817,7 +8817,7 @@
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Konami</manufacturer>
 		<iscoredid>32202</iscoredid>
-		<iscoredtype>descending</iscoredtype>
+		<iscoredtype>moneydescending</iscoredtype>
 	</game>
 	<game name="sstriker" index="true" image="'">
 		<description>Sorcer Striker</description>
