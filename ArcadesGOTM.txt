@@ -8,4 +8,3 @@ pinkswts
 sci
 shienryu
 viewpoin
-galaga
