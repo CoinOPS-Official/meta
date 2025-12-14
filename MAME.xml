@@ -7208,6 +7208,15 @@
 		<iscoredid>34547</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
+	<game name="zerotm2k" index="true" image="'">
+		<description>Zero Team</description>
+		<year>1997</year>
+		<players>2</players>
+		<ctrltype>8  way</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<iscoredid>34547</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+	</game>
 	<game name="offroadt" index="true" image="'">
 		<description>Off-Road Track-Pak</description>
 		<year>1989</year>
@@ -9378,6 +9387,15 @@
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="uccops" index="true" image="'">
+		<description>Undercover Cops</description>
+		<year>1992</year>
+		<players>3</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Irem</manufacturer>
+		<iscoredid>34832</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+	</game>
+	<game name="uccopsaru" index="true" image="'">
 		<description>Undercover Cops</description>
 		<year>1992</year>
 		<players>3</players>
