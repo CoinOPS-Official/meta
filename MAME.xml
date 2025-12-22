@@ -24295,6 +24295,16 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
+	  <game name="hotd" index="true" image="">
+      <description>House of the Dead</description>
+      <manufacturer>Sega</manufacturer>
+      <iscoredid>59249</iscoredid>
+      <iscoredtype>descending</iscoredtype>
+      <year>1996</year>
+      <players>2</players>
+      <ctrltype>lightgun</ctrltype>
+      <genre>shoot n up</genre>
+      </game>
   <game name="HOTD3_PC" index="true" image="">
       <description>House of the Dead 3</description>
       <manufacturer>Sega</manufacturer>
@@ -25516,7 +25526,17 @@
       <genre>shoot n up</genre>
       </game>
   <game name="vcop_Model2" index="true" image="">
-      <description>vcop</description>
+      <description>Virtua Cop</description>
+      <manufacturer>Sega</manufacturer>
+      <iscoredid>59285</iscoredid>
+      <iscoredtype>descending</iscoredtype>
+      <year>1994</year>
+      <players>2</players>
+      <ctrltype>lightgun</ctrltype>
+      <genre>shoot n up</genre>
+      </game>
+	  <game name="vcop" index="true" image="">
+      <description>Virtua Cop</description>
       <manufacturer>Sega</manufacturer>
       <iscoredid>59285</iscoredid>
       <iscoredtype>descending</iscoredtype>
@@ -25526,7 +25546,17 @@
       <genre>shoot n up</genre>
       </game>
   <game name="vcop2_Model2" index="true" image="">
-      <description>vcop2</description>
+      <description>Virtua Cop 2</description>
+      <manufacturer>Sega</manufacturer>
+      <iscoredid>59286</iscoredid>
+      <iscoredtype>descending</iscoredtype>
+      <year>1995</year>
+      <players>2</players>
+      <ctrltype>lightgun</ctrltype>
+      <genre>shoot n up</genre>
+      </game>
+	  <game name="vcop2" index="true" image="">
+      <description>Virtua Cop 2</description>
       <manufacturer>Sega</manufacturer>
       <iscoredid>59286</iscoredid>
       <iscoredtype>descending</iscoredtype>
