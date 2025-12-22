@@ -122,7 +122,7 @@
 		<players>2</players>
 		<ctrltype>twin  stick</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="aoh" index="true">
@@ -167,7 +167,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="arescue" index="true">
@@ -194,7 +194,7 @@
 		<players>4</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="armedf" index="true">
@@ -239,7 +239,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="asylum" index="true">
@@ -248,7 +248,7 @@
 		<players>3</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="aurail" index="true">
@@ -311,7 +311,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Konami</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="bermudat" index="true">
@@ -356,7 +356,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Konami</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="blandia" index="true">
@@ -419,7 +419,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Konami</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="bloodwar" index="true">
@@ -446,7 +446,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="blzntrnd" index="true">
@@ -509,7 +509,7 @@
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="bssoccer" index="true">
@@ -581,7 +581,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="cclimbr2" index="true">
@@ -662,7 +662,7 @@
 		<players>4</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="columns" index="true">
@@ -671,7 +671,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="coolridr" index="true">
@@ -698,7 +698,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="crimec" index="true">
@@ -968,7 +968,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="drmicro" index="true">
@@ -1004,7 +1004,7 @@
 		<players>4</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Irem</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="eaglshot" index="true">
@@ -1013,7 +1013,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="earthjkr" index="true">
@@ -1085,7 +1085,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="exterm" index="true">
@@ -1121,7 +1121,7 @@
 		<players>2</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="f1gp" index="true">
@@ -1130,7 +1130,7 @@
 		<players>1</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="f1gpstar" index="true">
@@ -1148,7 +1148,7 @@
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="fantjour" index="true">
@@ -1229,7 +1229,7 @@
 		<players>4</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Namco</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="fghthist" index="true">
@@ -1256,7 +1256,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="flipshot" index="true">
@@ -1274,7 +1274,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="formatz" index="true">
@@ -1310,7 +1310,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="gaia" index="true">
@@ -1463,7 +1463,7 @@
 		<players>4</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="gstream" index="true">
@@ -1481,7 +1481,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="gt99" index="true">
@@ -1508,7 +1508,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="halleysc" index="true">
@@ -1517,7 +1517,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="hangonjr" index="true">
@@ -1526,7 +1526,7 @@
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="harddriv" index="true">
@@ -1589,7 +1589,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="hvymetal" index="true">
@@ -1787,7 +1787,7 @@
 		<players>1</players>
 		<ctrltype>twin  stick</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="kof2001" index="true">
@@ -1886,7 +1886,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="lasthope" index="true">
@@ -1949,7 +1949,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="lsasquad" index="true">
@@ -1976,7 +1976,7 @@
 		<players>4</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Namco</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="madshark" index="true">
@@ -1985,7 +1985,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="marblmd2" index="true">
@@ -2021,7 +2021,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="metlhawk" index="true">
@@ -2093,7 +2093,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="mtrap" index="true">
@@ -2102,7 +2102,7 @@
 		<players>1</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="mugsmash" index="true">
@@ -2111,7 +2111,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="mustache" index="true">
@@ -2165,7 +2165,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Neo  Geo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="ninclown" index="true">
@@ -2219,7 +2219,7 @@
 		<players>1</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="pipedrm" index="true">
@@ -2309,7 +2309,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="psyvaria" index="true">
@@ -2318,7 +2318,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="pulirula" index="true">
@@ -2363,7 +2363,7 @@
 		<players>1</players>
 		<ctrltype>trackball</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="rabbit" index="true">
@@ -2489,7 +2489,7 @@
 		<players>1</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Atari</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="repulse" index="true">
@@ -2534,7 +2534,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="rockrage" index="true">
@@ -2615,7 +2615,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="schmeisr" index="true">
@@ -2651,7 +2651,7 @@
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="selfeena" index="true">
@@ -2678,7 +2678,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Capcom</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="sfexp" index="true">
@@ -2687,7 +2687,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Capcom</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="shackled" index="true">
@@ -2705,7 +2705,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="shimpact" index="true">
@@ -2732,7 +2732,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="sindbadm" index="true">
@@ -2795,7 +2795,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="solfigtr" index="true">
@@ -2822,7 +2822,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Atari</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="spacefb" index="true">
@@ -2849,7 +2849,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="speedrcr" index="true">
@@ -2867,7 +2867,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="sranger" index="true">
@@ -2885,7 +2885,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Data  East</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="ssideki2" index="true">
@@ -2930,7 +2930,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="starcas" index="true">
@@ -2957,7 +2957,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="strahl" index="true">
@@ -3002,7 +3002,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Konami</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="survarts" index="true">
@@ -3047,7 +3047,7 @@
 		<players>1</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Namco</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="tcobra2" index="true">
@@ -3317,7 +3317,7 @@
 		<players>2</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Namco</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="vindctr2" index="true">
@@ -3344,7 +3344,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="wargods" index="true">
@@ -3380,7 +3380,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="worldwar" index="true">
@@ -3425,7 +3425,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="zedblade" index="true">
@@ -3488,7 +3488,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="kuniokunb" index="true" image="">
@@ -8996,7 +8996,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Namco</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="tektagt" index="true" image="'">
@@ -9878,7 +9878,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Super Street Fighter 2 Turbo HD Remix" index="true" image="'">
@@ -9887,7 +9887,7 @@
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Capcom</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Geometry Wars 3" index="true" image="'">
@@ -9896,7 +9896,7 @@
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Super Stardust" index="true" image="'">
@@ -9905,7 +9905,7 @@
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="dayto2pe" index="true" image="'">
@@ -9995,7 +9995,7 @@
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Capcom</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Street Fighter 6" index="true" image="'">
@@ -10004,7 +10004,7 @@
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Capcom</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Mortal Kombat 1" index="true" image="'">
@@ -10013,7 +10013,7 @@
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Sonic Superstar" index="true" image="'">
@@ -10022,7 +10022,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Starcraft" index="true" image="'">
@@ -10031,7 +10031,7 @@
 		<players>1</players>
 		<ctrltype>trackball</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Arcade Theme" index="true" image="'">
@@ -10039,7 +10039,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Arcade Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10048,7 +10048,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Arcade Theme 2</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10057,7 +10057,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Cabinet Theme 2</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10066,7 +10066,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Cabinet Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10075,7 +10075,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Cascading Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10084,7 +10084,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Legends Theme 2</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10093,7 +10093,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Legends Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10102,7 +10102,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Marquee Theme 2</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10111,7 +10111,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Marquee Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10120,7 +10120,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Spin Theme 2</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10129,7 +10129,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Spin Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10138,7 +10138,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Vertical Theme 2</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10147,7 +10147,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Vertical Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10156,7 +10156,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Wall Theme 2</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10165,7 +10165,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Wall Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10174,7 +10174,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Wheel Theme 2</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10183,7 +10183,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Wheel Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10192,7 +10192,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZZ Dark</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10201,7 +10201,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZZ Lower</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10210,7 +10210,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZZ Spectrum</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10219,7 +10219,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZZ Controller</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10228,7 +10228,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZZ Clean</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10237,7 +10237,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZZ Vertical</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10246,7 +10246,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZZ Wheel</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10255,7 +10255,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZZ Spin</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10264,7 +10264,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x Future Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10273,7 +10273,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x Lengends Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10282,7 +10282,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x Poster Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10291,7 +10291,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x TV Wheel Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10300,7 +10300,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x TV A Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10309,7 +10309,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x Retro Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10318,7 +10318,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x Zen Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10327,7 +10327,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x TV System Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10336,7 +10336,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x TV Fade Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10345,7 +10345,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x Spin Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10354,7 +10354,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x Vertical Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10363,7 +10363,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A ZZZ x Wheel Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -10372,7 +10372,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>B Bezel Artistic</description>
 		<manufacturer>bezel</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>bezel</players>
 	</game>
@@ -10381,7 +10381,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>B Bezel Day</description>
 		<manufacturer>bezel</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>bezel</players>
 	</game>
@@ -10390,7 +10390,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>B Bezel Dusk</description>
 		<manufacturer>bezel</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>bezel</players>
 	</game>
@@ -10399,7 +10399,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>B Bezel Night</description>
 		<manufacturer>bezel</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>bezel</players>
 	</game>
@@ -10408,7 +10408,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>B Bezel Off</description>
 		<manufacturer>bezel</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>bezel</players>
 	</game>
@@ -10417,7 +10417,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>B Bezel Lights Off</description>
 		<manufacturer>bezel</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>bezel</players>
 	</game>
@@ -10426,7 +10426,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>B Bezel Realistic</description>
 		<manufacturer>bezel</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>bezel</players>
 	</game>
@@ -10435,7 +10435,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>B Bezel Television</description>
 		<manufacturer>bezel</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>bezel</players>
 	</game>
@@ -10444,7 +10444,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>C Glass Clear</description>
 		<manufacturer>glass</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>glass</players>
 	</game>
@@ -10453,7 +10453,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>C Glass Reflective</description>
 		<manufacturer>glass</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>glass</players>
 	</game>
@@ -10462,7 +10462,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>C Glass Scuffed</description>
 		<manufacturer>glass</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>glass</players>
 	</game>
@@ -10471,7 +10471,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>D Scanlines Disable</description>
 		<manufacturer>scanlines</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>scanlines</players>
 	</game>
@@ -10480,7 +10480,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>D Scanlines Enable</description>
 		<manufacturer>scanlines</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>scanlines</players>
 	</game>
@@ -10489,7 +10489,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>D Scanlines Glowing</description>
 		<manufacturer>scanlines</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>scanlines</players>
 	</game>
@@ -10498,7 +10498,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>E Attract</description>
 		<manufacturer>settings</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>settings</players>
 	</game>
@@ -10509,7 +10509,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>E Music</description>
 		<manufacturer>settings</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>settings</players>
 	</game>
@@ -10520,7 +10520,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>E Musigamer</description>
 		<manufacturer>settings</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>settings</players>
 	</game>
@@ -10529,7 +10529,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>E Video</description>
 		<manufacturer>settings</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>settings</players>
 	</game>
@@ -10538,7 +10538,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>E ZZ Shutdown</description>
 		<manufacturer>settings</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>settings</players>
 	</game>
@@ -10569,7 +10569,7 @@
 	<game name="Castlevania Bloodlines" index="true" image="'">
 		<description>Castlevania Bloodlines</description>
 		<manufacturer>Genesis</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>Genesis</players>
@@ -10577,7 +10577,7 @@
 	<game name="Contra Hard Corps" index="true" image="'">
 		<description>Contra Hard Corps</description>
 		<manufacturer>Genesis</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>Genesis</players>
@@ -10585,7 +10585,7 @@
 	<game name="Contra III" index="true" image="'">
 		<description>Contra III</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
 		<players>SNES</players>
@@ -10593,7 +10593,7 @@
 	<game name="Demons Crest" index="true" image="'">
 		<description>Demons Crest</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>SNES</players>
@@ -10601,7 +10601,7 @@
 	<game name="Donkey Kong Country I" index="true" image="'">
 		<description>Donkey Kong Country I</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>SNES</players>
@@ -10609,7 +10609,7 @@
 	<game name="Donkey Kong Country II" index="true" image="'">
 		<description>Donkey Kong Country II</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1995</year>
 		<players>SNES</players>
@@ -10617,7 +10617,7 @@
 	<game name="Ecco The Tides of Time" index="true" image="'">
 		<description>Ecco The Tides of Time</description>
 		<manufacturer>Genesis</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>Genesis</players>
@@ -10625,7 +10625,7 @@
 	<game name="F Zero" index="true" image="'">
 		<description>F Zero</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
 		<players>SNES</players>
@@ -10657,7 +10657,7 @@
 	<game name="Legend of Zelda Link to the Past" index="true" image="'">
 		<description>Legend of Zelda Link to the Past</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
 		<players>SNES</players>
@@ -10665,7 +10665,7 @@
 	<game name="Mega Man X1" index="true" image="'">
 		<description>Mega Man X1</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>SNES</players>
@@ -10673,7 +10673,7 @@
 	<game name="Mega Man X2" index="true" image="'">
 		<description>Mega Man X2</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>SNES</players>
@@ -10769,7 +10769,7 @@
 	<game name="Super Castlevania IV" index="true" image="'">
 		<description>Super Castlevania IV</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
 		<players>SNES</players>
@@ -10817,7 +10817,7 @@
 	<game name="Super Metroid" index="true" image="'">
 		<description>Super Metroid</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>SNES</players>
@@ -10873,7 +10873,7 @@
 	<game name="Pilotwings" index="true" image="'">
 		<description>Pilotwings</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
 		<players>SNES</players>
@@ -10921,7 +10921,7 @@
 	<game name="Castlevania - Symphony of the Night" index="true" image="'">
 		<description>Castlevania - Symphony of the Night</description>
 		<manufacturer>PS1</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
 		<players>PS1</players>
@@ -10937,7 +10937,7 @@
 	<game name="Earthworm Jim" index="true" image="'">
 		<description>Earthworm Jim</description>
 		<manufacturer>Genesis</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>Genesis</players>
@@ -10945,7 +10945,7 @@
 	<game name="ECCO the Dolphin" index="true" image="'">
 		<description>ECCO the Dolphin</description>
 		<manufacturer>Genesis</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
 		<players>Genesis</players>
@@ -11097,7 +11097,7 @@
 	<game name="Capcom vs SNK 2" index="true" image="'">
 		<description>Capcom vs SNK 2</description>
 		<manufacturer>Dreamcast</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2001</year>
 		<players>Dreamcast</players>
@@ -11113,7 +11113,7 @@
 	<game name="doom2" index="true" image="'">
 		<description>Doom 2</description>
 		<manufacturer>Doom</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>PC</players>
@@ -11121,7 +11121,7 @@
 	<game name="Road Rash (1994)(Electronic Arts)(Eu)[CDD4431]" index="true" image="'">
 		<description>Road Rash</description>
 		<manufacturer>3DO</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>3DO</players>
@@ -11129,7 +11129,7 @@
 	<game name="Metroid Prime 2" index="true" image="'">
 		<description>Metroid Prime 2</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2004</year>
 		<players>GameCube</players>
@@ -11137,7 +11137,7 @@
 	<game name="Metroid Prime" index="true" image="'">
 		<description>Metroid Prime</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
 		<players>GameCube</players>
@@ -11145,7 +11145,7 @@
 	<game name="Soul Calibur II" index="true" image="'">
 		<description>Soul Calibur II</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
 		<players>GameCube</players>
@@ -11153,7 +11153,7 @@
 	<game name="Star Fox Assault" index="true" image="'">
 		<description>Star Fox Assault</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2005</year>
 		<players>GameCube</players>
@@ -11161,7 +11161,7 @@
 	<game name="Crash Bandicoot - The Wrath of Cortex" index="true" image="'">
 		<description>Crash Bandicoot - The Wrath of Cortex</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
 		<players>GameCube</players>
@@ -11169,7 +11169,7 @@
 	<game name="F-Zero GX" index="true" image="'">
 		<description>F-Zero X GX</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2003</year>
 		<players>GameCube</players>
@@ -11177,7 +11177,7 @@
 	<game name="Mario Power Tennis" index="true" image="'">
 		<description>Mario Power Tennis</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2004</year>
 		<players>GameCube</players>
@@ -11193,7 +11193,7 @@
 	<game name="Super Mario Strikers" index="true" image="'">
 		<description>Super Mario Strikers</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2005</year>
 		<players>GameCube</players>
@@ -11209,7 +11209,7 @@
 	<game name="Mario Superstar Baseball" index="true" image="'">
 		<description>Mario Superstar Baseball</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2005</year>
 		<players>GameCube</players>
@@ -11225,7 +11225,7 @@
 	<game name="GoldenEye (USA)" index="true" image="'">
 		<description>GoldenEye (USA)</description>
 		<manufacturer>N64</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1997</year>
 		<players>N64</players>
@@ -11233,7 +11233,7 @@
 	<game name="Legend of Zelda The Ocarina of Time" index="true" image="'">
 		<description>Legend of Zelda The Ocarina of Time</description>
 		<manufacturer>N64</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1998</year>
 		<players>N64</players>
@@ -11241,7 +11241,7 @@
 	<game name="F-Zero X" index="true" image="'">
 		<description>F-Zero X</description>
 		<manufacturer>N64</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1998</year>
 		<players>N64</players>
@@ -11257,7 +11257,7 @@
 	<game name="Legend Of Zelda The Wind Waker" index="true" image="'">
 		<description>Legend Of Zelda The Wind Waker</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
 		<players>GameCube</players>
@@ -11265,7 +11265,7 @@
 	<game name="Wave Race 64" index="true" image="'">
 		<description>Wave Race 64</description>
 		<manufacturer>N64</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1996</year>
 		<players>N64</players>
@@ -11273,7 +11273,7 @@
 	<game name="Wave Race Blue Storm" index="true" image="'">
 		<description>Wave Race Blue Storm</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2001</year>
 		<players>GameCube</players>
@@ -11305,7 +11305,7 @@
 	<game name="Soul Calibur" index="true" image="'">
 		<description>Soul Calibur</description>
 		<manufacturer>Dreamcast</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1999</year>
 		<players>Dreamcast</players>
@@ -11313,7 +11313,7 @@
 	<game name="Star Fox 64" index="true" image="'">
 		<description>Star Fox 64</description>
 		<manufacturer>N64</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1987</year>
 		<players>N64</players>
@@ -11321,7 +11321,7 @@
 	<game name="Super Mario 64" index="true" image="'">
 		<description>Super Mario 64</description>
 		<manufacturer>N64</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1996</year>
 		<players>N64</players>
@@ -11329,7 +11329,7 @@
 	<game name="Super Mario Sunshine" index="true" image="'">
 		<description>Super Mario Sunshine</description>
 		<manufacturer>GameCube</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
 		<players>GameCube</players>
@@ -11337,7 +11337,7 @@
 	<game name="WipEout Pulse" index="true" image="'">
 		<description>WipEout Pulse</description>
 		<manufacturer>PSP</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2007</year>
 		<players>PSP</players>
@@ -11356,13 +11356,13 @@
 		<players>2</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Capcom</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Street Fighter Alpha 3 MAX" index="true" image="'">
 		<description>Street Fighter 2 Alpha 3 MAX</description>
 		<manufacturer>PSP</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2006</year>
 		<players>PSP</players>
@@ -11389,7 +11389,7 @@
 		<players>2</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Konami</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Streets of Rage 4" index="true" image="'">
@@ -11398,7 +11398,7 @@
 		<players>2</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Cuphead" index="true" image="'">
@@ -11407,7 +11407,7 @@
 		<players>2</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="daytona" index="true" image="'">
@@ -12561,7 +12561,7 @@
 	<game name="simpbowl" index="true" image="">
 		<description>The Simpsons Bowling</description>
 		<manufacturer>Konami</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2000</year>
 		<players>4</players>
@@ -12891,7 +12891,7 @@
 	<game name="twcup90" index="true" image="">
 		<description>Tecmo World Cup &apos;90</description>
 		<manufacturer>Tecmo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1989</year>
 		<players>2</players>
@@ -13051,7 +13051,7 @@
 	<game name="swtrilgy" index="true" image="">
 		<description>Star Wars Trilogy</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1998</year>
 		<players>1</players>
@@ -13064,7 +13064,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Pinball</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pinball_Aliens" index="true" image="'">
@@ -13073,7 +13073,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Pinball</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pinball_Doom" index="true" image="'">
@@ -13082,7 +13082,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Pinball</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pinball_MARVEL_Guardians" index="true" image="'">
@@ -13091,7 +13091,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Pinball</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pinball_MARVEL_InfinityGauntlet" index="true" image="'">
@@ -13100,7 +13100,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Pinball</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pinball_Portal" index="true" image="'">
@@ -13109,7 +13109,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Pinball</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pinball_STARWARS_Episode_4" index="true" image="'">
@@ -13118,7 +13118,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Pinball</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pinball_STARWARS_Han_Solo" index="true" image="'">
@@ -13127,7 +13127,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Pinball</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pinball_STARWARS_SFA" index="true" image="'">
@@ -13136,7 +13136,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Pinball</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pinball_UNIVERSAL_Jurassic_World" index="true" image="'">
@@ -13145,7 +13145,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Pinball</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Donkey Kong - Tropical Freeze" index="true" image="'">
@@ -13154,7 +13154,7 @@
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Super Mario Bros Wonder" index="true" image="'">
@@ -13163,7 +13163,7 @@
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Super Mario Odyssey" index="true" image="'">
@@ -13172,7 +13172,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Legend of Zelda BOTW" index="true" image="'">
@@ -13181,7 +13181,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Legend of Zelda TOTK" index="true" image="'">
@@ -13190,7 +13190,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Legend of Zelda LA" index="true" image="'">
@@ -13199,7 +13199,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Captain Toad Treasure Tracker" index="true" image="'">
@@ -13208,7 +13208,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Kirby and the Forgotten Land" index="true" image="'">
@@ -13217,7 +13217,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Kirbys Return to Dream Land Deluxe" index="true" image="'">
@@ -13226,7 +13226,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Cruisin Blast" index="true" image="'">
@@ -13235,7 +13235,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Yoshis Crafted World" index="true" image="'">
@@ -13244,7 +13244,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Super Smash Bros Ultimate" index="true" image="'">
@@ -13253,7 +13253,7 @@
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Fast RMX" index="true" image="'">
@@ -13262,7 +13262,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Sonic Superstars" index="true" image="'">
@@ -13271,7 +13271,7 @@
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Luigis Mansion 3" index="true" image="'">
@@ -13280,7 +13280,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Super Mario 3D World and Bowsers Fury" index="true" image="'">
@@ -13289,7 +13289,7 @@
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Mario Kart 8 Deluxe" index="true" image="'">
@@ -13298,7 +13298,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Metroid Dread" index="true" image="'">
@@ -13307,7 +13307,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MGSR" index="true" image="'">
@@ -13316,7 +13316,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="New Super Mario Bros U Deluxe" index="true" image="'">
@@ -13325,7 +13325,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Mario Strikers" index="true" image="'">
@@ -13334,7 +13334,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Mario Tennis Aces" index="true" image="'">
@@ -13343,7 +13343,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pac-Man Championship Edition 2 Plus" index="true" image="'">
@@ -13352,7 +13352,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Pac-Man Championship Edition" index="true" image="'">
@@ -13361,7 +13361,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>PSP</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Hades" index="true" image="'">
@@ -13370,7 +13370,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Dead Cells" index="true" image="'">
@@ -13379,7 +13379,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Crash Bandicoot 4" index="true" image="'">
@@ -13388,7 +13388,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="DOOM Eternal" index="true" image="'">
@@ -13397,7 +13397,7 @@
 		<players>1</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Switch</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Fade Theme" index="true" image="'">
@@ -13405,7 +13405,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Fade Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -13414,7 +13414,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Poster Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -13423,7 +13423,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Poster Theme 2</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -13432,7 +13432,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Z TV Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -13441,7 +13441,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Z Fantasy Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -13450,7 +13450,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>A Clean Theme</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -13461,7 +13461,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>E Split Consoles</description>
 		<manufacturer>settings</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>settings</players>
 	</game>
@@ -13826,7 +13826,7 @@
 	<game name="rchase2" index="true" image="">
 		<description>Rail Chase 2 (Revision A)</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>2</players>
@@ -13886,7 +13886,7 @@
 	<game name="trophyht" index="true" image="">
 		<description>Trophy Hunting - Bear &amp; Moose V1.00 (location test)</description>
 		<manufacturer>Sammy USA Corporation</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
 		<players>2</players>
@@ -13926,7 +13926,7 @@
 	<game name="vcop" index="true" image="">
 		<description>Virtua Cop</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>2</players>
@@ -14013,7 +14013,7 @@
 	</game>	<game name="HOTD 2 &amp; 3 Return, The (USA)_WII" index="true" image="">
 		<description>House of the Dead 2 &amp; 3 Return, The</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2008</year>
 		<players>2</players>
@@ -14142,7 +14142,7 @@
 		<description>Adventure Land</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14168,7 +14168,7 @@
 		<description>Secrets of the Deep</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14181,7 +14181,7 @@
 		<description>Attack from Mars</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14194,7 +14194,7 @@
 		<description>Black Rose</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14207,7 +14207,7 @@
 		<description>The Champion Pub</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14221,7 +14221,7 @@
 		<cloneof/>
 		<crc/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>1</players>
@@ -14234,7 +14234,7 @@
 		<description>The Party Zone</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14247,7 +14247,7 @@
 		<description>Safe Cracker</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14260,7 +14260,7 @@
 		<description>Theatre Of Magic</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14312,7 +14312,7 @@
 		<description>Biolab</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14338,7 +14338,7 @@
 		<description>CastleStorm</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14351,7 +14351,7 @@
 		<description>Sorcerer&apos;s Lair</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14364,7 +14364,7 @@
 		<description>Creature From The Black Lagoon</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14403,7 +14403,7 @@
 		<description>Excalibur</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14429,7 +14429,7 @@
 		<description>Son of Zeus</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14442,7 +14442,7 @@
 		<description>Hurricane</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14455,7 +14455,7 @@
 		<description>Epic Quest</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14481,7 +14481,7 @@
 		<description>Marvel - The Avengers Age of Ultron</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14494,7 +14494,7 @@
 		<description>Marvel - Ant-Man</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14507,7 +14507,7 @@
 		<description>Marvel - The Avengers</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14520,7 +14520,7 @@
 		<description>Marvel - Blade</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14533,7 +14533,7 @@
 		<description>Marvel - Captain America</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14546,7 +14546,7 @@
 		<description>Marvel - Civil War</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14559,7 +14559,7 @@
 		<description>Marvel - Deadpool</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14572,7 +14572,7 @@
 		<description>Marvel - Doctor Strange</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14585,7 +14585,7 @@
 		<description>Marvel - Fantastic Four</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14598,7 +14598,7 @@
 		<description>Marvel - Fear Itself</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14611,7 +14611,7 @@
 		<description>Marvel - Ghost Rider</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14624,7 +14624,7 @@
 		<description>Marvel - Guardians of the Galaxy</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14637,7 +14637,7 @@
 		<description>Marvel - The Infinity Gauntlet</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14650,7 +14650,7 @@
 		<description>Marvel - Iron Man</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14663,7 +14663,7 @@
 		<description>Marvel - Moon Knight</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14676,7 +14676,7 @@
 		<description>Marvel - A-Force</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14689,7 +14689,7 @@
 		<description>Marvel - Spider-Man</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14702,7 +14702,7 @@
 		<description>Marvel - Thor</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14715,7 +14715,7 @@
 		<description>Marvel - Venom</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14728,7 +14728,7 @@
 		<description>Marvel - Wolverine</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14741,7 +14741,7 @@
 		<description>Marvel - Champions</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14754,7 +14754,7 @@
 		<description>Marvel - World War Hulk</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14767,7 +14767,7 @@
 		<description>Marvel - X-Men</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14780,7 +14780,7 @@
 		<description>Monster Bash</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14806,7 +14806,7 @@
 		<description>Pasha</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14832,7 +14832,7 @@
 		<description>Red and Ted&apos;s Road Show</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14845,7 +14845,7 @@
 		<description>Star Wars - Solo</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14858,7 +14858,7 @@
 		<description>Star Wars - Calrissian Chronicles</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14871,7 +14871,7 @@
 		<description>Star Wars - Battle of Mimban</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14884,7 +14884,7 @@
 		<description>Rome</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14910,7 +14910,7 @@
 		<description>Star Wars - The Last Jedi</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14923,7 +14923,7 @@
 		<description>Star Wars - Ahch-To Island</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14936,7 +14936,7 @@
 		<description>Star Wars - Might of the First Order</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14949,7 +14949,7 @@
 		<description>Star Wars - Boba Fett</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14962,7 +14962,7 @@
 		<description>Star Wars - The Clone Wars</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14975,7 +14975,7 @@
 		<description>Star Wars - Darth Vader</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -14988,7 +14988,7 @@
 		<description>Star Wars - Droids</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15001,7 +15001,7 @@
 		<description>Star Wars - A New Hope</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15014,7 +15014,7 @@
 		<description>Star Wars - The Empire Strikes Back</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15027,7 +15027,7 @@
 		<description>Star Wars - Return of the Jedi</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15040,7 +15040,7 @@
 		<description>Star Wars - The Force Awakens</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15053,7 +15053,7 @@
 		<description>Star Wars - Han Solo</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15066,7 +15066,7 @@
 		<description>Star Wars - Rogue One</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15079,7 +15079,7 @@
 		<description>Star Wars - Masters of the Force</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15092,7 +15092,7 @@
 		<description>Star Wars - Rebels</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15105,7 +15105,7 @@
 		<description>Star Wars - Starfighter Assault</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15144,7 +15144,7 @@
 		<description>Back To The Future</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15157,7 +15157,7 @@
 		<description>E.T.</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15170,7 +15170,7 @@
 		<description>Jaws</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15183,7 +15183,7 @@
 		<description>Jurassic Park Pinball</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15196,7 +15196,7 @@
 		<description>Jurassic Park Pinball Mayhem</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15209,7 +15209,7 @@
 		<description>Jurassic World Pinball</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15235,7 +15235,7 @@
 		<description>Wild West Rampage</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15248,7 +15248,7 @@
 		<description>Fish Tales</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15262,7 +15262,7 @@
 		<cloneof/>
 		<crc/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15275,7 +15275,7 @@
 		<description>The Getaway: High Speed II</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15288,7 +15288,7 @@
 		<description>Junk Yard</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15301,7 +15301,7 @@
 		<description>Medieval Madness</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15315,7 +15315,7 @@
 		<cloneof/>
 		<crc/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15328,7 +15328,7 @@
 		<description>White Water</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15341,7 +15341,7 @@
 		<description>Cirqus_Voltaire</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15354,7 +15354,7 @@
 		<description>No Good Gofers</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15367,7 +15367,7 @@
 		<description>Tales of the Arabian Nights</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15380,7 +15380,7 @@
 		<description>Indiana Jones: The Pinball Adventure</description>
 		<cloneof/>
 		<manufacturer>Microsoft Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15393,7 +15393,7 @@
 		<description>SouthPark 2</description>
 		<cloneof/>
 		<manufacturer>Zen Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15406,7 +15406,7 @@
 		<description>SouthPark 1</description>
 		<cloneof/>
 		<manufacturer>Zen Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -15419,7 +15419,7 @@
 		<description>Football</description>
 		<cloneof/>
 		<manufacturer>Zen Studios</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<developer>Zen Studios</developer>
 		<players>4</players>
@@ -17330,7 +17330,7 @@
 		<description>00000</description>
 		<year>Swap</year>
 		<manufacturer>Artisan  vs  Clean</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="raverace" index="true" image="'">
@@ -17347,7 +17347,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a 3D</description>
 		<manufacturer>Arcade</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17356,7 +17356,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a 80s Arcade</description>
 		<manufacturer>Arcade</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17365,7 +17365,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a 90s Arcade</description>
 		<manufacturer>Arcade</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17374,7 +17374,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Arcade</description>
 		<manufacturer>Arcade</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17383,7 +17383,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Arcade 2</description>
 		<manufacturer>Arcade</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17392,7 +17392,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Arcades</description>
 		<manufacturer>Arcade</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17401,7 +17401,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Artistic</description>
 		<manufacturer>Artistic</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17410,7 +17410,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Deluxe Arcade</description>
 		<manufacturer>Arcade</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17419,7 +17419,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Art</description>
 		<manufacturer>Cabinet</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17428,7 +17428,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Clean</description>
 		<manufacturer>Cascading</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17437,7 +17437,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Alaska</description>
 		<manufacturer>Aura</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17446,7 +17446,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Aura</description>
 		<manufacturer>Aura</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17455,7 +17455,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Focus</description>
 		<manufacturer>Aura</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17464,7 +17464,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Xmas</description>
 		<manufacturer>Xmas</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17473,7 +17473,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Graffiti</description>
 		<manufacturer>Graffiti</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17482,7 +17482,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Poster</description>
 		<manufacturer>Aura</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17491,7 +17491,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Poster 2</description>
 		<manufacturer>Aura</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17500,7 +17500,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Fantasy Wheel</description>
 		<manufacturer>Alaska</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17509,7 +17509,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Fantasy</description>
 		<manufacturer>Aura</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17518,7 +17518,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Game Play</description>
 		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17527,7 +17527,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Game Wheel</description>
 		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17536,7 +17536,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Game Wheel 2</description>
 		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17545,7 +17545,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Legends 1</description>
 		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17554,7 +17554,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Legends 2</description>
 		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17563,7 +17563,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Marquee</description>
 		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17572,7 +17572,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Smoke</description>
 		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17581,7 +17581,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Spin</description>
 		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17590,7 +17590,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Spin 2</description>
 		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17599,7 +17599,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Wheel</description>
 		<manufacturer>Fade</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17608,7 +17608,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a TV Theme 2</description>
 		<manufacturer>TV</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17617,7 +17617,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Clean Theme 2</description>
 		<manufacturer>Clean</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17626,7 +17626,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Retro</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17635,7 +17635,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Retro 2</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17644,7 +17644,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Retro 3</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17653,7 +17653,7 @@
 		<ctrltype>settings</ctrltype>
 		<description>a Retro 4</description>
 		<manufacturer>theme</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
@@ -17700,7 +17700,7 @@
 	<game name="Quake1" index="true" image="'">
 		<description>Quake 1</description>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>analog</ctrltype>
 		<year>1996</year>
@@ -17709,7 +17709,7 @@
 	<game name="Quake2" index="true" image="'">
 		<description>Quake 2</description>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>analog</ctrltype>
 		<year>1997</year>
@@ -17718,7 +17718,7 @@
 	<game name="Sorcery Plus" index="true" image="'">
 		<description>Sorcery Plus</description>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>4  way</ctrltype>
 		<year>1984</year>
@@ -17727,7 +17727,7 @@
 	<game name="Jet Set Willy" index="true" image="'">
 		<description>Wave Jet Set Willy</description>
 		<manufacturer>Other</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>4  way</ctrltype>
 		<year>1984</year>
@@ -17746,7 +17746,7 @@
 	<game name="Batman Returns" index="true" image="'">
 		<description>Batman Returns</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1992</year>
@@ -17755,7 +17755,7 @@
 	<game name="Batman Returns (USA)" index="true" image="'">
 		<description>Batman Returns</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1992</year>
@@ -17800,7 +17800,7 @@
 	<game name="Donkey Kong Country III" index="true" image="'">
 		<description>Donkey Kong Country III</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1996</year>
@@ -17827,7 +17827,7 @@
 	<game name="Goof Troop" index="true" image="'">
 		<description>Goof Troop</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
@@ -17836,7 +17836,7 @@
 	<game name="Goof Troop (USA)" index="true" image="'">
 		<description>Goof Troop</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
@@ -17845,7 +17845,7 @@
 	<game name="Great Circus Mystery" index="true" image="'">
 		<description>Great Circus Mystery</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
@@ -17872,7 +17872,7 @@
 	<game name="Kirby Super Star" index="true" image="'">
 		<description>Kirby Super Star</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1996</year>
@@ -17881,7 +17881,7 @@
 	<game name="Legend of the Mystical Ninja" index="true" image="'">
 		<description>Legend of the Mystical Ninja</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1991</year>
@@ -17890,7 +17890,7 @@
 	<game name="Lost Vikings" index="true" image="'">
 		<description>Lost Vikings</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
@@ -17953,7 +17953,7 @@
 	<game name="Mega Man X3" index="true" image="'">
 		<description>Mega Man X3</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1995</year>
@@ -17962,7 +17962,7 @@
 	<game name="Rock N Roll Racing" index="true" image="'">
 		<description>Rock N Roll Racing</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
@@ -17989,7 +17989,7 @@
 	<game name="Super Double Dragon" index="true" image="'">
 		<description>Super Double Dragon</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1992</year>
@@ -18106,7 +18106,7 @@
 	<game name="Dynamite Headdy" index="true" image="'">
 		<description>Dynamite Headdy</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
@@ -18115,7 +18115,7 @@
 		<game name="Dynamite Headdy (USA, Europe)" index="true" image="'">
 		<description>Dynamite Headdy</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
@@ -18142,7 +18142,7 @@
 	<game name="Jungle Strike" index="true" image="'">
 		<description>Jungle Strike</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
@@ -18151,7 +18151,7 @@
 	<game name="Jungle Strike (USA, Europe)" index="true" image="'">
 		<description>Jungle Strike</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
@@ -18214,7 +18214,7 @@
 	<game name="Urban Strike" index="true" image="'">
 		<description>Urban Strike</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
@@ -18223,7 +18223,7 @@
 	<game name="Urban Strike (USA, Europe)" index="true" image="'">
 		<description>Urban Strike</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
@@ -18309,7 +18309,7 @@
 		<year>2017</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Archer" index="true" image="">
@@ -18335,7 +18335,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BALLY_Attack_from_Mars" index="true" image="">
@@ -18348,7 +18348,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>5</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BALLY_BlackRose" index="true" image="">
@@ -18361,7 +18361,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BALLY_Champion_Pub" index="true" image="">
@@ -18374,7 +18374,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BALLY_Dr_Dude" index="true" image="">
@@ -18388,7 +18388,7 @@
 		<genre>Pinball</genre>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BALLY_Party_Zone" index="true" image="">
@@ -18401,7 +18401,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BALLY_Safe_Cracker" index="true" image="">
@@ -18414,7 +18414,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BALLY_TheatreOfMagic" index="true" image="">
@@ -18427,7 +18427,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BETHESDA_Doom" index="true" image="">
@@ -18479,7 +18479,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BobsBurgers" index="true" image="">
@@ -18505,7 +18505,7 @@
 		<year>2015</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Citadel" index="true" image="">
@@ -18518,7 +18518,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BALLY_Creature_from_the_Black_Lagoon" index="true" image="">
@@ -18531,7 +18531,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="EarthDefense" index="true" image="">
@@ -18570,7 +18570,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="FamilyGuy" index="true" image="">
@@ -18596,7 +18596,7 @@
 		<year>2017</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_Hurricane" index="true" image="">
@@ -18609,7 +18609,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Looter" index="true" image="">
@@ -18622,7 +18622,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="PF3Mars" index="true" image="">
@@ -18648,7 +18648,7 @@
 		<year>2015</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_Ant-Man" index="true" image="">
@@ -18661,7 +18661,7 @@
 		<year>2015</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_Avengers" index="true" image="">
@@ -18674,7 +18674,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_Blade" index="true" image="">
@@ -18687,7 +18687,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_CaptainAmerica" index="true" image="">
@@ -18700,7 +18700,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_CivilWar" index="true" image="">
@@ -18713,7 +18713,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_Deadpool" index="true" image="">
@@ -18726,7 +18726,7 @@
 		<year>2014</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_DrStrange" index="true" image="">
@@ -18739,7 +18739,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_FantasticFour" index="true" image="">
@@ -18752,7 +18752,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_FearItSelf" index="true" image="">
@@ -18765,7 +18765,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_GhostRider" index="true" image="">
@@ -18778,7 +18778,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_Guardians" index="true" image="">
@@ -18791,7 +18791,7 @@
 		<year>2014</year>
 		<rating>ESRB - E10+ (Everyone 10+)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_InfinityGauntlet" index="true" image="">
@@ -18804,7 +18804,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_IronMan" index="true" image="">
@@ -18817,7 +18817,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_MoonKnight" index="true" image="">
@@ -18830,7 +18830,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_MsMarvel" index="true" image="">
@@ -18843,7 +18843,7 @@
 		<year>2016</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_SpiderMan" index="true" image="">
@@ -18856,7 +18856,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_Thor" index="true" image="">
@@ -18869,7 +18869,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_Venom" index="true" image="">
@@ -18882,7 +18882,7 @@
 		<year>2014</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_Wolverine" index="true" image="">
@@ -18895,7 +18895,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_WOP_TheNextGeneration" index="true" image="">
@@ -18908,7 +18908,7 @@
 		<year>2016</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_WWH" index="true" image="">
@@ -18921,7 +18921,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="MARVEL_XMen" index="true" image="">
@@ -18934,7 +18934,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_Monster_Bash" index="true" image="">
@@ -18947,7 +18947,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Paranormal" index="true" image="">
@@ -18973,7 +18973,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Portal" index="true" image="">
@@ -18999,7 +18999,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="RedCup1" index="true" image="">
@@ -19012,7 +19012,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="RedCup2" index="true" image="">
@@ -19025,7 +19025,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="RedCup3" index="true" image="">
@@ -19038,7 +19038,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Rome" index="true" image="">
@@ -19051,7 +19051,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Shaman" index="true" image="">
@@ -19077,7 +19077,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="SpaceBear2" index="true" image="">
@@ -19090,7 +19090,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_AVCO2" index="true" image="">
@@ -19103,7 +19103,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_Boba_Fett" index="true" image="">
@@ -19116,7 +19116,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_CloneWars" index="true" image="">
@@ -19129,7 +19129,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_Darth_Vader" index="true" image="">
@@ -19142,7 +19142,7 @@
 		<year>2013</year>
 		<rating>ESRB - E10+ (Everyone 10+)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_Droids" index="true" image="">
@@ -19155,7 +19155,7 @@
 		<year>2014</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_Episode_4" index="true" image="">
@@ -19168,7 +19168,7 @@
 		<year>2014</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_Episode_5" index="true" image="">
@@ -19181,7 +19181,7 @@
 		<year>2013</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_Episode_6" index="true" image="">
@@ -19194,7 +19194,7 @@
 		<year>2013</year>
 		<rating>ESRB - E10+ (Everyone 10+)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_Episode7" index="true" image="">
@@ -19207,7 +19207,7 @@
 		<year>2016</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_Han_Solo" index="true" image="">
@@ -19220,7 +19220,7 @@
 		<year>2014</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_LAPB" index="true" image="">
@@ -19233,7 +19233,7 @@
 		<year>2014</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_Light_VS_Dark" index="true" image="">
@@ -19246,7 +19246,7 @@
 		<year>2014</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_Rebels" index="true" image="">
@@ -19259,7 +19259,7 @@
 		<year>2015</year>
 		<rating>ESRB - E10+ (Everyone 10+)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="STARWARS_SFA" index="true" image="">
@@ -19272,7 +19272,7 @@
 		<year>2013</year>
 		<rating>ESRB - E10+ (Everyone 10+)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Tesla" index="true" image="">
@@ -19311,7 +19311,7 @@
 		<year>2017</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="UNIVERSAL_ET" index="true" image="">
@@ -19324,7 +19324,7 @@
 		<year>2017</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="UNIVERSAL_Jaws" index="true" image="">
@@ -19337,7 +19337,7 @@
 		<year>2017</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="UNIVERSAL_Jurassic_Park" index="true" image="">
@@ -19350,7 +19350,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="UNIVERSAL_Jurassic_Theme_Park" index="true" image="">
@@ -19363,7 +19363,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="UNIVERSAL_Jurassic_World" index="true" image="">
@@ -19376,7 +19376,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="V12" index="true" image="">
@@ -19402,7 +19402,7 @@
 		<year>2015</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_Fish_Tales" index="true" image="">
@@ -19415,7 +19415,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_Funhouse" index="true" image="w">
@@ -19429,7 +19429,7 @@
 		<genre>Pinball</genre>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_Getaway" index="true" image="">
@@ -19442,7 +19442,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_Junkyard" index="true" image="">
@@ -19455,7 +19455,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_Medieval_Madness" index="true" image="">
@@ -19468,7 +19468,7 @@
 		<year>2018</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_Space_Station" index="true" image="">
@@ -19482,7 +19482,7 @@
 		<genre>Pinball</genre>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_White_Water" index="true" image="">
@@ -19495,7 +19495,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="BALLY_Cirqus_Voltaire" index="true" image="">
@@ -19508,7 +19508,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_No_Good_Gofers" index="true" image="">
@@ -19521,7 +19521,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_Tales_of_the_Arabian_Nights" index="true" image="">
@@ -19534,7 +19534,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="WMS_Indiana_Jones" index="true" image="">
@@ -19547,7 +19547,7 @@
 		<year>2019</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="SouthPark2" index="true" image="">
@@ -19560,7 +19560,7 @@
 		<year>2017</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="SouthPark1" index="true" image="">
@@ -19573,7 +19573,7 @@
 		<year>2017</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="Football" index="true" image="">
@@ -19586,7 +19586,7 @@
 		<year>2017</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>4.3</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="PlantsVsZombies" index="true" image="">
@@ -22654,7 +22654,7 @@
 		<year>2021</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>3.6</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="POSTAL Redux Deluxe" index="true" image="">
@@ -22667,7 +22667,7 @@
 		<year>2021</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>3.8</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="POSTAL Redux Remake" index="true" image="">
@@ -22693,7 +22693,7 @@
 		<year>2021</year>
 		<rating>ESRB - E (Everyone)</rating>
 		<score>3.7</score>
-		<iscoredid/>
+		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="POSTAL 2 SS" index="true" image="">
