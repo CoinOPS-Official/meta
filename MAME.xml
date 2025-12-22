@@ -1940,7 +1940,7 @@
 		<players>2</players>
 		<ctrltype>trackball</ctrltype>
 		<manufacturer>Atari</manufacturer>
-		<iscoredid>87801</iscoredid/>
+		<iscoredid>87801</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="lockonph" index="true">
