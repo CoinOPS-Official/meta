@@ -374,7 +374,7 @@
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Williams</manufacturer>
-		<iscoredid/>
+		<iscoredid>87802</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="blastoff" index="true">
@@ -653,7 +653,7 @@
 		<players>1</players>
 		<ctrltype>twin  stick</ctrltype>
 		<manufacturer>Atari</manufacturer>
-		<iscoredid/>
+		<iscoredid>87803</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="colmns97" index="true">
@@ -1940,7 +1940,7 @@
 		<players>2</players>
 		<ctrltype>trackball</ctrltype>
 		<manufacturer>Atari</manufacturer>
-		<iscoredid/>
+		<iscoredid>87801</iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="lockonph" index="true">
@@ -2210,7 +2210,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Konami</manufacturer>
-		<iscoredid/>
+		<iscoredid>87804</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="pepper2" index="true">
@@ -11965,6 +11965,16 @@
 		<iscoredid>34329</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<genre>shoot n up</genre>
+	</game>
+	<game name="skytargt" index="true" image="">
+		<description>Sky Target</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>87805</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1997</year>
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<genre>shoot n up</genre>
