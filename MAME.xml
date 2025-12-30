@@ -10556,7 +10556,7 @@
 		<iscoredid>82125</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Axelay" index="true" image="'">
 		<description>Axelay</description>
@@ -10572,7 +10572,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Contra Hard Corps" index="true" image="'">
 		<description>Contra Hard Corps</description>
@@ -10580,7 +10580,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Contra III" index="true" image="'">
 		<description>Contra III</description>
@@ -10620,7 +10620,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>Genesis</players>
+		<players>1<players>
 	</game>
 	<game name="F Zero" index="true" image="'">
 		<description>F Zero</description>
@@ -10628,7 +10628,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Final Fight II" index="true" image="'">
 		<description>Final Fight II</description>
@@ -10636,7 +10636,7 @@
 		<iscoredid>55837,55838,55839,55840</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>SNES</players>
+		<players>2</players>
 	</game>
 	<game name="Final Fight III" index="true" image="'">
 		<description>Final Fight III</description>
@@ -10644,7 +10644,7 @@
 		<iscoredid>55825,55826,55827,55828,55829,55830,55831,55832,55833,55834,55835,55836</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1995</year>
-		<players>SNES</players>
+		<players>2</players>
 	</game>
 	<game name="Gunstar Heroes" index="true" image="'">
 		<description>Gunstar Heroes</description>
@@ -10652,7 +10652,7 @@
 		<iscoredid>55433,55434,55435,55436</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Legend of Zelda Link to the Past" index="true" image="'">
 		<description>Legend of Zelda Link to the Past</description>
@@ -10660,7 +10660,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Mega Man X1" index="true" image="'">
 		<description>Mega Man X1</description>
@@ -10668,7 +10668,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Mega Man X2" index="true" image="'">
 		<description>Mega Man X2</description>
@@ -10676,7 +10676,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Ninja Warriors" index="true" image="'">
 		<description>Ninja Warriors</description>
@@ -10684,7 +10684,7 @@
 		<iscoredid>55644,55645</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>SNES</players>
+		<players>2</players>
 	</game>
 	<game name="Pocky Rocky I" index="true" image="'">
 		<description>Pocky Rocky I</description>
@@ -10692,7 +10692,7 @@
 		<iscoredid>55587,55588,55589</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Pocky Rocky II" index="true" image="'">
 		<description>Pocky Rocky II</description>
@@ -10700,7 +10700,7 @@
 		<iscoredid>55590,55591,55592</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Revenge of Shinobi" index="true" image="'">
 		<description>Revenge of Shinobi</description>
@@ -10708,7 +10708,7 @@
 		<iscoredid>55571,55572,55573,55574</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1989</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="R-Type III" index="true" image="'">
 		<description>R-Type III</description>
@@ -10716,7 +10716,7 @@
 		<iscoredid>55584</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>SNES</players>
+		<players>2</players>
 	</game>
 	<game name="Shinobi III" index="true" image="'">
 		<description>Shinobi III</description>
@@ -10724,7 +10724,7 @@
 		<iscoredid>55575,55576,55577,55578</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Sonic The Hedgehog I" index="true" image="'">
 		<description>Sonic The Hedgehog I</description>
@@ -10732,7 +10732,7 @@
 		<iscoredid>55514</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Sonic The Hedgehog II" index="true" image="'">
 		<description>Sonic The Hedgehog II</description>
@@ -10740,7 +10740,7 @@
 		<iscoredid>55530,55531,55532</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Sonic The Hedgehog III" index="true" image="'">
 		<description>Sonic The Hedgehog III</description>
@@ -10748,7 +10748,7 @@
 		<iscoredid>55534,55535,55533</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Streets Of Rage I" index="true" image="'">
 		<description>Streets Of Rage I</description>
@@ -10756,7 +10756,7 @@
 		<iscoredid>55536,55537,55538,55539</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
-		<players>Genesis</players>
+		<players>2</players>
 	</game>
 	<game name="Streets Of Rage II" index="true" image="'">
 		<description>Streets Of Rage II</description>
@@ -10764,7 +10764,7 @@
 		<iscoredid>55540,55541,55542,55543</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
-		<players>Genesis</players>
+		<players>2</players>
 	</game>
 	<game name="Super Castlevania IV" index="true" image="'">
 		<description>Super Castlevania IV</description>
@@ -10772,7 +10772,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Super Ghouls n Ghosts" index="true" image="'">
 		<description>Super Ghouls n Ghosts</description>
@@ -10780,7 +10780,7 @@
 		<iscoredid>55525,55526,55527,55528</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Super Mario All Stars" index="true" image="'">
 		<description>Super Mario All Stars</description>
@@ -10788,7 +10788,7 @@
 		<iscoredid>82374,82375,82376,82377,82378</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>SNES</players>
+		<players>2</players>
 	</game>
 	<game name="Super Mario Kart" index="true" image="'">
 		<description>Super Mario Kart</description>
@@ -10796,7 +10796,7 @@
 		<iscoredid>82428,82429,82430,82431,82432,82434,82435,82436,82437,82438,82439,82440,82441,82442,82443</iscoredid>
 		<iscoredtype>timeascending</iscoredtype>
 		<year>1992</year>
-		<players>SNES</players>
+		<players>2</players>
 	</game>
 	<game name="Super Mario World 1" index="true" image="'">
 		<description>Super Mario World 1</description>
@@ -10804,7 +10804,7 @@
 		<iscoredid>82328</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Super Mario World 2" index="true" image="'">
 		<description>Super Mario World 2</description>
@@ -10812,7 +10812,7 @@
 		<iscoredid>82329</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1995</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Super Metroid" index="true" image="'">
 		<description>Super Metroid</description>
@@ -10820,7 +10820,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Super Punch-Out!!" index="true" image="'">
 		<description>Super Punch-Out!!</description>
@@ -10828,7 +10828,7 @@
 		<iscoredid>55192,55193,55194,55195,55196,55197,55198,55199,55200,55201,55202,55203,55204,55205,55206,55207</iscoredid>
 		<iscoredtype>timeascending</iscoredtype>
 		<year>1994</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Super Star Wars" index="true" image="'">
 		<description>Super Star Wars</description>
@@ -10836,7 +10836,7 @@
 		<iscoredid>55595,55596,55597</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Super Star Wars II" index="true" image="'">
 		<description>Super Star Wars II</description>
@@ -10844,7 +10844,7 @@
 		<iscoredid>55600,55601,55598</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Super Star Wars III" index="true" image="'">
 		<description>Super Star Wars III</description>
@@ -10852,7 +10852,7 @@
 		<iscoredid>55604,55605,55603</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Wild Guns" index="true" image="'">
 		<description>Wild Guns</description>
@@ -10860,7 +10860,7 @@
 		<iscoredid>55641,55642,55643</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>SNES</players>
+		<players>2</players>
 	</game>
 	<game name="Zombies Ate My Neighbors" index="true" image="'">
 		<description>Zombies Ate My Neighbors</description>
@@ -10868,7 +10868,7 @@
 		<iscoredid>55639</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Pilotwings" index="true" image="'">
 		<description>Pilotwings</description>
@@ -10876,7 +10876,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="International Karate Plus" index="true" image="'">
 		<description>International Karate Plus</description>
@@ -10884,7 +10884,7 @@
 		<iscoredid>55783,55784,55785</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2001</year>
-		<players>GBA</players>
+		<players>1</players>
 	</game>
 	<game name="Manic Miner" index="true" image="'">
 		<description>Manic Miner</description>
@@ -10892,7 +10892,7 @@
 		<iscoredid>25298</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1983</year>
-		<players>Spectrum</players>
+		<players>1</players>
 	</game>
 	<game name="Way of the Exploding Fists" index="true" image="'">
 		<description>Way of the Exploding Fists</description>
@@ -10900,7 +10900,7 @@
 		<iscoredid>55786,55787,55788,55789,55790,55791,55792,55793,55794,55795,55796</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1985</year>
-		<players>C64</players>
+		<players>2</players>
 	</game>
 	<game name="Paradroid" index="true" image="'">
 		<description>Paradroid</description>
@@ -10908,7 +10908,7 @@
 		<iscoredid>55809</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1985</year>
-		<players>C64</players>
+		<players>1</players>
 	</game>
 	<game name="Uridium" index="true" image="'">
 		<description>Uridium</description>
@@ -10916,7 +10916,7 @@
 		<iscoredid>31000</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1986</year>
-		<players>C64</players>
+		<players>2</players>
 	</game>
 	<game name="Castlevania - Symphony of the Night" index="true" image="'">
 		<description>Castlevania - Symphony of the Night</description>
@@ -10924,7 +10924,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
-		<players>PS1</players>
+		<players>1</players>
 	</game>
 	<game name="Comix Zone" index="true" image="'">
 		<description>Comix Zone</description>
@@ -10932,7 +10932,7 @@
 		<iscoredid>82130</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1995</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Earthworm Jim" index="true" image="'">
 		<description>Earthworm Jim</description>
@@ -10940,7 +10940,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="ECCO the Dolphin" index="true" image="'">
 		<description>ECCO the Dolphin</description>
@@ -10948,7 +10948,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Sonic CD" index="true" image="'">
 		<description>Sonic CD</description>
@@ -10956,7 +10956,7 @@
 		<iscoredid>55564</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="Streets Of Rage III" index="true" image="'">
 		<description>Streets of Rage III</description>
@@ -10964,7 +10964,7 @@
 		<iscoredid>55544,55545,55546</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>Genesis</players>
+		<players>2</players>
 	</game>
 	<game name="Xenocrisis" index="true" image="'">
 		<description>Xenocrisis</description>
@@ -10972,7 +10972,7 @@
 		<iscoredid>55637,55638</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1998</year>
-		<players>Genesis</players>
+		<players>2</players>
 	</game>
 	<game name="Rocket Knight Adventures" index="true" image="'">
 		<description>Rocket Knight Adventures</description>
@@ -10980,7 +10980,7 @@
 		<iscoredid>55560,55561,55562,55563</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>Genesis</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_dkjr" index="true" image="'">
 		<description>G&amp;W2 donkey kong jr</description>
@@ -10988,7 +10988,7 @@
 		<iscoredid>55746,55765</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1982</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_dkong" index="true" image="'">
 		<description>G&amp;W1 donkey kong</description>
@@ -10996,7 +10996,7 @@
 		<iscoredid>55747,55766</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1982</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_zelda" index="true" image="'">
 		<description>G&amp;W1 zelda</description>
@@ -11004,7 +11004,7 @@
 		<iscoredid>55764,55782</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1982</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_dkong2" index="true" image="'">
 		<description>G&amp;W1 donkey kong 2</description>
@@ -11012,7 +11012,7 @@
 		<iscoredid>55748,55767</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1983</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_fire" index="true" image="'">
 		<description>G&amp;W2 fire</description>
@@ -11020,7 +11020,7 @@
 		<iscoredid>55749,55768</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1980</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_mickdon" index="true" image="'">
 		<description>G&amp;W1 mickey and donald</description>
@@ -11028,7 +11028,7 @@
 		<iscoredid>55755,55774</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1982</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_octopus" index="true" image="'">
 		<description>G&amp;W2 octopus</description>
@@ -11036,7 +11036,7 @@
 		<iscoredid>55756,55775</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1981</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_opanic" index="true" image="'">
 		<description>G&amp;W1 oil panic</description>
@@ -11044,7 +11044,7 @@
 		<iscoredid>55757,55776</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1982</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_pchute" index="true" image="'">
 		<description>G&amp;W2 parachute</description>
@@ -11052,7 +11052,7 @@
 		<iscoredid>55758,55777</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1981</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_popeye" index="true" image="'">
 		<description>G&amp;W2 popeye</description>
@@ -11060,7 +11060,7 @@
 		<iscoredid>55759,55778</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1981</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_stennis" index="true" image="'">
 		<description>G&amp;W2 snoopys tennis</description>
@@ -11068,7 +11068,7 @@
 		<iscoredid>55762,55780</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1982</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_tbridge" index="true" image="'">
 		<description>G&amp;W2 turtle bridge</description>
@@ -11076,7 +11076,7 @@
 		<iscoredid>55763,55781</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1982</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_ghouse" index="true" image="'">
 		<description>G&amp;W1 green house</description>
@@ -11084,7 +11084,7 @@
 		<iscoredid>55751,55770</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1982</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="Border Down" index="true" image="'">
 		<description>Border Down</description>
@@ -11092,7 +11092,7 @@
 		<iscoredid>55801,55802,55803,55804,55805,55806,55807,55808</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2003</year>
-		<players>Dreamcast</players>
+		<players>1</players>
 	</game>
 	<game name="Capcom vs SNK 2" index="true" image="'">
 		<description>Capcom vs SNK 2</description>
@@ -11100,7 +11100,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2001</year>
-		<players>Dreamcast</players>
+		<players>2</players>
 	</game>
 	<game name="Crazy Taxi" index="true" image="'">
 		<description>Crazy Taxi</description>
@@ -11108,7 +11108,7 @@
 		<iscoredid>55215,55216,55217,55218</iscoredid>
 		<iscoredtype>moneydescending</iscoredtype>
 		<year>1999</year>
-		<players>Dreamcast</players>
+		<players>1</players>
 	</game>
 	<game name="doom2" index="true" image="'">
 		<description>Doom 2</description>
@@ -11116,7 +11116,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>PC</players>
+		<players>1</players>
 	</game>
 	<game name="Road Rash (1994)(Electronic Arts)(Eu)[CDD4431]" index="true" image="'">
 		<description>Road Rash</description>
@@ -11124,7 +11124,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>3DO</players>
+		<players>1</players>
 	</game>
 	<game name="Metroid Prime 2" index="true" image="'">
 		<description>Metroid Prime 2</description>
@@ -11132,7 +11132,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2004</year>
-		<players>GameCube</players>
+		<players>1</players>
 	</game>
 	<game name="Metroid Prime" index="true" image="'">
 		<description>Metroid Prime</description>
@@ -11140,7 +11140,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
-		<players>GameCube</players>
+		<players>1</players>
 	</game>
 	<game name="Soul Calibur II" index="true" image="'">
 		<description>Soul Calibur II</description>
@@ -11148,7 +11148,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
-		<players>GameCube</players>
+		<players>2</players>
 	</game>
 	<game name="Star Fox Assault" index="true" image="'">
 		<description>Star Fox Assault</description>
@@ -11156,7 +11156,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2005</year>
-		<players>GameCube</players>
+		<players>1</players>
 	</game>
 	<game name="Crash Bandicoot - The Wrath of Cortex" index="true" image="'">
 		<description>Crash Bandicoot - The Wrath of Cortex</description>
@@ -11164,7 +11164,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
-		<players>GameCube</players>
+		<players>1</players>
 	</game>
 	<game name="F-Zero GX" index="true" image="'">
 		<description>F-Zero X GX</description>
@@ -11172,7 +11172,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2003</year>
-		<players>GameCube</players>
+		<players>2</players>
 	</game>
 	<game name="Mario Power Tennis" index="true" image="'">
 		<description>Mario Power Tennis</description>
@@ -11180,7 +11180,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2004</year>
-		<players>GameCube</players>
+		<players>2</players>
 	</game>
 	<game name="Mario Golf" index="true" image="'">
 		<description>Mario Golf</description>
@@ -11188,7 +11188,7 @@
 		<iscoredid>82397,82398,82400,82401,82402,82403,82404,82405</iscoredid>
 		<iscoredtype>ascending,ascending,ascending,ascending,ascending,ascending,timeascending,timeascending</iscoredtype>
 		<year>2003</year>
-		<players>GameCube</players>
+		<players>2</players>
 	</game>
 	<game name="Super Mario Strikers" index="true" image="'">
 		<description>Super Mario Strikers</description>
@@ -11196,7 +11196,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2005</year>
-		<players>GameCube</players>
+		<players>2</players>
 	</game>
 	<game name="1080 Avalanche" index="true" image="'">
 		<description>1080 Avalanche</description>
@@ -11204,7 +11204,7 @@
 		<iscoredid>82445,82446,82447,82448,82449,82450,82451,82452,82453</iscoredid>
 		<iscoredtype>descending,descending,descending,timeascending,timeascending,timeascending,descending,descending,descending</iscoredtype>
 		<year>2003</year>
-		<players>GameCube</players>
+		<players>1</players>
 	</game>
 	<game name="Mario Superstar Baseball" index="true" image="'">
 		<description>Mario Superstar Baseball</description>
@@ -11212,7 +11212,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2005</year>
-		<players>GameCube</players>
+		<players>2</players>
 	</game>
 	<game name="1080 Snowboarding (Europe) (En,Ja,Fr,De)" index="true" image="'">
 		<description>1080 Snowboarding (Europe) (En,Ja,Fr,De)</description>
@@ -11220,7 +11220,7 @@
 		<iscoredid>82556,82557,82558,82560,82561,82562,82563,82564</iscoredid>
 		<iscoredtype>timeascending,timeascending,timeascending,descending,descending,descending,descending,descending</iscoredtype>
 		<year>1998</year>
-		<players>N64</players>
+		<players>2</players>
 	</game>
 	<game name="GoldenEye (USA)" index="true" image="'">
 		<description>GoldenEye (USA)</description>
@@ -11228,7 +11228,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1997</year>
-		<players>N64</players>
+		<players>4</players>
 	</game>
 	<game name="Legend of Zelda The Ocarina of Time" index="true" image="'">
 		<description>Legend of Zelda The Ocarina of Time</description>
@@ -11236,7 +11236,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1998</year>
-		<players>N64</players>
+		<players>1</players>
 	</game>
 	<game name="F-Zero X" index="true" image="'">
 		<description>F-Zero X</description>
@@ -11244,7 +11244,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1998</year>
-		<players>N64</players>
+		<players>2</players>
 	</game>
 	<game name="Ikaruga" index="true" image="'">
 		<description>Ikaruga</description>
@@ -11252,7 +11252,7 @@
 		<iscoredid>55266,55267,55268</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2001</year>
-		<players>Dreamcast</players>
+		<players>1</players>
 	</game>
 	<game name="Legend Of Zelda The Wind Waker" index="true" image="'">
 		<description>Legend Of Zelda The Wind Waker</description>
@@ -11260,7 +11260,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
-		<players>GameCube</players>
+		<players>1</players>
 	</game>
 	<game name="Wave Race 64" index="true" image="'">
 		<description>Wave Race 64</description>
@@ -11268,7 +11268,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1996</year>
-		<players>N64</players>
+		<players>2</players>
 	</game>
 	<game name="Wave Race Blue Storm" index="true" image="'">
 		<description>Wave Race Blue Storm</description>
@@ -11276,7 +11276,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2001</year>
-		<players>GameCube</players>
+		<players>2</players>
 	</game>
 	<game name="Mario Kart 64" index="true" image="'">
 		<description>Mario Kart 64</description>
@@ -11284,7 +11284,7 @@
 		<iscoredid>82379,82381,82382,82383,82384,82385,82386,82387,82388,82389,82390,82391,82392,82393,82394,82395</iscoredid>
 		<iscoredtype>timeascending</iscoredtype>
 		<year>1996</year>
-		<players>N64</players>
+		<players>4</players>
 	</game>
 	<game name="Mario Kart Double Dash" index="true" image="'">
 		<description>Mario Kart Double Dash</description>
@@ -11292,7 +11292,7 @@
 		<iscoredid>57531,57532,57533,57534,55853,55848,55849,55850,55851,55852,57535,57536</iscoredid>
 		<iscoredtype>timeascending</iscoredtype>
 		<year>2003</year>
-		<players>GameCube</players>
+		<players>2</players>
 	</game>
 	<game name="Marvel vs Capcom 2" index="true" image="'">
 		<description>Marvel vs Capcom 2</description>
@@ -11300,7 +11300,7 @@
 		<iscoredid>55486</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2000</year>
-		<players>Dreamcast</players>
+		<players>2</players>
 	</game>
 	<game name="Soul Calibur" index="true" image="'">
 		<description>Soul Calibur</description>
@@ -11308,7 +11308,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1999</year>
-		<players>Dreamcast</players>
+		<players>2</players>
 	</game>
 	<game name="Star Fox 64" index="true" image="'">
 		<description>Star Fox 64</description>
@@ -11316,7 +11316,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1987</year>
-		<players>N64</players>
+		<players>1</players>
 	</game>
 	<game name="Super Mario 64" index="true" image="'">
 		<description>Super Mario 64</description>
@@ -11324,7 +11324,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1996</year>
-		<players>N64</players>
+		<players>1</players>
 	</game>
 	<game name="Super Mario Sunshine" index="true" image="'">
 		<description>Super Mario Sunshine</description>
@@ -11332,7 +11332,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2002</year>
-		<players>GameCube</players>
+		<players>1</players>
 	</game>
 	<game name="WipEout Pulse" index="true" image="'">
 		<description>WipEout Pulse</description>
@@ -11340,7 +11340,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2007</year>
-		<players>PSP</players>
+		<players>1</players>
 	</game>
 	<game name="Ultimate Ghosts N Goblins" index="true" image="'">
 		<description>Ultimate Ghosts N Goblins</description>
@@ -11348,7 +11348,7 @@
 		<iscoredid>55616,55620,55622</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2006</year>
-		<players>PSP</players>
+		<players>1</players>
 	</game>
 	<game name="Ghosts n Goblins Resurrection" index="true" image="'">
 		<description>Ghouls&apos;z Goblins Resurrection</description>
@@ -11365,7 +11365,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2006</year>
-		<players>PSP</players>
+		<players>1</players>
 	</game>
 	<game name="Under Defeat" index="true" image="'">
 		<description>Under Defeat</description>
@@ -11373,7 +11373,7 @@
 		<iscoredid>55810,55811,55812</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2005</year>
-		<players>Dreamcast</players>
+		<players>1</players>
 	</game>
 	<game name="Zero Gunner 2" index="true" image="'">
 		<description>Zero Gunner 2</description>
@@ -11381,7 +11381,7 @@
 		<iscoredid>55813,55814,55815,55816,55817,55818,55819</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>2001</year>
-		<players>Dreamcast</players>
+		<players>1</players>
 	</game>
 	<game name="Teenage Mutant Ninja Turtles" index="true" image="'">
 		<description>Teenage Mutant Ninja Turtles 3</description>
@@ -17663,7 +17663,7 @@
 		<iscoredid>55750,55769</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1982</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_lboat" index="true" image="'">
 		<description>G&amp;W3 green house</description>
@@ -17671,7 +17671,7 @@
 		<iscoredid>55752,55771</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1983</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_mario" index="true" image="'">
 		<description>G&amp;W3 mario bros</description>
@@ -17679,7 +17679,7 @@
 		<iscoredid>55753,55772</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1983</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_mariocm" index="true" image="'">
 		<description>G&amp;W2 mario cement</description>
@@ -17687,7 +17687,7 @@
 		<iscoredid>55754,55773</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1983</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="gnw_rshower" index="true" image="'">
 		<description>G&amp;W3 rain shower</description>
@@ -17695,7 +17695,7 @@
 		<iscoredid>55760,55779</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1983</year>
-		<players>G&amp;W</players>
+		<players>1</players>
 	</game>
 	<game name="Quake1" index="true" image="'">
 		<description>Quake 1</description>
