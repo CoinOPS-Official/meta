@@ -10548,7 +10548,7 @@
 		<iscoredid>82124</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="AladdinMD" index="true" image="'">
 		<description>AladdinMD</description>
@@ -10564,7 +10564,7 @@
 		<iscoredid>55580,55581,55582</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Castlevania Bloodlines" index="true" image="'">
 		<description>Castlevania Bloodlines</description>
@@ -10588,7 +10588,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Demons Crest" index="true" image="'">
 		<description>Demons Crest</description>
@@ -10596,7 +10596,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Donkey Kong Country I" index="true" image="'">
 		<description>Donkey Kong Country I</description>
@@ -10604,7 +10604,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Donkey Kong Country II" index="true" image="'">
 		<description>Donkey Kong Country II</description>
@@ -10612,7 +10612,7 @@
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1995</year>
-		<players>SNES</players>
+		<players>1</players>
 	</game>
 	<game name="Ecco The Tides of Time" index="true" image="'">
 		<description>Ecco The Tides of Time</description>
