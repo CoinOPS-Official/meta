@@ -1,9 +1,15 @@
-Ghoul Patrol
-Magical Quest 1
-Pocky Rocky II
-Streets Of Rage II
+Axelay
+Final Fight II
+Gunstar Heroes
+Ikaruga
 
-_Super Nintendo:Ghoul Patrol (USA)
-_Super Nintendo:Magical Quest Starring Mickey Mouse, The (USA)
-_Super Nintendo:Pocky Rocky II
-_Genesis:Streets Of Rage II
+_Super Nintendo:Axelay
+_Super Nintendo:Axelay (USA)
+_Super Nintendo:Final Fight II
+_Super Nintendo:Final Fight II (USA)
+_Super Nintendo:Final Fight 2
+_Super Nintendo:Final Fight 2 (USA)
+_Genesis:Gunstar Heroes
+_Genesis:Gunstar Heroes (USA)
+_Dreamcast:Ikaruga
+_Dreamcast:Ikaruga (Japan)
