@@ -8,3 +8,11 @@ qix
 rtypeleo
 unsquad
 vimana
+btime
+galaga
+gng
+ffight
+bnj
+elvactr
+mslug
+aliensyn
