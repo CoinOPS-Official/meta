@@ -26,6 +26,15 @@
 		<iscoredid>87203</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
+	<game name="indyheat" index="true">
+		<description>Danny O'Sullivan's Indy Heat</description>
+		<year>1991</year>
+		<players>3</players>
+		<ctrltype>8  way</ctrltype>
+		<manufacturer>Leland Corporation</manufacturer>
+		<iscoredid>32471</iscoredid>
+		<iscoredtype>moneydescending</iscoredtype>
+	</game>
 	<game name="88games" index="true">
 		<description>&apos;88 Games</description>
 		<year>1988</year>
