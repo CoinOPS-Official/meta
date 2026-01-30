@@ -2,8 +2,11 @@ Axelay
 Final Fight II
 Gunstar Heroes
 Revenge of Shinobi
+R-Type III
 Sonic The Hedgehog I
 Super Ghouls n Ghosts
+Streets of Rage II
+Super Punch-Out!!
 
 _Super Nintendo:Axelay
 _Super Nintendo:Axelay (USA)
@@ -11,11 +14,17 @@ _Super Nintendo:Final Fight II
 _Super Nintendo:Final Fight II (USA)
 _Super Nintendo:Final Fight 2
 _Super Nintendo:Final Fight 2 (USA)
+_Super Nintendo:R-Type III
+_Super Nintendo:R-Type III (USA)
 _Super Nintendo:Super Ghouls n Ghosts
 _Super Nintendo:Super Ghouls n Ghosts (USA)
+_Super Nintendo:Super Punch-Out!!
+_Super Nintendo:Super Punch-Out!! (USA)
 _Genesis:Gunstar Heroes
 _Genesis:Gunstar Heroes (USA)
 _Genesis:Revenge of Shinobi
 _Genesis:Revenge of Shinobi, The (USA, Europe)
 _Genesis:Sonic The Hedgehog I
 _Genesis:Sonic The Hedgehog I (USA)
+_Genesis:Streets of Rage II
+_Genesis:Streets of Rage II (USA)
