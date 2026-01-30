@@ -22714,4 +22714,332 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
+  <game name="Absolum" index="true">
+      <description>Absolum</description>
+      <year>2025</year>
+      <players>2</players>
+      <manufacturer>Dotemu</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Absolute Drift" index="true">
+      <description>Absolute Drift</description>
+      <year>2015</year>
+      <players>1</players>
+      <manufacturer>Funselektor Labs Inc.</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Asteroids Recharged" index="true">
+      <description>Asteroids Recharged</description>
+      <year>2021</year>
+      <players>2</players>
+      <manufacturer>Adamvision Studios</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Battle Axe" index="true">
+      <description>Battle Axe</description>
+      <year>2021</year>
+      <players>2</players>
+      <manufacturer>Bitmap Bureau</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Battle Zone 2" index="true">
+      <description>Battle Zone 2</description>
+      <year>2023</year>
+      <players>1</players>
+      <manufacturer>Atari</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Black Widow Recharged" index="true">
+      <description>Black Widow Recharged</description>
+      <year>2021</year>
+      <players>2</players>
+      <manufacturer>Adamvision Studios</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Blazing Chrome" index="true">
+      <description>Blazing Chrome</description>
+      <year>2019</year>
+      <players>2</players>
+      <manufacturer>JoyMasher</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Blur" index="true">
+      <description>Blur</description>
+      <year>2010</year>
+      <players>4</players>
+      <manufacturer>Bizarre Creations</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Broforce" index="true">
+      <description>Broforce</description>
+      <year>2015</year>
+      <players>4</players>
+      <manufacturer>Free Lives</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Brotato" index="true">
+      <description>Brotato</description>
+      <year>2023</year>
+      <players>4</players>
+      <manufacturer>Blobfish</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Centipede Recharged" index="true">
+      <description>Centipede Recharged</description>
+      <year>2021</year>
+      <players>2</players>
+      <manufacturer>Adamvision Studios</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Contra Operation Galuga" index="true">
+      <description>Contra Operation Galuga</description>
+      <year>2024</year>
+      <players>4</players>
+      <manufacturer>WayForward</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Crash Bandicoot 1-3" index="true">
+      <description>Crash Bandicoot 1-3</description>
+      <year>2018</year>
+      <players>1</players>
+      <manufacturer>Activision</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Door Kickers - Action Squad" index="true">
+      <description>Door Kickers - Action Squad</description>
+      <year>2018</year>
+      <players>2</players>
+      <manufacturer>PixelShard</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="#DRIVE Rally" index="true">
+      <description>#DRIVE Rally</description>
+      <year>2025</year>
+      <players>1</players>
+      <manufacturer>Pixel Perfect Dude</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Final Vendetta" index="true">
+      <description>Final Vendetta</description>
+      <year>2022</year>
+      <players>2</players>
+      <manufacturer>Bitmap Bureau</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Fury Unleashed" index="true">
+      <description>Fury Unleashed</description>
+      <year>2020</year>
+      <players>2</players>
+      <manufacturer>Awesome Games Studio</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Halo 2" index="true">
+      <description>Halo 2</description>
+      <year>2004</year>
+      <players>1</players>
+      <manufacturer>Bungie</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Horizon Chase 1" index="true">
+      <description>Horizon Chase 1</description>
+      <year>2018</year>
+      <players>4</players>
+      <manufacturer>Aquiris</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Hotshot Racing" index="true">
+      <description>Hotshot Racing</description>
+      <year>2020</year>
+      <players>4</players>
+      <manufacturer>Sumo Digital Ltd</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Huntdown" index="true">
+      <description>Huntdown</description>
+      <year>2021</year>
+      <players>2</players>
+      <manufacturer>Easy Trigger Games</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Iron Meat" index="true">
+      <description>Iron Meat</description>
+      <year>2024</year>
+      <players>2</players>
+      <manufacturer>Ivan Valeryevich Suvorov</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Jet Set Radio" index="true">
+      <description>Jet Set Radio</description>
+      <year>2012</year>
+      <players>1</players>
+      <manufacturer>Sega</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="JourneyPC" index="true">
+      <description>JourneyPC</description>
+      <year>2020</year>
+      <players>1</players>
+      <manufacturer>Annapurna Interactive</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Katana Zero" index="true">
+      <description>Katana Zero</description>
+      <year>2019</year>
+      <players>1</players>
+      <manufacturer>Askiisoft</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Missile Command Recharged" index="true">
+      <description>Missile Command Recharged</description>
+      <year>2022</year>
+      <players>2</players>
+      <manufacturer>Adamvision Studios</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Neon Inferno" index="true">
+      <description>Neon Inferno</description>
+      <year>2025</year>
+      <players>2</players>
+      <manufacturer>Zenovia Interactive</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="NeoSprint" index="true">
+      <description>NeoSprint</description>
+      <year>2024</year>
+      <players>8</players>
+      <manufacturer>Headless Chicken Games</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="New Star GP" index="true">
+      <description>New Star GP</description>
+      <year>2024</year>
+      <players>4</players>
+      <manufacturer>New Star Games Ltd.</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Ninja Gaiden Ragebound" index="true">
+      <description>Ninja Gaiden Ragebound</description>
+      <year>2025</year>
+      <players>1</players>
+      <manufacturer>The Game Kitchen</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="PAC-MAN256" index="true">
+      <description>PAC-MAN256</description>
+      <year>2016</year>
+      <players>4</players>
+      <manufacturer>BANDAI NAMCO</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="PAC-MAN CE DXplus" index="true">
+      <description>PAC-MAN CE DXplus</description>
+      <year>2013</year>
+      <players>1</players>
+      <manufacturer>BANDAI NAMCO</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="PAC-MAN Museum Plus" index="true">
+      <description>PAC-MAN Museum Plus</description>
+      <year>2022</year>
+      <players>4</players>
+      <manufacturer>BANDAI NAMCO</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Pocky &amp; Rocky Reshrined" index="true">
+      <description>Pocky &amp; Rocky Reshrined</description>
+      <year>2023</year>
+      <players>2</players>
+      <manufacturer>Natsume Atari</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Power Bomberman" index="true">
+      <description>Power Bomberman</description>
+      <year>2013</year>
+      <players>12</players>
+      <manufacturer>Jaklub</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Primal Planet" index="true">
+      <description>Primal Planet</description>
+      <year>2025</year>
+      <players>2</players>
+      <manufacturer>Seethingswarm</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Shakedown Hawaii" index="true">
+      <description>Shakedown Hawaii</description>
+      <year>2020</year>
+      <players>1</players>
+      <manufacturer>Vblank Entertainment, Inc.</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Steel Assault" index="true">
+      <description>Steel Assault</description>
+      <year>2021</year>
+      <players>1</players>
+      <manufacturer>Zenovia Interactive</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="StriderPC" index="true">
+      <description>StriderPC</description>
+      <year>2014</year>
+      <players>1</players>
+      <manufacturer>Capcom</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="X-Out Resurfaced" index="true">
+      <description>X-Out Resurfaced</description>
+      <year>2025</year>
+      <players>2</players>
+      <manufacturer>KRITZELKRATZ 3000</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
+	<game name="Xeno Crisis" index="true">
+      <description>Xeno Crisis</description>
+      <year>2019</year>
+      <players>2</players>
+      <manufacturer>Bitmap Bureau</manufacturer>
+      <iscoredid/>
+      <iscoredtype>descending</iscoredtype>
+      </game>
 </menu>
