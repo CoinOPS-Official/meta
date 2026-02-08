@@ -10394,6 +10394,244 @@
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
+	<game name="Alaska" index="true" image="'">
+		<year>ALASKA</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Alaska</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Aura" index="true" image="'">
+		<year>AURA</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Aura</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Arcade" index="true" image="'">
+		<year>ARCADE</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Arcade</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Arcade (with Logo)" index="true" image="'">
+		<year>ARCADE  WITH  LOGO</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Arcade (with Logo)</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Cabinet" index="true" image="'">
+		<year>CABINET</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Cabinet</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="qsCabinet" index="true" image="'">
+		<year>QUICK  SPIN  CABINET</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Quick  Spin  Cabinet</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Crossfade Gameplay" index="true" image="'">
+		<year>CROSSFADE  GAMEPLAY</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Crossfade Gameplay</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Crossfade" index="true" image="'">
+		<year>CROSSFADE</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Crossfade</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Evolution" index="true" image="'">
+		<year>EVOLUTION</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Evolution</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="qsEvolution" index="true" image="'">
+		<year>QUICK  SPIN  EVOLUTION</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Quick  Spin  Evolution</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe Evolution" index="true" image="'">
+		<year>DELUXE  EVOLUTION</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  Evolution</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Gameplay (with Logo)" index="true" image="'">
+		<year>GAMEPLAY  WITH  LOGO</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Gameplay (with Logo)</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Gameplay" index="true" image="'">
+		<year>GAMEPLAY</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Gameplay</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Legends" index="true" image="'">
+		<year>LEGENDS</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Legends</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Lights" index="true" image="'">
+		<year>LIGHTS</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Lights</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Marquee" index="true" image="'">
+		<year>MARQUEE</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Marquee</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Marquees" index="true" image="'">
+		<year>MARQUEES</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Marquees</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe Arcade" index="true" image="'">
+		<year>DELUXE  ARCADE</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  Arcade</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe Poster" index="true" image="'">
+		<year>DELUXE  POSTER</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  Poster</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe Cabinet" index="true" image="'">
+		<year>DELUXE  CABINET</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  Cabinet</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe Marquee" index="true" image="'">
+		<year>DELUXE  MARQUEE</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  Marquee</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe Wheeler" index="true" image="'">
+		<year>DELUXE  WHEELER</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  Wheeler</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe Spin" index="true" image="'">
+		<year>DELUXE  SPIN</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  Spin</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe Spinner" index="true" image="'">
+		<year>DELUXE  SPINNER</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  Spinner</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe Slider" index="true" image="'">
+		<year>DELUXE  SLIDER</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  Slider</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe 80s" index="true" image="'">
+		<year>DELUXE  80S</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  80s</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Deluxe 90s" index="true" image="'">
+		<year>DELUXE  90S</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Deluxe  90s</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Reflection" index="true" image="'">
+		<year>REFLECTION</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Reflection</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Spin" index="true" image="'">
+		<year>SPIN</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Spin</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Vertical" index="true" image="'">
+		<year>VERTICAL</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Vertical</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Wall" index="true" image="'">
+		<year>WALL</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Wall</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Wheel" index="true" image="'">
+		<year>WHEEL</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Wheel</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="Wheeler" index="true" image="'">
+		<year>WHEELER</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Wheeler</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
+	<game name="qsWheeler" index="true" image="'">
+		<year>QUICK  SPIN  WHEELER</year>
+		<ctrltype>buttons  only</ctrltype>
+		<description>Quick  Spin  Wheeler</description>
+        <manufacturer>THEME</manufacturer>
+		<players>1</players>
+	</game>
 	<game name="z Bezel Artistic" index="true" image="'">
 		<year>settings</year>
 		<ctrltype>settings</ctrltype>
