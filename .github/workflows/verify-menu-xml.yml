@@ -29,6 +29,6 @@ jobs:
 
       - name: Run xml verifier
         env:
-          XML_PATH: data/menu.xml
+          XML_PATH: MAME.xml
         run: |
           ./xmlcheck "$XML_PATH"
