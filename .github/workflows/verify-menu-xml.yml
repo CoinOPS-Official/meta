@@ -1,0 +1,34 @@
+name: Verify menu XML
+
+on:
+  pull_request:
+    paths:
+      - "MAME.xml"
+      - "tools/xmlcheck/**"
+      - ".github/workflows/verify-menu-xml.yml"
+  push:
+    branches: [ "main" ]
+    paths:
+      - "MAME.xml"
+      - "tools/xmlcheck/**"
+      - ".github/workflows/verify-menu-xml.yml"
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build xml verifier
+        run: |
+          g++ -std=c++17 -O2 -Wall -Wextra -pedantic \
+            -I tools/xmlcheck/rapidxml \
+            tools/xmlcheck/XmlGameDuplicateFinder.cpp \
+            -o xmlcheck
+
+      - name: Run xml verifier
+        env:
+          XML_PATH: data/menu.xml
+        run: |
+          ./xmlcheck "$XML_PATH"
