@@ -194,7 +194,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101550</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="arescue" index="true">
@@ -221,7 +221,7 @@
 		<players>4</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101546</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="armedf" index="true">
@@ -266,7 +266,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101551</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="asylum" index="true">
@@ -275,7 +275,7 @@
 		<players>3</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101552</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="aurail" index="true">
@@ -383,7 +383,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Konami</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101553</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="blandia" index="true">
@@ -608,7 +608,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101554</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="cclimbr2" index="true">
@@ -689,7 +689,7 @@
 		<players>4</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101547</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="columns" index="true">
@@ -698,7 +698,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101548</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="coolridr" index="true">
@@ -725,7 +725,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101555</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="crimec" index="true">
@@ -1031,7 +1031,7 @@
 		<players>4</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Irem</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101549</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="eaglshot" index="true">
@@ -1490,7 +1490,7 @@
 		<players>4</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Taito</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101557</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="gstream" index="true">
@@ -1508,7 +1508,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101556</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="gt99" index="true">
@@ -1976,7 +1976,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101558</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="lsasquad" index="true">
@@ -2120,7 +2120,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101559</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="mtrap" index="true">
@@ -2336,7 +2336,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101560</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="psyvaria" index="true">
@@ -2389,8 +2389,8 @@
 		<year>1982</year>
 		<players>1</players>
 		<ctrltype>trackball</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<manufacturer>Atari</manufacturer>
+		<iscoredid>101543</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="rabbit" index="true">
@@ -2516,7 +2516,7 @@
 		<players>1</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Atari</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101545</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="repulse" index="true">
@@ -2822,7 +2822,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101561</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="solfigtr" index="true">
@@ -2849,7 +2849,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Atari</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101544</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="spacefb" index="true">
@@ -2894,7 +2894,7 @@
 		<players>2</players>
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101562</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="sranger" index="true">
@@ -2984,7 +2984,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101563</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="strahl" index="true">
@@ -3029,7 +3029,7 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Konami</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101564</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="survarts" index="true">
@@ -3074,7 +3074,7 @@
 		<players>1</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Namco</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101566</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
 	<game name="tcobra2" index="true">
@@ -13156,7 +13156,7 @@
 	<game name="twcup90" index="true" image="">
 		<description>Tecmo World Cup &apos;90</description>
 		<manufacturer>Tecmo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>101565</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1989</year>
 		<players>2</players>
@@ -13316,7 +13316,7 @@
 	<game name="swtrilgy" index="true" image="">
 		<description>Star Wars Trilogy</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>59278</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1998</year>
 		<players>1</players>
@@ -21429,6 +21429,16 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
+  <game name="gunblade" index="true" image="">
+      <description>Gunblade</description>
+      <manufacturer>Sega</manufacturer>
+      <iscoredid>59226</iscoredid>
+      <iscoredtype>descending</iscoredtype>
+      <year>1995</year>
+      <players>2</players>
+      <ctrltype>lightgun</ctrltype>
+      <genre>shoot n up</genre>
+      </game>
   <game name="GunCom 2_PS2" index="true" image="">
       <description>GunCom 2</description>
       <manufacturer>Namco</manufacturer>
@@ -21579,7 +21589,7 @@
       <ctrltype>lightgun</ctrltype>
       <genre>shoot n up</genre>
       </game>
-	  <game name="hotd" index="true" image="">
+  <game name="hotd" index="true" image="">
       <description>House of the Dead</description>
       <manufacturer>Sega</manufacturer>
       <iscoredid>59249</iscoredid>
