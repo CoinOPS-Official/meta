@@ -3,7 +3,7 @@ cosmogng
 crkdown
 edrandy
 eprom
-firetrap
+19xx
 hotdogst
 joust
 kungfum
