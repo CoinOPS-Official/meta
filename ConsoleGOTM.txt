@@ -6,3 +6,12 @@ Rocket Knight Adventures
 Sonic The Hedgehog III
 Uridium
 Super Mario Kart
+
+_Dreamcast:Crazy Taxi
+_Super Nintendo:Final Fight III
+_Super Nintendo:Ninja Warriors
+_Super Nintendo:Pocky Rocky II
+_Genesis:Rocket Knight Adventures
+_Genesis:Sonic The Hedgehog III
+_Commodore 64:Uridium
+_Super Nintendo:Super Mario Kart
