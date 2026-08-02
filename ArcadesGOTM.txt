@@ -5,7 +5,7 @@ outrun
 gng
 1942
 strahl
-unsquadron
+unsquad
 pacman
 frogger
 mslug
