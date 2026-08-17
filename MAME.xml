@@ -13177,7 +13177,7 @@
 		<description>Virtua Fighter</description>
 		<manufacturer>SEGA</manufacturer>
 		<iscoredid>34845</iscoredid>
-		<iscoredtype>descending</iscoredtype>
+		<iscoredtype>timeascending</iscoredtype>
 		<year>1993</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
@@ -13187,7 +13187,7 @@
 		<description>Virtua Fighter 2</description>
 		<manufacturer>SEGA</manufacturer>
 		<iscoredid>34846</iscoredid>
-		<iscoredtype>descending</iscoredtype>
+		<iscoredtype>timeascending</iscoredtype>
 		<year>1994</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
