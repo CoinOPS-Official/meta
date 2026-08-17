@@ -14191,7 +14191,7 @@
 	<game name="vcop" index="true" image="">
 		<description>Virtua Cop</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid>59285</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>2</players>
