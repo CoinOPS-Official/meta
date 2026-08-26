@@ -11031,6 +11031,14 @@
 		<year>1992</year>
 		<players>2</players>
 	</game>
+	<game name="genesis_sor2u" index="true" image="'">
+		<description>Streets Of Rage II</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55540,55541,55542,55543</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1992</year>
+		<players>2</players>
+	</game>
 	<game name="Super Castlevania IV" index="true" image="'">
 		<description>Super Castlevania IV</description>
 		<manufacturer>SNES</manufacturer>
