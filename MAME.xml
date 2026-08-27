@@ -11191,6 +11191,14 @@
 		<year>1986</year>
 		<players>2</players>
 	</game>
+	<game name="c64_uridium" index="true" image="'">
+		<description>Uridium</description>
+		<manufacturer>C64</manufacturer>
+		<iscoredid>31000</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1986</year>
+		<players>2</players>
+	</game>
 	<game name="Castlevania - Symphony of the Night" index="true" image="'">
 		<description>Castlevania - Symphony of the Night</description>
 		<manufacturer>PS1</manufacturer>
