@@ -23324,4 +23324,677 @@
       <iscoredid/>
       <iscoredtype>descending</iscoredtype>
       </game>
+	<game name="genesis_advbatru" index="true" image="'">
+		<description>Adventures of Batman n Robin</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82347</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>2</players>
+	</game>
+	<game name="genesis_aladdinu" index="true" image="'">
+		<description>AladdinMD</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>82125</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_aliensol" index="true" image="'">
+		<description>Alien Soldier</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82345,82346</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_comixu" index="true" image="'">
+		<description>Comix Zone</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>82130</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_contra" index="true" image="'">
+		<description>Contra Hard Corps</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_cvaniau" index="true" image="'">
+		<description>Castlevania Bloodlines</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_dhead" index="true" image="'">
+		<description>Dynamite Headdy</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_dstrike" index="true" image="'">
+		<description>Desert Strike</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1992</year>
+		<players>1</players>
+		<iscoredid>56592,56593,56594,56595</iscoredid>
+	</game>
+	<game name="genesis_ecco" index="true" image="'">
+		<description>ECCO the Dolphin</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1992</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_ecco2u" index="true" image="'">
+		<description>Ecco The Tides of Time</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_ejimu" index="true" image="'">
+		<description>Earthworm Jim</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_gargoyle" index="true" image="'">
+		<description>Gargoyles</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82134</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_gunstaru" index="true" image="'">
+		<description>Gunstar Heroes</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55433,55434,55435,55436</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_jstrike" index="true" image="'">
+		<description>Jungle Strike</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_lionking" index="true" image="'">
+		<description>Lion King</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82141</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_quacksht" index="true" image="'">
+		<description>QuackShot</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82139</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1991</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_ristar" index="true" image="'">
+		<description>Ristar</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82138</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_rocketu" index="true" image="'">
+		<description>Rocket Knight Adventures</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55560,55561,55562,55563</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_shinobi3u" index="true" image="'">
+		<description>Shinobi III</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55575,55576,55577,55578</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_sonic2" index="true" image="'">
+		<description>Sonic The Hedgehog II</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55530,55531,55532</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1992</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_sonic3u" index="true" image="'">
+		<description>Sonic The Hedgehog III</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55534,55535,55533</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_sonicj" index="true" image="'">
+		<description>Sonic The Hedgehog I</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55514</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1991</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_sor" index="true" image="'">
+		<description>Streets Of Rage I</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55536,55537,55538,55539</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1991</year>
+		<players>2</players>
+	</game>
+	<game name="genesis_sor3u" index="true" image="'">
+		<description>Streets of Rage III</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55544,55545,55546</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>2</players>
+	</game>
+	<game name="genesis_supshin" index="true" image="'">
+		<description>Revenge of Shinobi</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55571,55572,55573,55574</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1989</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_toejam" index="true" image="'">
+		<description>Toejam and Earl</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82331</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1991</year>
+		<players>2</players>
+	</game>
+	<game name="genesis_ustrike" index="true" image="'">
+		<description>Urban Strike</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_vecman" index="true" image="'">
+		<description>Vectorman</description>
+		<manufacturer>SEGA</manufacturer>
+		<iscoredid>82348,82349,82350</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="genesis_xenocris" index="true" image="'">
+		<description>Xenocrisis</description>
+		<manufacturer>Genesis</manufacturer>
+		<iscoredid>55637,55638</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1998</year>
+		<players>2</players>
+	</game>
+	<game name="snes_aladdinu" index="true" image="'">
+		<description>Aladdin</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>82124</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="snes_axelayu" index="true" image="'">
+		<description>Axelay</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55580,55581,55582</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1992</year>
+		<players>1</players>
+	</game>
+	<game name="snes_batmanrnu" index="true" image="'">
+		<description>Batman Returns</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1992</year>
+		<players>1</players>
+	</game>
+	<game name="snes_bikermicu" index="true" image="'">
+		<description>Biker Mice from Mars</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82145,82146,82147,82148,82149,82150</iscoredid>
+		<iscoredtype>timeascending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_contra3" index="true" image="'">
+		<description>Contra III</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1992</year>
+		<players>1</players>
+	</game>
+	<game name="snes_deathretu1" index="true" image="'">
+		<description>Death and Return of Superman</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82132</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_demoncrtu" index="true" image="'">
+		<description>Demons Crest</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_dkongc2u" index="true" image="'">
+		<description>Donkey Kong Country II</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="snes_dkongc3u" index="true" image="'">
+		<description>Donkey Kong Country III</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1996</year>
+		<players>2</players>
+	</game>
+	<game name="snes_dkongcu" index="true" image="'">
+		<description>Donkey Kong Country I</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_esbua" index="true" image="'">
+		<description>Super Star Wars II</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55600,55601,55598</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="snes_ffight2u" index="true" image="'">
+		<description>Final Fight II</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55837,55838,55839,55840</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>2</players>
+	</game>
+	<game name="snes_ffight3u" index="true" image="'">
+		<description>Final Fight III</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55825,55826,55827,55828,55829,55830,55831,55832,55833,55834,55835,55836</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1995</year>
+		<players>2</players>
+	</game>
+	<game name="snes_fzerou" index="true" image="'">
+		<description>F Zero</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1990</year>
+		<players>1</players>
+	</game>
+	<game name="snes_ghoulptru" index="true" image="'">
+		<description>Ghoul Patrol</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82135</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>2</players>
+	</game>
+	<game name="snes_gooftropu" index="true" image="'">
+		<description>Goof Troop</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1993</year>
+		<players>2</players>
+	</game>
+	<game name="snes_jediua" index="true" image="'">
+		<description>Super Star Wars III</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55604,55605,55603</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_jungleu" index="true" image="'">
+		<description>Jungle Book</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82140</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="snes_kirbyss" index="true" image="'">
+		<description>Kirby Super Star</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1996</year>
+		<players>1</players>
+	</game>
+	<game name="snes_lostviku" index="true" image="'">
+		<description>Lost Vikings</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="snes_mauimallu" index="true" image="'">
+		<description>Maui Mallard</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82136</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="snes_megamnx2u" index="true" image="'">
+		<description>Mega Man X2</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_megamnx3u" index="true" image="'">
+		<description>Mega Man X3</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="snes_megamnxu" index="true" image="'">
+		<description>Mega Man X1</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="snes_mickeycmu" index="true" image="'">
+		<description>Great Circus Mystery</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_mickeym3" index="true" image="'">
+		<description>Magical Quest 3</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82143</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>2</players>
+	</game>
+	<game name="snes_mickeymqu" index="true" image="'">
+		<description>Magical Quest 1</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82142</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1992</year>
+		<players>1</players>
+	</game>
+	<game name="snes_mystninju" index="true" image="'">
+		<description>Legend of the Mystical Ninja</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1991</year>
+		<players>1</players>
+	</game>
+	<game name="snes_ninjawaru" index="true" image="'">
+		<description>Ninja Warriors</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55644,55645</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>2</players>
+	</game>
+	<game name="snes_pilotwinu" index="true" image="'">
+		<description>Pilotwings</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1990</year>
+		<players>1</players>
+	</game>
+	<game name="snes_pocky2u" index="true" image="'">
+		<description>Pocky Rocky II</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55590,55591,55592</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_pockyu" index="true" image="'">
+		<description>Pocky Rocky I</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55587,55588,55589</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1992</year>
+		<players>1</players>
+	</game>
+	<game name="snes_rnrracinu" index="true" image="'">
+		<description>Rock N Roll Racing</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="snes_rtype3u" index="true" image="'">
+		<description>R-Type III</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55584</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>2</players>
+	</game>
+	<game name="snes_scvania4u" index="true" image="'">
+		<description>Super Castlevania IV</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1991</year>
+		<players>1</players>
+	</game>
+	<game name="snes_sddragonu" index="true" image="'">
+		<description>Super Double Dragon</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1992</year>
+		<players>2</players>
+	</game>
+	<game name="snes_sgngu" index="true" image="'">
+		<description>Super Ghouls n Ghosts</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55525,55526,55527,55528</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1991</year>
+		<players>1</players>
+	</game>
+	<game name="snes_smasu" index="true" image="'">
+		<description>Super Mario All Stars</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>82374,82375,82376,82377,82378</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>2</players>
+	</game>
+	<game name="snes_smetroidu" index="true" image="'">
+		<description>Super Metroid</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_smkartu" index="true" image="'">
+		<description>Super Mario Kart</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>82428,82429,82430,82431,82432,82434,82435,82436,82437,82438,82439,82440,82441,82442,82443</iscoredid>
+		<iscoredtype>timeascending</iscoredtype>
+		<year>1992</year>
+		<players>2</players>
+	</game>
+	<game name="snes_smw2u" index="true" image="'">
+		<description>Super Mario World 2</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>82329</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="snes_smwu" index="true" image="'">
+		<description>Super Mario World 1</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>82328</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1990</year>
+		<players>1</players>
+	</game>
+	<game name="snes_sparkstru" index="true" image="'">
+		<description>Sparkster</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82137</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_starwarsua" index="true" image="'">
+		<description>Super Star Wars</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55595,55596,55597</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1992</year>
+		<players>1</players>
+	</game>
+	<game name="snes_sturric2u" index="true" image="'">
+		<description>Super Turrican 2</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82123,82128,82129</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1995</year>
+		<players>1</players>
+	</game>
+	<game name="snes_sturricu" index="true" image="'">
+		<description>Super Turrican 1</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82122,82126,82127</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
+	<game name="snes_suppunch" index="true" image="'">
+		<description>Super Punch-Out!!</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55192,55193,55194,55195,55196,55197,55198,55199,55200,55201,55202,55203,55204,55205,55206,55207</iscoredid>
+		<iscoredtype>timeascending</iscoredtype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_tetrisdru" index="true" image="'">
+		<description>Tetris Dr Mario</description>
+		<manufacturer>Nintendo</manufacturer>
+		<iscoredid>82454,82456,82457,82458,82459</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<ctrltype>8  way</ctrltype>
+		<year>1994</year>
+		<players>1</players>
+	</game>
+	<game name="snes_wildgunsu" index="true" image="'">
+		<description>Wild Guns</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55641,55642,55643</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1994</year>
+		<players>2</players>
+	</game>
+	<game name="snes_zelda3u" index="true" image="'">
+		<description>Legend of Zelda Link to the Past</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1991</year>
+		<players>1</players>
+	</game>
+	<game name="snes_zombiesu" index="true" image="'">
+		<description>Zombies Ate My Neighbors</description>
+		<manufacturer>SNES</manufacturer>
+		<iscoredid>55639</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>1</players>
+	</game>
 </menu>
