@@ -1,4 +1,12 @@
 Crazy Taxi
+snes_ffight3u
+snes_ninjawaru
+snes_pocky2u
+genesis_rocketu
+genesis_sonic3u
+c64_uridium
+snes_smkartu
+
 Final Fight III
 Ninja Warriors
 Pocky Rocky II
