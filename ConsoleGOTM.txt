@@ -7,6 +7,7 @@ Ikaruga
 
 genesis_shinobi3u
 snes_axelayu
+snes_sparkstru
 
 _Dreamcast:Marvel vs Capcom 2
 _Dreamcast:Border Down
