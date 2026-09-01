@@ -1,12 +1,14 @@
-galaga
-zaxxon
-abcop
-outrun
-gng
-1942
-strahl
-unsquad
-pacman
-frogger
-mslug
-truxton
+shocktr2
+rodland
+bublboblr
+offroadt
+raidendx
+rtype2
+sf2ce
+bombjack
+buggyboyjr
+chopliftbl
+commandou
+contra
+invadpt2
+Dragons Lair
