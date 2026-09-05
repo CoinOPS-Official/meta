@@ -11198,6 +11198,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1986</year>
 		<players>2</players>
+		<mamemachine>c64</mamemachine>
+		<mamesoftwarelist>c64_cass</mamesoftwarelist>
+		<mamesoftware>uridium</mamesoftware>
 	</game>
 	<game name="Castlevania - Symphony of the Night" index="true" image="'">
 		<description>Castlevania - Symphony of the Night</description>
@@ -23332,6 +23335,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>2</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>advbatru</mamesoftware>
 	</game>
 	<game name="genesis_aladdinu" index="true" image="'">
 		<description>AladdinMD</description>
@@ -23340,6 +23346,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>aladdinu</mamesoftware>
 	</game>
 	<game name="genesis_aliensol" index="true" image="'">
 		<description>Alien Soldier</description>
@@ -23349,6 +23358,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1995</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>aliensol</mamesoftware>
 	</game>
 	<game name="genesis_comixu" index="true" image="'">
 		<description>Comix Zone</description>
@@ -23357,6 +23369,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1995</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>comixu</mamesoftware>
 	</game>
 	<game name="genesis_contra" index="true" image="'">
 		<description>Contra Hard Corps</description>
@@ -23365,6 +23380,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>contra</mamesoftware>
 	</game>
 	<game name="genesis_cvaniau" index="true" image="'">
 		<description>Castlevania Bloodlines</description>
@@ -23373,15 +23391,21 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>cvaniau</mamesoftware>
 	</game>
-	<game name="genesis_dhead" index="true" image="'">
+		<game name="genesis_dhead" index="true" image="'">
 		<description>Dynamite Headdy</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		</mamesoftware>dhead</mamesoftware>
 	</game>
 	<game name="genesis_dstrike" index="true" image="'">
 		<description>Desert Strike</description>
@@ -23390,31 +23414,43 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1992</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		</mamesoftware>dstrike</mamesoftware>
 		<iscoredid>56592,56593,56594,56595</iscoredid>
 	</game>
 	<game name="genesis_ecco" index="true" image="'">
 		<description>ECCO the Dolphin</description>
 		<manufacturer>Genesis</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		</mamesoftware>ecco</mamesoftware>
 	</game>
 	<game name="genesis_ecco2u" index="true" image="'">
 		<description>Ecco The Tides of Time</description>
 		<manufacturer>Genesis</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		</mamesoftware>ecco2u</mamesoftware>
 	</game>
 	<game name="genesis_ejimu" index="true" image="'">
 		<description>Earthworm Jim</description>
 		<manufacturer>Genesis</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>ejimu</mamesoftware>
 	</game>
 	<game name="genesis_gargoyle" index="true" image="'">
 		<description>Gargoyles</description>
@@ -23424,6 +23460,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>gargoyle</mamesoftware>
 	</game>
 	<game name="genesis_gunstaru" index="true" image="'">
 		<description>Gunstar Heroes</description>
@@ -23432,15 +23471,21 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>gunstaru</mamesoftware>
 	</game>
 	<game name="genesis_jstrike" index="true" image="'">
 		<description>Jungle Strike</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>jstrike</mamesoftware>
 	</game>
 	<game name="genesis_lionking" index="true" image="'">
 		<description>Lion King</description>
@@ -23450,6 +23495,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>lionking</mamesoftware>
 	</game>
 	<game name="genesis_quacksht" index="true" image="'">
 		<description>QuackShot</description>
@@ -23459,6 +23507,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1991</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>quacksht</mamesoftware>
 	</game>
 	<game name="genesis_ristar" index="true" image="'">
 		<description>Ristar</description>
@@ -23468,6 +23519,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1995</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>ristar</mamesoftware>
 	</game>
 	<game name="genesis_rocketu" index="true" image="'">
 		<description>Rocket Knight Adventures</description>
@@ -23476,6 +23530,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>rocketu</mamesoftware>
 	</game>
 	<game name="genesis_shinobi3u" index="true" image="'">
 		<description>Shinobi III</description>
@@ -23484,6 +23541,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>shinobi3u</mamesoftware>
 	</game>
 	<game name="genesis_sonic2" index="true" image="'">
 		<description>Sonic The Hedgehog II</description>
@@ -23492,6 +23552,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>sonic2</mamesoftware>
 	</game>
 	<game name="genesis_sonic3u" index="true" image="'">
 		<description>Sonic The Hedgehog III</description>
@@ -23500,6 +23563,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>sonic3u</mamesoftware>
 	</game>
 	<game name="genesis_sonicj" index="true" image="'">
 		<description>Sonic The Hedgehog I</description>
@@ -23508,6 +23574,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>sonicj</mamesoftware>
 	</game>
 	<game name="genesis_sor" index="true" image="'">
 		<description>Streets Of Rage I</description>
@@ -23516,6 +23585,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
 		<players>2</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>sor</mamesoftware>
 	</game>
 	<game name="genesis_sor3u" index="true" image="'">
 		<description>Streets of Rage III</description>
@@ -23524,6 +23596,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>2</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>sor3u</mamesoftware>
 	</game>
 	<game name="genesis_supshin" index="true" image="'">
 		<description>Revenge of Shinobi</description>
@@ -23532,6 +23607,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1989</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>supshin</mamesoftware>
 	</game>
 	<game name="genesis_toejam" index="true" image="'">
 		<description>Toejam and Earl</description>
@@ -23541,15 +23619,21 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1991</year>
 		<players>2</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>toejam</mamesoftware>
 	</game>
 	<game name="genesis_ustrike" index="true" image="'">
 		<description>Urban Strike</description>
 		<manufacturer>SEGA</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>ustrike</mamesoftware>
 	</game>
 	<game name="genesis_vecman" index="true" image="'">
 		<description>Vectorman</description>
@@ -23559,6 +23643,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1995</year>
 		<players>1</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>vecman</mamesoftware>
 	</game>
 	<game name="genesis_xenocris" index="true" image="'">
 		<description>Xenocrisis</description>
@@ -23567,6 +23654,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1998</year>
 		<players>2</players>
+		<mamemachine>genesis</mamemachine>
+		<mamesoftwarelist>megadriv</mamesoftwarelist>
+		<mamesoftware>xenocris</mamesoftware>
 	</game>
 	<game name="snes_aladdinu" index="true" image="'">
 		<description>Aladdin</description>
@@ -23575,6 +23665,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>aladdinu</mamesoftware>
 	</game>
 	<game name="snes_axelayu" index="true" image="'">
 		<description>Axelay</description>
@@ -23583,15 +23676,21 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>axelayu</mamesoftware>
 	</game>
 	<game name="snes_batmanrnu" index="true" image="'">
 		<description>Batman Returns</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1992</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>batmanrnu</mamesoftware>
 	</game>
 	<game name="snes_bikermicu" index="true" image="'">
 		<description>Biker Mice from Mars</description>
@@ -23601,14 +23700,20 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>bikermicu</mamesoftware>
 	</game>
 	<game name="snes_contra3" index="true" image="'">
 		<description>Contra III</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>contra3</mamesoftware>
 	</game>
 	<game name="snes_deathretu1" index="true" image="'">
 		<description>Death and Return of Superman</description>
@@ -23618,39 +23723,54 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>deathretu1</mamesoftware>
 	</game>
 	<game name="snes_demoncrtu" index="true" image="'">
 		<description>Demons Crest</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>demoncrtu</mamesoftware>
 	</game>
 	<game name="snes_dkongc2u" index="true" image="'">
 		<description>Donkey Kong Country II</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1995</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>dkongc2u</mamesoftware>
 	</game>
 	<game name="snes_dkongc3u" index="true" image="'">
 		<description>Donkey Kong Country III</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1996</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>dkongc3u</mamesoftware>
 	</game>
 	<game name="snes_dkongcu" index="true" image="'">
 		<description>Donkey Kong Country I</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>dkongcu</mamesoftware>
 	</game>
 	<game name="snes_esbua" index="true" image="'">
 		<description>Super Star Wars II</description>
@@ -23659,6 +23779,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>esbua</mamesoftware>
 	</game>
 	<game name="snes_ffight2u" index="true" image="'">
 		<description>Final Fight II</description>
@@ -23667,6 +23790,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>ffight2u</mamesoftware>
 	</game>
 	<game name="snes_ffight3u" index="true" image="'">
 		<description>Final Fight III</description>
@@ -23675,14 +23801,20 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1995</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>ffight3u</mamesoftware>
 	</game>
 	<game name="snes_fzerou" index="true" image="'">
 		<description>F Zero</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>fzerou</mamesoftware>
 	</game>
 	<game name="snes_ghoulptru" index="true" image="'">
 		<description>Ghoul Patrol</description>
@@ -23692,15 +23824,21 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>ghoulptru</mamesoftware>
 	</game>
 	<game name="snes_gooftropu" index="true" image="'">
 		<description>Goof Troop</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>gooftropu</mamesoftware>
 	</game>
 	<game name="snes_jediua" index="true" image="'">
 		<description>Super Star Wars III</description>
@@ -23709,6 +23847,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>jediua</mamesoftware>
 	</game>
 	<game name="snes_jungleu" index="true" image="'">
 		<description>Jungle Book</description>
@@ -23718,24 +23859,33 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>jungleu</mamesoftware>
 	</game>
 	<game name="snes_kirbyss" index="true" image="'">
 		<description>Kirby Super Star</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1996</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>kirbyss</mamesoftware>
 	</game>
 	<game name="snes_lostviku" index="true" image="'">
 		<description>Lost Vikings</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>lostviku</mamesoftware>
 	</game>
 	<game name="snes_mauimallu" index="true" image="'">
 		<description>Maui Mallard</description>
@@ -23745,40 +23895,55 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1995</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>mauimallu</mamesoftware>
 	</game>
 	<game name="snes_megamnx2u" index="true" image="'">
 		<description>Mega Man X2</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>megamnx2u</mamesoftware>
 	</game>
 	<game name="snes_megamnx3u" index="true" image="'">
 		<description>Mega Man X3</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1995</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>megamnx3u</mamesoftware>
 	</game>
 	<game name="snes_megamnxu" index="true" image="'">
 		<description>Mega Man X1</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>megamnxu</mamesoftware>
 	</game>
 	<game name="snes_mickeycmu" index="true" image="'">
 		<description>Great Circus Mystery</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>mickeycmu</mamesoftware>
 	</game>
 	<game name="snes_mickeym3" index="true" image="'">
 		<description>Magical Quest 3</description>
@@ -23788,6 +23953,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1995</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>mickeym3</mamesoftware>
 	</game>
 	<game name="snes_mickeymqu" index="true" image="'">
 		<description>Magical Quest 1</description>
@@ -23797,15 +23965,21 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1992</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>mickeymqu</mamesoftware>
 	</game>
 	<game name="snes_mystninju" index="true" image="'">
 		<description>Legend of the Mystical Ninja</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1991</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>mystninju</mamesoftware>
 	</game>
 	<game name="snes_ninjawaru" index="true" image="'">
 		<description>Ninja Warriors</description>
@@ -23814,14 +23988,20 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>ninjawaru</mamesoftware>
 	</game>
 	<game name="snes_pilotwinu" index="true" image="'">
 		<description>Pilotwings</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>pilotwinu</mamesoftware>
 	</game>
 	<game name="snes_pocky2u" index="true" image="'">
 		<description>Pocky Rocky II</description>
@@ -23830,6 +24010,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>pocky2u</mamesoftware>
 	</game>
 	<game name="snes_pockyu" index="true" image="'">
 		<description>Pocky Rocky I</description>
@@ -23838,15 +24021,21 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>pockyu</mamesoftware>
 	</game>
 	<game name="snes_rnrracinu" index="true" image="'">
 		<description>Rock N Roll Racing</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>rnrracinu</mamesoftware>
 	</game>
 	<game name="snes_rtype3u" index="true" image="'">
 		<description>R-Type III</description>
@@ -23855,23 +24044,32 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>rtype3u</mamesoftware>
 	</game>
 	<game name="snes_scvania4u" index="true" image="'">
 		<description>Super Castlevania IV</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>scvania4u</mamesoftware>
 	</game>
 	<game name="snes_sddragonu" index="true" image="'">
 		<description>Super Double Dragon</description>
 		<manufacturer>Nintendo</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<ctrltype>8  way</ctrltype>
 		<year>1992</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>sddragonu</mamesoftware>
 	</game>
 	<game name="snes_sgngu" index="true" image="'">
 		<description>Super Ghouls n Ghosts</description>
@@ -23880,6 +24078,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>sgngu</mamesoftware>
 	</game>
 	<game name="snes_smasu" index="true" image="'">
 		<description>Super Mario All Stars</description>
@@ -23888,14 +24089,20 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>smasu</mamesoftware>
 	</game>
 	<game name="snes_smetroidu" index="true" image="'">
 		<description>Super Metroid</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>smetroidu</mamesoftware>
 	</game>
 	<game name="snes_smkartu" index="true" image="'">
 		<description>Super Mario Kart</description>
@@ -23904,6 +24111,9 @@
 		<iscoredtype>timeascending</iscoredtype>
 		<year>1992</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>smkartu</mamesoftware>
 	</game>
 	<game name="snes_smw2u" index="true" image="'">
 		<description>Super Mario World 2</description>
@@ -23912,6 +24122,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1995</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>smw2u</mamesoftware>
 	</game>
 	<game name="snes_smwu" index="true" image="'">
 		<description>Super Mario World 1</description>
@@ -23920,6 +24133,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1990</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>smwu</mamesoftware>
 	</game>
 	<game name="snes_sparkstru" index="true" image="'">
 		<description>Sparkster</description>
@@ -23929,6 +24145,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>sparkstru</mamesoftware>
 	</game>
 	<game name="snes_starwarsua" index="true" image="'">
 		<description>Super Star Wars</description>
@@ -23937,6 +24156,9 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1992</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>starwarsua</mamesoftware>
 	</game>
 	<game name="snes_sturric2u" index="true" image="'">
 		<description>Super Turrican 2</description>
@@ -23946,6 +24168,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1995</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>sturric2u</mamesoftware>
 	</game>
 	<game name="snes_sturricu" index="true" image="'">
 		<description>Super Turrican 1</description>
@@ -23955,6 +24180,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>sturricu</mamesoftware>
 	</game>
 	<game name="snes_suppunch" index="true" image="'">
 		<description>Super Punch-Out!!</description>
@@ -23963,6 +24191,9 @@
 		<iscoredtype>timeascending</iscoredtype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>suppunch</mamesoftware>
 	</game>
 	<game name="snes_tetrisdru" index="true" image="'">
 		<description>Tetris Dr Mario</description>
@@ -23972,6 +24203,9 @@
 		<ctrltype>8  way</ctrltype>
 		<year>1994</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>tetrisdru</mamesoftware>
 	</game>
 	<game name="snes_wildgunsu" index="true" image="'">
 		<description>Wild Guns</description>
@@ -23980,14 +24214,20 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1994</year>
 		<players>2</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>wildgunsu</mamesoftware>
 	</game>
 	<game name="snes_zelda3u" index="true" image="'">
 		<description>Legend of Zelda Link to the Past</description>
 		<manufacturer>SNES</manufacturer>
-		<iscoredid></iscoredid>
+		<iscoredid/>
 		<iscoredtype>descending</iscoredtype>
 		<year>1991</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>zelda3u</mamesoftware>
 	</game>
 	<game name="snes_zombiesu" index="true" image="'">
 		<description>Zombies Ate My Neighbors</description>
@@ -23996,5 +24236,8 @@
 		<iscoredtype>descending</iscoredtype>
 		<year>1993</year>
 		<players>1</players>
+		<mamemachine>snes</mamemachine>
+		<mamesoftwarelist>snes</mamesoftwarelist>
+		<mamesoftware>zombiesu</mamesoftware>
 	</game>
 </menu>
