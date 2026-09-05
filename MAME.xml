@@ -23405,7 +23405,7 @@
 		<players>1</players>
 		<mamemachine>genesis</mamemachine>
 		<mamesoftwarelist>megadriv</mamesoftwarelist>
-		</mamesoftware>dhead</mamesoftware>
+		<mamesoftware>dhead</mamesoftware>
 	</game>
 	<game name="genesis_dstrike" index="true" image="'">
 		<description>Desert Strike</description>
@@ -23416,7 +23416,7 @@
 		<players>1</players>
 		<mamemachine>genesis</mamemachine>
 		<mamesoftwarelist>megadriv</mamesoftwarelist>
-		</mamesoftware>dstrike</mamesoftware>
+		<mamesoftware>dstrike</mamesoftware>
 		<iscoredid>56592,56593,56594,56595</iscoredid>
 	</game>
 	<game name="genesis_ecco" index="true" image="'">
@@ -23428,7 +23428,7 @@
 		<players>1</players>
 		<mamemachine>genesis</mamemachine>
 		<mamesoftwarelist>megadriv</mamesoftwarelist>
-		</mamesoftware>ecco</mamesoftware>
+		<mamesoftware>ecco</mamesoftware>
 	</game>
 	<game name="genesis_ecco2u" index="true" image="'">
 		<description>Ecco The Tides of Time</description>
@@ -23439,7 +23439,7 @@
 		<players>1</players>
 		<mamemachine>genesis</mamemachine>
 		<mamesoftwarelist>megadriv</mamesoftwarelist>
-		</mamesoftware>ecco2u</mamesoftware>
+		<mamesoftware>ecco2u</mamesoftware>
 	</game>
 	<game name="genesis_ejimu" index="true" image="'">
 		<description>Earthworm Jim</description>
