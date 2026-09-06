@@ -24240,4 +24240,15 @@
 		<mamesoftwarelist>snes</mamesoftwarelist>
 		<mamesoftware>zombiesu</mamesoftware>
 	</game>
+	<game name="gba_ikplus" index="true" image="'">
+		<description>International Karate Plus</description>
+		<manufacturer>GBA</manufacturer>
+		<iscoredid>55783,55784,55785</iscoredid>
+		<iscoredtype>descending</iscoredtype>
+		<year>1993</year>
+		<players>1</players>
+		<mamemachine>gba</mamemachine>
+		<mamesoftwarelist>gba</mamesoftwarelist>
+		<mamesoftware>ikplus</mamesoftware>
+	</game>
 </menu>
