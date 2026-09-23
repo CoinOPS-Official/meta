@@ -5192,6 +5192,15 @@
 		<iscoredid>34264</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
+	<game name="Cliff Hanger" index="true" image="'">
+		<description>Cliff Hanger</description>
+		<year>1983</year>
+		<players>1</players>
+		<ctrltype>8  way</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<iscoredid></iscoredid>
+		<iscoredtype>descending</iscoredtype>
+	</game>
 	<game name="elevator" index="true" image="'">
 		<description>Elevator Action 1</description>
 		<year>1983</year>
@@ -9949,7 +9958,7 @@
 		<year>1983</year>
 		<players>1</players>
 		<ctrltype>4 Way</ctrltype>
-		<manufacturer>Cinematronics</manufacturer>
+		<manufacturer>Other</manufacturer>
 		<iscoredid>33522</iscoredid>
 		<iscoredtype>descending</iscoredtype>
 	</game>
