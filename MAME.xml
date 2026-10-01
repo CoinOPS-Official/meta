@@ -17662,15 +17662,6 @@
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
-	<game name="Arcade" index="true" image="'">
-		<year/>
-		<ctrltype>settings</ctrltype>
-		<description>a Arcade</description>
-		<manufacturer>Arcade</manufacturer>
-		<iscoredid></iscoredid>
-		<iscoredtype>descending</iscoredtype>
-		<players>theme</players>
-	</game>
 	<game name="Arcade 2" index="true" image="'">
 		<year/>
 		<ctrltype>settings</ctrltype>
@@ -17698,47 +17689,11 @@
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
-	<game name="Deluxe Arcade" index="true" image="'">
-		<year/>
-		<ctrltype>settings</ctrltype>
-		<description>a Deluxe Arcade</description>
-		<manufacturer>Arcade</manufacturer>
-		<iscoredid></iscoredid>
-		<iscoredtype>descending</iscoredtype>
-		<players>theme</players>
-	</game>
-	<game name="Art" index="true" image="'">
-		<year/>
-		<ctrltype>settings</ctrltype>
-		<description>a Art</description>
-		<manufacturer>Cabinet</manufacturer>
-		<iscoredid></iscoredid>
-		<iscoredtype>descending</iscoredtype>
-		<players>theme</players>
-	</game>
 	<game name="Clean" index="true" image="'">
 		<year/>
 		<ctrltype>settings</ctrltype>
 		<description>a Clean</description>
 		<manufacturer>Cascading</manufacturer>
-		<iscoredid></iscoredid>
-		<iscoredtype>descending</iscoredtype>
-		<players>theme</players>
-	</game>
-	<game name="Alaska" index="true" image="'">
-		<year/>
-		<ctrltype>settings</ctrltype>
-		<description>a Alaska</description>
-		<manufacturer>Aura</manufacturer>
-		<iscoredid></iscoredid>
-		<iscoredtype>descending</iscoredtype>
-		<players>theme</players>
-	</game>
-	<game name="Aura" index="true" image="'">
-		<year/>
-		<ctrltype>settings</ctrltype>
-		<description>a Aura</description>
-		<manufacturer>Aura</manufacturer>
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
@@ -17833,28 +17788,10 @@
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
-	<game name="Legends" index="true" image="'">
-		<year/>
-		<ctrltype>settings</ctrltype>
-		<description>a Legends 1</description>
-		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid></iscoredid>
-		<iscoredtype>descending</iscoredtype>
-		<players>theme</players>
-	</game>
 	<game name="Legends 2" index="true" image="'">
 		<year/>
 		<ctrltype>settings</ctrltype>
 		<description>a Legends 2</description>
-		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid></iscoredid>
-		<iscoredtype>descending</iscoredtype>
-		<players>theme</players>
-	</game>
-	<game name="Marquee" index="true" image="'">
-		<year/>
-		<ctrltype>settings</ctrltype>
-		<description>a Marquee</description>
 		<manufacturer>Nostalgic</manufacturer>
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
@@ -17869,29 +17806,11 @@
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
 	</game>
-	<game name="Spin" index="true" image="'">
-		<year/>
-		<ctrltype>settings</ctrltype>
-		<description>a Spin</description>
-		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid></iscoredid>
-		<iscoredtype>descending</iscoredtype>
-		<players>theme</players>
-	</game>
 	<game name="Spin 2" index="true" image="'">
 		<year/>
 		<ctrltype>settings</ctrltype>
 		<description>a Spin 2</description>
 		<manufacturer>Nostalgic</manufacturer>
-		<iscoredid></iscoredid>
-		<iscoredtype>descending</iscoredtype>
-		<players>theme</players>
-	</game>
-	<game name="Wheel" index="true" image="'">
-		<year/>
-		<ctrltype>settings</ctrltype>
-		<description>a Wheel</description>
-		<manufacturer>Fade</manufacturer>
 		<iscoredid></iscoredid>
 		<iscoredtype>descending</iscoredtype>
 		<players>theme</players>
