@@ -1,15 +1,17 @@
-After Burner Climax
-Crazy Taxi
-Gunstar Heroes
-Xenocrisis
-Zero Gunner 2
-OutRun 2006
+Border Down
+Capcom vs SNK 2
+genesis_sor2u
+genesis_shinobi3u
+snes_pockyu
+Under Defeat
 
-genesis_gunstaru
-genesis_xenocris
+Streets Of Rage II
+Shinobi III
+Pocky Rocky I
 
-_Genesis:Gunstar Heroes
-_Genesis:Xenocrisis
-_Dreamcast:Crazy Taxi
-_Dreamcast:Zero Gunner 2
-_Playstation 3:After Burner Climax
+_Genesis:Streets Of Rage II
+_Genesis:Shinobi III
+_Dreamcast:Border Down
+_Dreamcast:Capcom vs SNK 2
+_Dreamcast:Under Defeat
+_Super Nintendo:Pocky Rocky I
