@@ -1,5 +1,4 @@
 Border Down
-Capcom vs SNK 2
 genesis_sor2u
 genesis_shinobi3u
 snes_pockyu
@@ -12,6 +11,5 @@ Pocky Rocky I
 _Genesis:Streets Of Rage II
 _Genesis:Shinobi III
 _Dreamcast:Border Down
-_Dreamcast:Capcom vs SNK 2
 _Dreamcast:Under Defeat
 _Super Nintendo:Pocky Rocky I
